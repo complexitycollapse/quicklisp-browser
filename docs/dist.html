@@ -1,0 +1,25 @@
+---
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Dist</title>
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>System Name</th>
+        <th>Details</th>
+      </tr>
+      {% for system in site.systems %}
+        <tr>
+          <td>{{ system.name }}</td>
+          <td>{{ system.details }}</td>
+        </tr>
+      {% endfor %}
+      </table>  
+  </body>
+</html>
