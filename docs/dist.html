@@ -14,12 +14,13 @@
         <th>System Name</th>
         <th>Details</th>
       </tr>
-      {% for system in site.systems %}
+      {% for system_hash in site.data.systems %}
+      {% assign system = system_hash[1] %}
         <tr>
           <td>{{ system.name }}</td>
           <td>{{ system.details }}</td>
         </tr>
       {% endfor %}
-      </table>  
+    </table>
   </body>
 </html>
