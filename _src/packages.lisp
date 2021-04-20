@@ -1,7 +1,7 @@
 ;;;; package.lisp
 
 (defpackage #:ql-browser
-  (:use #:cl))
+  (:use #:cl #:drakma))
 
 (defpackage #:ql-browser-tests
-  (:use #:cl #:0am))
+  (:use #:cl #:ql-browser #:0am))
