@@ -11,14 +11,14 @@
   <body>
     <table>
       <tr>
-        <th>System Name</th>
-        <th>Details</th>
+        <th>Project Name</th>
+        <th>Url</th>
       </tr>
-      {% for system_hash in site.data.systems %}
-      {% assign system = system_hash[1] %}
+      {% for release_hash in site.data.releases %}
+      {% assign release = release_hash[1] %}
         <tr>
-          <td>{{ system.name }}</td>
-          <td>{{ system.details }}</td>
+          <td>{{ release.name }}</td>
+          <td>{{ release.url }}</td>
         </tr>
       {% endfor %}
     </table>
