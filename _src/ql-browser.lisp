@@ -15,10 +15,12 @@
   (subdir "_src" "downloads" dist))
 
 (defun projects-directory ()
-  (subdir "_data" "releases"))
+  (subdir "docs" "_data" "releases"))
 
-(defun create-directories (dist)
-  (ensure-directories-exist (subdir (download-directory dist) "releases")))
+(defun prepare-directories (dist)
+  (cl-fad:delete-directory-and-files (subdir "docs" "_data" "releases") :if-does-not-exist :ignore)
+  (ensure-directories-exist (subdir (download-directory dist) "releases"))
+  (ensure-directories-exist (projects-directory)))
 
 (defun save-page (url pathname)
   (multiple-value-bind (page code) (drakma:http-request url)
@@ -53,13 +55,26 @@
 
 (defun write-release-json (release directory)
   (let ((name (cdr (assoc :name release))))
-    (with-open-file (f (merge-pathnames (format nil "~A.json" name) directory) :direction :output)
+    (with-open-file (f (merge-pathnames (format nil "~A.json" name) directory)
+		       :direction :output :if-does-not-exist :create :if-exists :supersede)
       (yason:with-output (f :indent T)
 	(yason:with-object ()
 	  (dolist (x release)
-	    (yason:encode-object-element (string-downcase (symbol-name (car x))) (cdr x)))))
+	    (yason:encode-object-element (string-downcase (symbol-name (car x))) (cdr x)))
+	  (yason:encode-object-element "repository" (second (get-repo name)))))
       (fresh-line f))))
 
 (defun write-all-release-json (releases)
-  (let ((release-dir (subdir "docs" "_data" "releases")))
+  (let ((release-dir (projects-directory)))
     (dolist (r releases) (write-release-json r release-dir))))
+
+(defun get-repo (release)
+  (with-open-file (s (merge-pathnames "source.txt" (subdir "quicklisp-projects" "projects" release)))
+    (cl-utilities:split-sequence #\space (read-line s))))
+
+(defun generate (releases-page)
+  (write-all-release-json (process-releases releases-page)))
+
+(defun do-whole-dist (dist)
+  (prepare-directories dist)
+  (generate (download-dist-details dist)))

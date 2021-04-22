@@ -6,6 +6,6 @@
   :license  ""
   :version "0.0.1"
   :serial t
-  :depends-on (:drakma :yason :cl-utilities)
+  :depends-on (:drakma :yason :cl-utilities :cl-fad)
   :components ((:file "packages")
                (:file "ql-browser")))
