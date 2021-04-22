@@ -1,4 +1,5 @@
 {
   "name":"hdf5-cffi",
-  "url":"http://beta.quicklisp.org/archive/hdf5-cffi/2018-02-28/hdf5-cffi-20180228-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/hdf5-cffi/2018-02-28/hdf5-cffi-20180228-git.tgz",
+  "repository":"https://github.com/HDFGroup/hdf5-cffi.git"
 }

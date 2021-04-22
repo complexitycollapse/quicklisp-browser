@@ -1,4 +1,5 @@
 {
   "name":"sequence-iterators",
-  "url":"http://beta.quicklisp.org/archive/sequence-iterators/2013-08-13/sequence-iterators-20130813-darcs.tgz"
+  "url":"http://beta.quicklisp.org/archive/sequence-iterators/2013-08-13/sequence-iterators-20130813-darcs.tgz",
+  "repository":"https://gitlab.common-lisp.net/sequence-iterators/sequence-iterators.git"
 }

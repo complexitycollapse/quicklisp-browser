@@ -1,4 +1,5 @@
 {
   "name":"cl-base64",
-  "url":"http://beta.quicklisp.org/archive/cl-base64/2020-10-16/cl-base64-20201016-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-base64/2020-10-16/cl-base64-20201016-git.tgz",
+  "repository":"cl-base64"
 }

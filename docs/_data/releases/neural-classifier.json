@@ -1,4 +1,5 @@
 {
   "name":"neural-classifier",
-  "url":"http://beta.quicklisp.org/archive/neural-classifier/2021-04-11/neural-classifier-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/neural-classifier/2021-04-11/neural-classifier-20210411-git.tgz",
+  "repository":"https://github.com/shamazmazum/neural-classifier.git"
 }

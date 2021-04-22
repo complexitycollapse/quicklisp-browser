@@ -1,4 +1,5 @@
 {
   "name":"image",
-  "url":"http://beta.quicklisp.org/archive/image/2012-01-07/image-20120107-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/image/2012-01-07/image-20120107-git.tgz",
+  "repository":"https://github.com/kevinlynx/image.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"zpb-exif",
-  "url":"http://beta.quicklisp.org/archive/zpb-exif/2021-01-24/zpb-exif-release-1.2.5.tgz"
+  "url":"http://beta.quicklisp.org/archive/zpb-exif/2021-01-24/zpb-exif-release-1.2.5.tgz",
+  "repository":"https://github.com/xach/zpb-exif.git"
 }

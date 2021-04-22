@@ -1,4 +1,5 @@
 {
   "name":"cl-m4",
-  "url":"http://beta.quicklisp.org/archive/cl-m4/2013-03-12/cl-m4-20130312-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-m4/2013-03-12/cl-m4-20130312-git.tgz",
+  "repository":"https://github.com/e-user/cl-m4.git"
 }

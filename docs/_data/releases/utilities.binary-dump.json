@@ -1,4 +1,5 @@
 {
   "name":"utilities.binary-dump",
-  "url":"http://beta.quicklisp.org/archive/utilities.binary-dump/2018-12-10/utilities.binary-dump-20181210-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/utilities.binary-dump/2018-12-10/utilities.binary-dump-20181210-git.tgz",
+  "repository":"https://github.com/scymtym/utilities.binary-dump.git"
 }

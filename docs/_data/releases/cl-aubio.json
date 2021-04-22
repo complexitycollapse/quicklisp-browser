@@ -1,4 +1,5 @@
 {
   "name":"cl-aubio",
-  "url":"http://beta.quicklisp.org/archive/cl-aubio/2020-04-27/cl-aubio-20200427-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-aubio/2020-04-27/cl-aubio-20200427-git.tgz",
+  "repository":"https://github.com/Lautaro-Garcia/cl-aubio.git"
 }

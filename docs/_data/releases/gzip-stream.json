@@ -1,4 +1,5 @@
 {
   "name":"gzip-stream",
-  "url":"http://beta.quicklisp.org/archive/gzip-stream/2010-10-06/gzip-stream_0.2.8.tgz"
+  "url":"http://beta.quicklisp.org/archive/gzip-stream/2010-10-06/gzip-stream_0.2.8.tgz",
+  "repository":"https://common-lisp.net/project/gzip-stream/files/gzip-stream_latest.tgz"
 }

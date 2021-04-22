@@ -1,4 +1,5 @@
 {
   "name":"lhstats",
-  "url":"http://beta.quicklisp.org/archive/lhstats/2012-01-07/lhstats-20120107-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/lhstats/2012-01-07/lhstats-20120107-git.tgz",
+  "repository":"https://github.com/mrc/lhstats.git"
 }

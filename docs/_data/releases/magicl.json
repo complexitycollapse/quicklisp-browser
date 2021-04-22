@@ -1,4 +1,5 @@
 {
   "name":"magicl",
-  "url":"http://beta.quicklisp.org/archive/magicl/2021-04-11/magicl-v0.9.1.tgz"
+  "url":"http://beta.quicklisp.org/archive/magicl/2021-04-11/magicl-v0.9.1.tgz",
+  "repository":"https://github.com/rigetti/magicl.git"
 }

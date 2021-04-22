@@ -1,4 +1,5 @@
 {
   "name":"cl-stopwatch",
-  "url":"http://beta.quicklisp.org/archive/cl-stopwatch/2019-03-07/cl-stopwatch-20190307-hg.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-stopwatch/2019-03-07/cl-stopwatch-20190307-hg.tgz",
+  "repository":"https://bitbucket.org/tarballs_are_good/cl-stopwatch"
 }

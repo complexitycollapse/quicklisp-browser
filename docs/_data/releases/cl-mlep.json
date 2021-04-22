@@ -1,4 +1,5 @@
 {
   "name":"cl-mlep",
-  "url":"http://beta.quicklisp.org/archive/cl-mlep/2018-04-30/cl-mlep-20180430-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-mlep/2018-04-30/cl-mlep-20180430-git.tgz",
+  "repository":"https://github.com/fzalkow/cl-mlep.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"cepl",
-  "url":"http://beta.quicklisp.org/archive/cepl/2021-02-28/cepl-release-quicklisp-d1a10b6c-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cepl/2021-02-28/cepl-release-quicklisp-d1a10b6c-git.tgz",
+  "repository":"https://github.com/cbaggers/cepl.git"
 }

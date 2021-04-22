@@ -1,4 +1,5 @@
 {
   "name":"clavatar",
-  "url":"http://beta.quicklisp.org/archive/clavatar/2012-10-13/clavatar-20121013-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/clavatar/2012-10-13/clavatar-20121013-git.tgz",
+  "repository":"https://github.com/pinterface/clavatar.git"
 }

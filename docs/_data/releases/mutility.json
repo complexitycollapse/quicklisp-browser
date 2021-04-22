@@ -1,4 +1,5 @@
 {
   "name":"mutility",
-  "url":"http://beta.quicklisp.org/archive/mutility/2021-04-11/mutility-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/mutility/2021-04-11/mutility-20210411-git.tgz",
+  "repository":"https://github.com/defaultxr/mutility.git"
 }

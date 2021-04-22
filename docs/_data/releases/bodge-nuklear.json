@@ -1,4 +1,5 @@
 {
   "name":"bodge-nuklear",
-  "url":"http://beta.quicklisp.org/archive/bodge-nuklear/2020-10-16/bodge-nuklear-stable-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/bodge-nuklear/2020-10-16/bodge-nuklear-stable-git.tgz",
+  "repository":"https://github.com/borodust/bodge-nuklear.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"marshal",
-  "url":"http://beta.quicklisp.org/archive/marshal/2013-07-20/marshal-20130720-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/marshal/2013-07-20/marshal-20130720-git.tgz",
+  "repository":"https://github.com/kaiserprogrammer/marshal.git"
 }

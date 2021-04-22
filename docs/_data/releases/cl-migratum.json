@@ -1,4 +1,5 @@
 {
   "name":"cl-migratum",
-  "url":"http://beta.quicklisp.org/archive/cl-migratum/2020-09-25/cl-migratum-20200925-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-migratum/2020-09-25/cl-migratum-20200925-git.tgz",
+  "repository":"https://github.com/dnaeon/cl-migratum.git"
 }

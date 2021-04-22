@@ -1,4 +1,5 @@
 {
   "name":"introspect-environment",
-  "url":"http://beta.quicklisp.org/archive/introspect-environment/2020-07-15/introspect-environment-20200715-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/introspect-environment/2020-07-15/introspect-environment-20200715-git.tgz",
+  "repository":"https://github.com/Bike/introspect-environment.git"
 }

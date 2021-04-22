@@ -1,4 +1,5 @@
 {
   "name":"chameleon",
-  "url":"http://beta.quicklisp.org/archive/chameleon/2019-11-30/chameleon-v1.1.0.tgz"
+  "url":"http://beta.quicklisp.org/archive/chameleon/2019-11-30/chameleon-v1.1.0.tgz",
+  "repository":"https://github.com/sheepduke/chameleon.git"
 }

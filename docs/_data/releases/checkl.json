@@ -1,4 +1,5 @@
 {
   "name":"checkl",
-  "url":"http://beta.quicklisp.org/archive/checkl/2018-03-28/checkl-20180328-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/checkl/2018-03-28/checkl-20180328-git.tgz",
+  "repository":"https://github.com/rpav/CheckL.git"
 }

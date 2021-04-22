@@ -1,4 +1,5 @@
 {
   "name":"snmp",
-  "url":"http://beta.quicklisp.org/archive/snmp/2016-10-31/snmp-6.1.tgz"
+  "url":"http://beta.quicklisp.org/archive/snmp/2016-10-31/snmp-6.1.tgz",
+  "repository":"https://common-lisp.net/project/cl-net-snmp/release/snmp_latest.tar.gz"
 }

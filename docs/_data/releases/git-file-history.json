@@ -1,4 +1,5 @@
 {
   "name":"git-file-history",
-  "url":"http://beta.quicklisp.org/archive/git-file-history/2016-08-25/git-file-history-20160825-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/git-file-history/2016-08-25/git-file-history-20160825-git.tgz",
+  "repository":"https://github.com/eudoxia0/git-file-history.git"
 }

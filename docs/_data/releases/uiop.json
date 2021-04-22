@@ -1,4 +1,5 @@
 {
   "name":"uiop",
-  "url":"http://beta.quicklisp.org/archive/uiop/2020-02-18/uiop-3.3.4.tgz"
+  "url":"http://beta.quicklisp.org/archive/uiop/2020-02-18/uiop-3.3.4.tgz",
+  "repository":"https://common-lisp.net/project/asdf/archives/uiop.tar.gz"
 }

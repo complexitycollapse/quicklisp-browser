@@ -1,4 +1,5 @@
 {
   "name":"hu.dwim.stefil",
-  "url":"http://beta.quicklisp.org/archive/hu.dwim.stefil/2020-02-18/hu.dwim.stefil-20200218-darcs.tgz"
+  "url":"http://beta.quicklisp.org/archive/hu.dwim.stefil/2020-02-18/hu.dwim.stefil-20200218-darcs.tgz",
+  "repository":"https://github.com/hu-dwim/hu.dwim.stefil.git"
 }

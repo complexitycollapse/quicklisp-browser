@@ -1,4 +1,5 @@
 {
   "name":"wu-decimal",
-  "url":"http://beta.quicklisp.org/archive/wu-decimal/2013-01-28/wu-decimal-20130128-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/wu-decimal/2013-01-28/wu-decimal-20130128-git.tgz",
+  "repository":"http://wukix.com/dist/wu-decimal.git"
 }

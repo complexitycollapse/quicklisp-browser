@@ -1,4 +1,5 @@
 {
   "name":"string-case",
-  "url":"http://beta.quicklisp.org/archive/string-case/2018-07-11/string-case-20180711-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/string-case/2018-07-11/string-case-20180711-git.tgz",
+  "repository":"https://github.com/pkhuong/string-case.git"
 }

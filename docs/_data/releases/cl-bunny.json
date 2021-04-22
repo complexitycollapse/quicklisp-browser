@@ -1,4 +1,5 @@
 {
   "name":"cl-bunny",
-  "url":"http://beta.quicklisp.org/archive/cl-bunny/2020-12-20/cl-bunny-0.4.6.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-bunny/2020-12-20/cl-bunny-0.4.6.tgz",
+  "repository":"https://github.com/cl-rabbit/cl-bunny.git"
 }

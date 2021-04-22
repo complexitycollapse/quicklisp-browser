@@ -1,4 +1,5 @@
 {
   "name":"lionchat",
-  "url":"http://beta.quicklisp.org/archive/lionchat/2019-07-10/lionchat-20190710-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/lionchat/2019-07-10/lionchat-20190710-git.tgz",
+  "repository":"https://github.com/Shirakumo/lionchat.git"
 }

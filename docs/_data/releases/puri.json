@@ -1,4 +1,5 @@
 {
   "name":"puri",
-  "url":"http://beta.quicklisp.org/archive/puri/2020-10-16/puri-20201016-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/puri/2020-10-16/puri-20201016-git.tgz",
+  "repository":"puri"
 }

@@ -1,4 +1,5 @@
 {
   "name":"ffa",
-  "url":"http://beta.quicklisp.org/archive/ffa/2010-10-06/ffa-20101006-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/ffa/2010-10-06/ffa-20101006-git.tgz",
+  "repository":"https://github.com/tpapp/ffa.git"
 }

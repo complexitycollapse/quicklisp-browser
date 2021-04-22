@@ -1,4 +1,5 @@
 {
   "name":"atdoc",
-  "url":"http://beta.quicklisp.org/archive/atdoc/2012-03-05/atdoc-20120305-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/atdoc/2012-03-05/atdoc-20120305-git.tgz",
+  "repository":"http://www.lichteblau.com/git/atdoc.git"
 }

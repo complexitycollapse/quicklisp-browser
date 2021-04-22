@@ -1,4 +1,5 @@
 {
   "name":"drakma",
-  "url":"http://beta.quicklisp.org/archive/drakma/2019-11-30/drakma-v2.0.7.tgz"
+  "url":"http://beta.quicklisp.org/archive/drakma/2019-11-30/drakma-v2.0.7.tgz",
+  "repository":"https://github.com/edicl/drakma.git"
 }

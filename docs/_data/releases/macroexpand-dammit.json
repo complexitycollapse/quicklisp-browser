@@ -1,4 +1,5 @@
 {
   "name":"macroexpand-dammit",
-  "url":"http://beta.quicklisp.org/archive/macroexpand-dammit/2013-11-11/macroexpand-dammit-20131111-http.tgz"
+  "url":"http://beta.quicklisp.org/archive/macroexpand-dammit/2013-11-11/macroexpand-dammit-20131111-http.tgz",
+  "repository":"http://john.freml.in/static-blog/macroexpand-dammit/macroexpand-dammit.lisp"
 }

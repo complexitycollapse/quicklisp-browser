@@ -1,4 +1,5 @@
 {
   "name":"cepl.camera",
-  "url":"http://beta.quicklisp.org/archive/cepl.camera/2018-02-28/cepl.camera-release-quicklisp-1292212a-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cepl.camera/2018-02-28/cepl.camera-release-quicklisp-1292212a-git.tgz",
+  "repository":"https://github.com/cbaggers/cepl.camera.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"cl-monitors",
-  "url":"http://beta.quicklisp.org/archive/cl-monitors/2019-07-10/cl-monitors-20190710-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-monitors/2019-07-10/cl-monitors-20190710-git.tgz",
+  "repository":"https://github.com/Shirakumo/cl-monitors.git"
 }

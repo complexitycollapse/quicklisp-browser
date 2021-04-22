@@ -1,4 +1,5 @@
 {
   "name":"midi",
-  "url":"http://beta.quicklisp.org/archive/midi/2010-10-06/midi-20070618.tgz"
+  "url":"http://beta.quicklisp.org/archive/midi/2010-10-06/midi-20070618.tgz",
+  "repository":"http://www.doc.gold.ac.uk/isms/lisp/midi/midi-20070618.tar.gz"
 }

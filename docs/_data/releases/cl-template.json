@@ -1,4 +1,5 @@
 {
   "name":"cl-template",
-  "url":"http://beta.quicklisp.org/archive/cl-template/2013-06-15/cl-template-20130615-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-template/2013-06-15/cl-template-20130615-git.tgz",
+  "repository":"https://github.com/alpha123/cl-template.git"
 }

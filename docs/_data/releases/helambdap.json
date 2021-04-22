@@ -1,4 +1,5 @@
 {
   "name":"helambdap",
-  "url":"http://beta.quicklisp.org/archive/helambdap/2021-04-11/helambdap-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/helambdap/2021-04-11/helambdap-20210411-git.tgz",
+  "repository":"git://git.code.sf.net/p/helambdap/code"
 }

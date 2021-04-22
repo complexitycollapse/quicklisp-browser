@@ -1,4 +1,5 @@
 {
   "name":"cl-libsvm-format",
-  "url":"http://beta.quicklisp.org/archive/cl-libsvm-format/2018-07-11/cl-libsvm-format-20180711-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-libsvm-format/2018-07-11/cl-libsvm-format-20180711-git.tgz",
+  "repository":"https://github.com/masatoi/cl-libsvm-format.git"
 }

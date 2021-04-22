@@ -1,4 +1,5 @@
 {
   "name":"hl7-client",
-  "url":"http://beta.quicklisp.org/archive/hl7-client/2015-04-07/hl7-client-20150407-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/hl7-client/2015-04-07/hl7-client-20150407-git.tgz",
+  "repository":"https://github.com/MartinEnders/hl7-client.git"
 }

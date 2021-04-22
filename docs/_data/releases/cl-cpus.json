@@ -1,4 +1,5 @@
 {
   "name":"cl-cpus",
-  "url":"http://beta.quicklisp.org/archive/cl-cpus/2018-04-30/cl-cpus-20180430-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-cpus/2018-04-30/cl-cpus-20180430-git.tgz",
+  "repository":"https://github.com/muyinliu/cl-cpus.git"
 }

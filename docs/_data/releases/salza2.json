@@ -1,4 +1,5 @@
 {
   "name":"salza2",
-  "url":"http://beta.quicklisp.org/archive/salza2/2013-07-20/salza2-2.0.9.tgz"
+  "url":"http://beta.quicklisp.org/archive/salza2/2013-07-20/salza2-2.0.9.tgz",
+  "repository":"https://www.xach.com/lisp/salza2.tgz"
 }

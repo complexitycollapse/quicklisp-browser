@@ -1,4 +1,5 @@
 {
   "name":"cl-rabbit",
-  "url":"http://beta.quicklisp.org/archive/cl-rabbit/2021-04-11/cl-rabbit-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-rabbit/2021-04-11/cl-rabbit-20210411-git.tgz",
+  "repository":"https://github.com/lokedhs/cl-rabbit.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"grovel-locally",
-  "url":"http://beta.quicklisp.org/archive/grovel-locally/2018-02-28/grovel-locally-20180228-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/grovel-locally/2018-02-28/grovel-locally-20180228-git.tgz",
+  "repository":"https://github.com/cbaggers/grovel-locally.git"
 }

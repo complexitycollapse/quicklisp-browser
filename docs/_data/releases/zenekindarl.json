@@ -1,4 +1,5 @@
 {
   "name":"zenekindarl",
-  "url":"http://beta.quicklisp.org/archive/zenekindarl/2017-11-30/zenekindarl-20171130-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/zenekindarl/2017-11-30/zenekindarl-20171130-git.tgz",
+  "repository":"https://github.com/KeenS/zenekindarl.git"
 }

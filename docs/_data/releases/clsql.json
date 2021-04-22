@@ -1,4 +1,5 @@
 {
   "name":"clsql",
-  "url":"http://beta.quicklisp.org/archive/clsql/2021-02-28/clsql-20210228-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/clsql/2021-02-28/clsql-20210228-git.tgz",
+  "repository":"clsql"
 }

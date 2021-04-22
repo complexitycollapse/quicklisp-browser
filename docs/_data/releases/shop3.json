@@ -1,4 +1,5 @@
 {
   "name":"shop3",
-  "url":"http://beta.quicklisp.org/archive/shop3/2021-04-11/shop3-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/shop3/2021-04-11/shop3-20210411-git.tgz",
+  "repository":"https://github.com/shop-planner/shop3.git"
 }

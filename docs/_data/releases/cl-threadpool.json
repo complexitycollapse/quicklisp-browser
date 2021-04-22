@@ -1,4 +1,5 @@
 {
   "name":"cl-threadpool",
-  "url":"http://beta.quicklisp.org/archive/cl-threadpool/2021-02-28/cl-threadpool-quickload-current-release-86ef8a6b-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-threadpool/2021-02-28/cl-threadpool-quickload-current-release-86ef8a6b-git.tgz",
+  "repository":"https://github.com/Frechmatz/cl-threadpool.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"cl-patterns",
-  "url":"http://beta.quicklisp.org/archive/cl-patterns/2021-04-11/cl-patterns-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-patterns/2021-04-11/cl-patterns-20210411-git.tgz",
+  "repository":"https://github.com/defaultxr/cl-patterns.git"
 }

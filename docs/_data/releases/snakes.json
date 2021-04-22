@@ -1,4 +1,5 @@
 {
   "name":"snakes",
-  "url":"http://beta.quicklisp.org/archive/snakes/2018-12-10/snakes-20181210-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/snakes/2018-12-10/snakes-20181210-git.tgz",
+  "repository":"https://github.com/BnMcGn/snakes.git"
 }

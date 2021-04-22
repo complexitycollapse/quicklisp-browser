@@ -1,4 +1,5 @@
 {
   "name":"periodic-table",
-  "url":"http://beta.quicklisp.org/archive/periodic-table/2011-10-01/periodic-table-1.0.tgz"
+  "url":"http://beta.quicklisp.org/archive/periodic-table/2011-10-01/periodic-table-1.0.tgz",
+  "repository":"https://common-lisp.net/project/chemboy/periodic-table-latest.tar.gz"
 }

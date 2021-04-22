@@ -1,4 +1,5 @@
 {
   "name":"sel",
-  "url":"http://beta.quicklisp.org/archive/sel/2021-04-11/sel-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/sel/2021-04-11/sel-20210411-git.tgz",
+  "repository":"https://github.com/GrammaTech/sel.git"
 }

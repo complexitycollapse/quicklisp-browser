@@ -1,4 +1,5 @@
 {
   "name":"bodge-glfw",
-  "url":"http://beta.quicklisp.org/archive/bodge-glfw/2020-10-16/bodge-glfw-stable-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/bodge-glfw/2020-10-16/bodge-glfw-stable-git.tgz",
+  "repository":"https://github.com/borodust/bodge-glfw.git"
 }

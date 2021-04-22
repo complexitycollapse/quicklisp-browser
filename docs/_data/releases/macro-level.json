@@ -1,4 +1,5 @@
 {
   "name":"macro-level",
-  "url":"http://beta.quicklisp.org/archive/macro-level/2012-10-13/macro-level-1.0.1.tgz"
+  "url":"http://beta.quicklisp.org/archive/macro-level/2012-10-13/macro-level-1.0.1.tgz",
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/macro-level_latest.tar.gz"
 }

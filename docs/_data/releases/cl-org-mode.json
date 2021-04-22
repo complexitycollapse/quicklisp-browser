@@ -1,4 +1,5 @@
 {
   "name":"cl-org-mode",
-  "url":"http://beta.quicklisp.org/archive/cl-org-mode/2010-12-07/cl-org-mode-20101207-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-org-mode/2010-12-07/cl-org-mode-20101207-git.tgz",
+  "repository":"https://gitlab.common-lisp.net/cl-org-mode/cl-org-mode.git"
 }

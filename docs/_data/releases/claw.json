@@ -1,4 +1,5 @@
 {
   "name":"claw",
-  "url":"http://beta.quicklisp.org/archive/claw/2020-10-16/claw-stable-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/claw/2020-10-16/claw-stable-git.tgz",
+  "repository":"https://github.com/borodust/claw.git"
 }

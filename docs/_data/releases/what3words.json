@@ -1,4 +1,5 @@
 {
   "name":"what3words",
-  "url":"http://beta.quicklisp.org/archive/what3words/2016-12-04/what3words-20161204-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/what3words/2016-12-04/what3words-20161204-git.tgz",
+  "repository":"https://github.com/MartinEnders/what3words.git"
 }

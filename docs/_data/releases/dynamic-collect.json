@@ -1,4 +1,5 @@
 {
   "name":"dynamic-collect",
-  "url":"http://beta.quicklisp.org/archive/dynamic-collect/2019-03-07/dynamic-collect-20190307-hg.tgz"
+  "url":"http://beta.quicklisp.org/archive/dynamic-collect/2019-03-07/dynamic-collect-20190307-hg.tgz",
+  "repository":"https://bitbucket.org/tarballs_are_good/dynamic-collect"
 }

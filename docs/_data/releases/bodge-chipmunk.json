@@ -1,4 +1,5 @@
 {
   "name":"bodge-chipmunk",
-  "url":"http://beta.quicklisp.org/archive/bodge-chipmunk/2020-10-16/bodge-chipmunk-stable-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/bodge-chipmunk/2020-10-16/bodge-chipmunk-stable-git.tgz",
+  "repository":"https://github.com/borodust/bodge-chipmunk.git"
 }

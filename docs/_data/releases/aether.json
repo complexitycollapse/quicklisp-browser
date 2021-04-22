@@ -1,4 +1,5 @@
 {
   "name":"aether",
-  "url":"http://beta.quicklisp.org/archive/aether/2020-12-20/aether-v1.0.1.tgz"
+  "url":"http://beta.quicklisp.org/archive/aether/2020-12-20/aether-v1.0.1.tgz",
+  "repository":"https://github.com/dtqec/aether.git"
 }

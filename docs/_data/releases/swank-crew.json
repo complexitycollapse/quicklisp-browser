@@ -1,4 +1,5 @@
 {
   "name":"swank-crew",
-  "url":"http://beta.quicklisp.org/archive/swank-crew/2020-06-10/swank-crew-20200610-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/swank-crew/2020-06-10/swank-crew-20200610-git.tgz",
+  "repository":"https://github.com/brown/swank-crew.git"
 }

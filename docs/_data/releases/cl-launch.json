@@ -1,4 +1,5 @@
 {
   "name":"cl-launch",
-  "url":"http://beta.quicklisp.org/archive/cl-launch/2015-10-31/cl-launch-4.1.4.1.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-launch/2015-10-31/cl-launch-4.1.4.1.tgz",
+  "repository":"https://common-lisp.net/project/xcvb/cl-launch/cl-launch.tar.gz"
 }

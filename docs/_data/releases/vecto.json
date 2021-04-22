@@ -1,4 +1,5 @@
 {
   "name":"vecto",
-  "url":"http://beta.quicklisp.org/archive/vecto/2017-12-27/vecto-1.5.tgz"
+  "url":"http://beta.quicklisp.org/archive/vecto/2017-12-27/vecto-1.5.tgz",
+  "repository":"https://www.xach.com/lisp/vecto.tgz"
 }

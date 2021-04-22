@@ -1,4 +1,5 @@
 {
   "name":"vectors",
-  "url":"http://beta.quicklisp.org/archive/vectors/2017-12-27/vectors-20171227-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/vectors/2017-12-27/vectors-20171227-git.tgz",
+  "repository":"https://gitlab.com/porky11/vectors.git"
 }

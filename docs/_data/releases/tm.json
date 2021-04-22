@@ -1,4 +1,5 @@
 {
   "name":"tm",
-  "url":"http://beta.quicklisp.org/archive/tm/2018-02-28/tm-v0.8.tgz"
+  "url":"http://beta.quicklisp.org/archive/tm/2018-02-28/tm-v0.8.tgz",
+  "repository":"https://github.com/Antigonus/tm.git"
 }

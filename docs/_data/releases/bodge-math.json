@@ -1,4 +1,5 @@
 {
   "name":"bodge-math",
-  "url":"http://beta.quicklisp.org/archive/bodge-math/2020-10-16/bodge-math-stable-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/bodge-math/2020-10-16/bodge-math-stable-git.tgz",
+  "repository":"https://github.com/borodust/bodge-math.git"
 }

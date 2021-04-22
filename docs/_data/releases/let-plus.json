@@ -1,4 +1,5 @@
 {
   "name":"let-plus",
-  "url":"http://beta.quicklisp.org/archive/let-plus/2019-11-30/let-plus-20191130-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/let-plus/2019-11-30/let-plus-20191130-git.tgz",
+  "repository":"https://github.com/sharplispers/let-plus.git"
 }

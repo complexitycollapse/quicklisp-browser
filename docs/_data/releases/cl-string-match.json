@@ -1,4 +1,5 @@
 {
   "name":"cl-string-match",
-  "url":"http://beta.quicklisp.org/archive/cl-string-match/2019-03-07/cl-string-match-20190307-hg.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-string-match/2019-03-07/cl-string-match-20190307-hg.tgz",
+  "repository":"https://bitbucket.org/vityok/cl-string-match"
 }

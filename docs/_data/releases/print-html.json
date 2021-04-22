@@ -1,4 +1,5 @@
 {
   "name":"print-html",
-  "url":"http://beta.quicklisp.org/archive/print-html/2018-10-18/print-html-20181018-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/print-html/2018-10-18/print-html-20181018-git.tgz",
+  "repository":"https://github.com/oruppert/print-html.git"
 }

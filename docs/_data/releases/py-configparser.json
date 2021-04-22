@@ -1,4 +1,5 @@
 {
   "name":"py-configparser",
-  "url":"http://beta.quicklisp.org/archive/py-configparser/2017-08-30/py-configparser-20170830-svn.tgz"
+  "url":"http://beta.quicklisp.org/archive/py-configparser/2017-08-30/py-configparser-20170830-svn.tgz",
+  "repository":"https://svn.common-lisp.net/py-configparser/trunk"
 }

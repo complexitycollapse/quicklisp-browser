@@ -1,4 +1,5 @@
 {
   "name":"eventbus",
-  "url":"http://beta.quicklisp.org/archive/eventbus/2019-12-27/eventbus-20191227-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/eventbus/2019-12-27/eventbus-20191227-git.tgz",
+  "repository":"https://github.com/noloop/eventbus.git"
 }

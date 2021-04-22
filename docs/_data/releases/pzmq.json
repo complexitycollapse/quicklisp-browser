@@ -1,4 +1,5 @@
 {
   "name":"pzmq",
-  "url":"http://beta.quicklisp.org/archive/pzmq/2020-06-10/pzmq-20200610-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/pzmq/2020-06-10/pzmq-20200610-git.tgz",
+  "repository":"https://github.com/orivej/pzmq.git"
 }

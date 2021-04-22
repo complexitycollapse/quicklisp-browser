@@ -1,4 +1,5 @@
 {
   "name":"series",
-  "url":"http://beta.quicklisp.org/archive/series/2013-11-11/series-20131111-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/series/2013-11-11/series-20131111-git.tgz",
+  "repository":"git://git.code.sf.net/p/series/series"
 }

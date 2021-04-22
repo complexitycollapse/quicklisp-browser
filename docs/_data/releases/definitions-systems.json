@@ -1,4 +1,5 @@
 {
   "name":"definitions-systems",
-  "url":"http://beta.quicklisp.org/archive/definitions-systems/2021-04-11/definitions-systems_2.0.1.tgz"
+  "url":"http://beta.quicklisp.org/archive/definitions-systems/2021-04-11/definitions-systems_2.0.1.tgz",
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/definitions-systems_latest.tar.gz"
 }

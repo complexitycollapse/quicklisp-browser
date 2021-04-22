@@ -1,4 +1,5 @@
 {
   "name":"nodgui",
-  "url":"http://beta.quicklisp.org/archive/nodgui/2021-04-11/nodgui-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/nodgui/2021-04-11/nodgui-20210411-git.tgz",
+  "repository":"https://notabug.org/cage/nodgui.git"
 }

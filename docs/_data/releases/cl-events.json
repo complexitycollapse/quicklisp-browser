@@ -1,4 +1,5 @@
 {
   "name":"cl-events",
-  "url":"http://beta.quicklisp.org/archive/cl-events/2016-03-18/cl-events-20160318-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-events/2016-03-18/cl-events-20160318-git.tgz",
+  "repository":"https://github.com/deadtrickster/cl-events.git"
 }

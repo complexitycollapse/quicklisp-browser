@@ -1,4 +1,5 @@
 {
   "name":"zlib",
-  "url":"http://beta.quicklisp.org/archive/zlib/2017-04-03/zlib-20170403-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/zlib/2017-04-03/zlib-20170403-git.tgz",
+  "repository":"https://github.com/sharplispers/zlib.git"
 }

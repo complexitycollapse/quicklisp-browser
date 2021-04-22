@@ -1,4 +1,5 @@
 {
   "name":"cells",
-  "url":"http://beta.quicklisp.org/archive/cells/2018-03-28/cells-20180328-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cells/2018-03-28/cells-20180328-git.tgz",
+  "repository":"https://github.com/kennytilton/cells.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"skippy",
-  "url":"http://beta.quicklisp.org/archive/skippy/2015-04-07/skippy-1.3.12.tgz"
+  "url":"http://beta.quicklisp.org/archive/skippy/2015-04-07/skippy-1.3.12.tgz",
+  "repository":"https://www.xach.com/lisp/skippy.tgz"
 }

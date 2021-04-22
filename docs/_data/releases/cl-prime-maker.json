@@ -1,4 +1,5 @@
 {
   "name":"cl-prime-maker",
-  "url":"http://beta.quicklisp.org/archive/cl-prime-maker/2015-03-02/cl-prime-maker-20150302-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-prime-maker/2015-03-02/cl-prime-maker-20150302-git.tgz",
+  "repository":"https://github.com/nakrakiiya/cl-prime-maker.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"hh-redblack",
-  "url":"http://beta.quicklisp.org/archive/hh-redblack/2015-10-31/hh-redblack-20151031-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/hh-redblack/2015-10-31/hh-redblack-20151031-git.tgz",
+  "repository":"https://github.com/hargettp/hh-redblack.git"
 }

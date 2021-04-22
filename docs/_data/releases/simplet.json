@@ -1,4 +1,5 @@
 {
   "name":"simplet",
-  "url":"http://beta.quicklisp.org/archive/simplet/2019-12-27/simplet-20191227-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/simplet/2019-12-27/simplet-20191227-git.tgz",
+  "repository":"https://github.com/noloop/simplet.git"
 }

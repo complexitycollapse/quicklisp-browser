@@ -1,4 +1,5 @@
 {
   "name":"tinaa",
-  "url":"http://beta.quicklisp.org/archive/tinaa/2017-12-27/tinaa-20171227-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/tinaa/2017-12-27/tinaa-20171227-git.tgz",
+  "repository":"https://github.com/gwkkwg/tinaa.git"
 }

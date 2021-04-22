@@ -1,4 +1,5 @@
 {
   "name":"petit.package-utils",
-  "url":"http://beta.quicklisp.org/archive/petit.package-utils/2014-08-26/petit.package-utils-20140826-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/petit.package-utils/2014-08-26/petit.package-utils-20140826-git.tgz",
+  "repository":"https://github.com/ichimal/petit.package-utils.git"
 }

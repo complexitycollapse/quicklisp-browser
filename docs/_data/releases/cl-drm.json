@@ -1,4 +1,5 @@
 {
   "name":"cl-drm",
-  "url":"http://beta.quicklisp.org/archive/cl-drm/2016-12-04/cl-drm-20161204-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-drm/2016-12-04/cl-drm-20161204-git.tgz",
+  "repository":"https://github.com/malcolmstill/cl-drm.git"
 }

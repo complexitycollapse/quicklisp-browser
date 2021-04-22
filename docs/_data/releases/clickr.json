@@ -1,4 +1,5 @@
 {
   "name":"clickr",
-  "url":"http://beta.quicklisp.org/archive/clickr/2014-07-13/clickr-20140713-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/clickr/2014-07-13/clickr-20140713-git.tgz",
+  "repository":"https://github.com/schani/clickr.git"
 }

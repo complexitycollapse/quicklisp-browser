@@ -1,4 +1,5 @@
 {
   "name":"a-cl-logger",
-  "url":"http://beta.quicklisp.org/archive/a-cl-logger/2020-04-27/a-cl-logger-20200427-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/a-cl-logger/2020-04-27/a-cl-logger-20200427-git.tgz",
+  "repository":"https://github.com/AccelerationNet/a-cl-logger.git"
 }

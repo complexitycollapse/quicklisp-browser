@@ -1,4 +1,5 @@
 {
   "name":"cl-fluent-logger",
-  "url":"http://beta.quicklisp.org/archive/cl-fluent-logger/2019-02-02/cl-fluent-logger-20190202-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-fluent-logger/2019-02-02/cl-fluent-logger-20190202-git.tgz",
+  "repository":"https://github.com/fukamachi/cl-fluent-logger.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"sxql-composer",
-  "url":"http://beta.quicklisp.org/archive/sxql-composer/2020-03-25/sxql-composer-20200325-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/sxql-composer/2020-03-25/sxql-composer-20200325-git.tgz",
+  "repository":"https://github.com/mmontone/sxql-composer.git"
 }

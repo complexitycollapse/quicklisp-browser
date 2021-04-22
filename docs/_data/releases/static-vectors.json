@@ -1,4 +1,5 @@
 {
   "name":"static-vectors",
-  "url":"http://beta.quicklisp.org/archive/static-vectors/2020-06-10/static-vectors-v1.8.6.tgz"
+  "url":"http://beta.quicklisp.org/archive/static-vectors/2020-06-10/static-vectors-v1.8.6.tgz",
+  "repository":"https://github.com/sionescu/static-vectors.git"
 }

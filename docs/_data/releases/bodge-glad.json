@@ -1,4 +1,5 @@
 {
   "name":"bodge-glad",
-  "url":"http://beta.quicklisp.org/archive/bodge-glad/2020-10-16/bodge-glad-stable-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/bodge-glad/2020-10-16/bodge-glad-stable-git.tgz",
+  "repository":"https://github.com/borodust/bodge-glad.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"st-json",
-  "url":"http://beta.quicklisp.org/archive/st-json/2020-06-10/st-json-20200610-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/st-json/2020-06-10/st-json-20200610-git.tgz",
+  "repository":"https://github.com/marijnh/ST-JSON.git"
 }

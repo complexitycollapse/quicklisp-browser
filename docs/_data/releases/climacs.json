@@ -1,4 +1,5 @@
 {
   "name":"climacs",
-  "url":"http://beta.quicklisp.org/archive/climacs/2020-09-25/climacs-20200925-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/climacs/2020-09-25/climacs-20200925-git.tgz",
+  "repository":"https://gitlab.common-lisp.net/climacs/climacs.git"
 }

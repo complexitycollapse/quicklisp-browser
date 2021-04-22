@@ -1,4 +1,5 @@
 {
   "name":"cl-rethinkdb",
-  "url":"http://beta.quicklisp.org/archive/cl-rethinkdb/2016-08-25/cl-rethinkdb-20160825-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-rethinkdb/2016-08-25/cl-rethinkdb-20160825-git.tgz",
+  "repository":"https://github.com/orthecreedence/cl-rethinkdb.git"
 }

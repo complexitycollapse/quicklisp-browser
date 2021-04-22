@@ -1,4 +1,5 @@
 {
   "name":"bodge-host",
-  "url":"http://beta.quicklisp.org/archive/bodge-host/2020-10-16/bodge-host-stable-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/bodge-host/2020-10-16/bodge-host-stable-git.tgz",
+  "repository":"https://github.com/borodust/bodge-host.git"
 }

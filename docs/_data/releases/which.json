@@ -1,4 +1,5 @@
 {
   "name":"which",
-  "url":"http://beta.quicklisp.org/archive/which/2016-04-21/which-20160421-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/which/2016-04-21/which-20160421-git.tgz",
+  "repository":"https://github.com/eudoxia0/which.git"
 }

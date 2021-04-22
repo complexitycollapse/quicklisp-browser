@@ -1,4 +1,5 @@
 {
   "name":"chrome-native-messaging",
-  "url":"http://beta.quicklisp.org/archive/chrome-native-messaging/2015-03-02/chrome-native-messaging-20150302-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/chrome-native-messaging/2015-03-02/chrome-native-messaging-20150302-git.tgz",
+  "repository":"https://github.com/Ralt/chrome-native-messaging.git"
 }

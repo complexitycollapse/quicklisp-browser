@@ -1,4 +1,5 @@
 {
   "name":"cl-gap-buffer",
-  "url":"http://beta.quicklisp.org/archive/cl-gap-buffer/2019-03-07/cl-gap-buffer-20190307-hg.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-gap-buffer/2019-03-07/cl-gap-buffer-20190307-hg.tgz",
+  "repository":"https://bitbucket.org/tarballs_are_good/cl-gap-buffer"
 }

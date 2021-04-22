@@ -1,4 +1,5 @@
 {
   "name":"ptester",
-  "url":"http://beta.quicklisp.org/archive/ptester/2016-09-29/ptester-20160929-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/ptester/2016-09-29/ptester-20160929-git.tgz",
+  "repository":"ptester"
 }

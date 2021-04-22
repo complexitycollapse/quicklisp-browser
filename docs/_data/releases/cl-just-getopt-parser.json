@@ -1,4 +1,5 @@
 {
   "name":"cl-just-getopt-parser",
-  "url":"http://beta.quicklisp.org/archive/cl-just-getopt-parser/2019-07-10/cl-just-getopt-parser-20190710-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-just-getopt-parser/2019-07-10/cl-just-getopt-parser-20190710-git.tgz",
+  "repository":"https://github.com/tlikonen/cl-just-getopt-parser.git"
 }

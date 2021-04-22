@@ -1,4 +1,5 @@
 {
   "name":"the-cost-of-nothing",
-  "url":"http://beta.quicklisp.org/archive/the-cost-of-nothing/2019-11-30/the-cost-of-nothing-20191130-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/the-cost-of-nothing/2019-11-30/the-cost-of-nothing-20191130-git.tgz",
+  "repository":"https://github.com/marcoheisig/the-cost-of-nothing.git"
 }

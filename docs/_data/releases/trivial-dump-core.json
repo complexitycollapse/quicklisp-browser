@@ -1,4 +1,5 @@
 {
   "name":"trivial-dump-core",
-  "url":"http://beta.quicklisp.org/archive/trivial-dump-core/2017-02-27/trivial-dump-core-20170227-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/trivial-dump-core/2017-02-27/trivial-dump-core-20170227-git.tgz",
+  "repository":"https://github.com/rolpereira/trivial-dump-core.git"
 }

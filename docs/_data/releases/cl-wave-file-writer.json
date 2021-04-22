@@ -1,4 +1,5 @@
 {
   "name":"cl-wave-file-writer",
-  "url":"http://beta.quicklisp.org/archive/cl-wave-file-writer/2021-01-24/cl-wave-file-writer-quickload-current-release-1964dd7f-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-wave-file-writer/2021-01-24/cl-wave-file-writer-quickload-current-release-1964dd7f-git.tgz",
+  "repository":"https://github.com/Frechmatz/cl-wave-file-writer.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"integral",
-  "url":"http://beta.quicklisp.org/archive/integral/2020-03-25/integral-20200325-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/integral/2020-03-25/integral-20200325-git.tgz",
+  "repository":"https://github.com/fukamachi/integral.git"
 }

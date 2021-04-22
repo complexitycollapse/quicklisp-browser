@@ -1,4 +1,5 @@
 {
   "name":"cl-rss",
-  "url":"http://beta.quicklisp.org/archive/cl-rss/2020-10-16/cl-rss-20201016-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-rss/2020-10-16/cl-rss-20201016-git.tgz",
+  "repository":"cl-rss"
 }

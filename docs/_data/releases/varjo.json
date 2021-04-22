@@ -1,4 +1,5 @@
 {
   "name":"varjo",
-  "url":"http://beta.quicklisp.org/archive/varjo/2021-01-24/varjo-release-quicklisp-92f9c75b-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/varjo/2021-01-24/varjo-release-quicklisp-92f9c75b-git.tgz",
+  "repository":"https://github.com/cbaggers/varjo.git"
 }

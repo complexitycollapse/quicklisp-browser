@@ -1,4 +1,5 @@
 {
   "name":"psychiq",
-  "url":"http://beta.quicklisp.org/archive/psychiq/2020-09-25/psychiq-20200925-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/psychiq/2020-09-25/psychiq-20200925-git.tgz",
+  "repository":"https://github.com/fukamachi/psychiq.git"
 }

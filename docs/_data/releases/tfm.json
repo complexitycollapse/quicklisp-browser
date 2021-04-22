@@ -1,4 +1,5 @@
 {
   "name":"tfm",
-  "url":"http://beta.quicklisp.org/archive/tfm/2021-04-11/tfm-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/tfm/2021-04-11/tfm-20210411-git.tgz",
+  "repository":"https://github.com/didierverna/tfm.git"
 }

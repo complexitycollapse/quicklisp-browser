@@ -1,4 +1,5 @@
 {
   "name":"quantile-estimator.cl",
-  "url":"http://beta.quicklisp.org/archive/quantile-estimator.cl/2016-08-25/quantile-estimator.cl-20160825-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/quantile-estimator.cl/2016-08-25/quantile-estimator.cl-20160825-git.tgz",
+  "repository":"https://github.com/deadtrickster/quantile-estimator.cl.git"
 }

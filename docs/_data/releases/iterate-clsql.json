@@ -1,4 +1,5 @@
 {
   "name":"iterate-clsql",
-  "url":"http://beta.quicklisp.org/archive/iterate-clsql/2013-03-12/iterate-clsql-20130312-http.tgz"
+  "url":"http://beta.quicklisp.org/archive/iterate-clsql/2013-03-12/iterate-clsql-20130312-http.tgz",
+  "repository":"https://common-lisp.net/project/iterate-clsql/releases/iterate-clsql-0.2.tar.gz"
 }

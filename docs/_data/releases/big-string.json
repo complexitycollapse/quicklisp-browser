@@ -1,4 +1,5 @@
 {
   "name":"big-string",
-  "url":"http://beta.quicklisp.org/archive/big-string/2019-03-07/big-string-20190307-hg.tgz"
+  "url":"http://beta.quicklisp.org/archive/big-string/2019-03-07/big-string-20190307-hg.tgz",
+  "repository":"https://bitbucket.org/tarballs_are_good/big-string"
 }

@@ -1,4 +1,5 @@
 {
   "name":"fred",
-  "url":"http://beta.quicklisp.org/archive/fred/2015-09-23/fred-20150923-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/fred/2015-09-23/fred-20150923-git.tgz",
+  "repository":"https://github.com/plkrueger/CommonLispFred.git"
 }

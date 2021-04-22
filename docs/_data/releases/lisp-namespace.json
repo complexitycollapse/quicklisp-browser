@@ -1,4 +1,5 @@
 {
   "name":"lisp-namespace",
-  "url":"http://beta.quicklisp.org/archive/lisp-namespace/2017-11-30/lisp-namespace-20171130-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/lisp-namespace/2017-11-30/lisp-namespace-20171130-git.tgz",
+  "repository":"https://github.com/guicho271828/lisp-namespace.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"cl-css",
-  "url":"http://beta.quicklisp.org/archive/cl-css/2014-09-14/cl-css-20140914-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-css/2014-09-14/cl-css-20140914-git.tgz",
+  "repository":"https://github.com/Inaimathi/cl-css.git"
 }

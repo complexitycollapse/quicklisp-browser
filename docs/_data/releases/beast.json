@@ -1,4 +1,5 @@
 {
   "name":"beast",
-  "url":"http://beta.quicklisp.org/archive/beast/2020-10-16/beast-20201016-hg.tgz"
+  "url":"http://beta.quicklisp.org/archive/beast/2020-10-16/beast-20201016-hg.tgz",
+  "repository":"https://hg.stevelosh.com/beast"
 }

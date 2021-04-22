@@ -1,4 +1,5 @@
 {
   "name":"cl-unicode",
-  "url":"http://beta.quicklisp.org/archive/cl-unicode/2021-02-28/cl-unicode-20210228-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-unicode/2021-02-28/cl-unicode-20210228-git.tgz",
+  "repository":"cl-unicode"
 }

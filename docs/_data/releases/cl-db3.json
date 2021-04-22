@@ -1,4 +1,5 @@
 {
   "name":"cl-db3",
-  "url":"http://beta.quicklisp.org/archive/cl-db3/2020-02-18/cl-db3-20200218-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-db3/2020-02-18/cl-db3-20200218-git.tgz",
+  "repository":"https://github.com/dimitri/cl-db3.git"
 }

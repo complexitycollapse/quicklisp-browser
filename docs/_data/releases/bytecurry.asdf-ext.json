@@ -1,4 +1,5 @@
 {
   "name":"bytecurry.asdf-ext",
-  "url":"http://beta.quicklisp.org/archive/bytecurry.asdf-ext/2015-05-05/bytecurry.asdf-ext-20150505-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/bytecurry.asdf-ext/2015-05-05/bytecurry.asdf-ext-20150505-git.tgz",
+  "repository":"https://github.com/bytecurry/bytecurry.asdf-ext.git"
 }

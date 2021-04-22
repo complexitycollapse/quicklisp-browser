@@ -1,4 +1,5 @@
 {
   "name":"cl-amqp",
-  "url":"http://beta.quicklisp.org/archive/cl-amqp/2019-10-08/cl-amqp-v0.4.1.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-amqp/2019-10-08/cl-amqp-v0.4.1.tgz",
+  "repository":"https://github.com/cl-rabbit/cl-amqp.git"
 }

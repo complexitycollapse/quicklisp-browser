@@ -1,4 +1,5 @@
 {
   "name":"positional-lambda",
-  "url":"http://beta.quicklisp.org/archive/positional-lambda/2012-10-13/positional-lambda-2.0.tgz"
+  "url":"http://beta.quicklisp.org/archive/positional-lambda/2012-10-13/positional-lambda-2.0.tgz",
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/positional-lambda_latest.tar.gz"
 }

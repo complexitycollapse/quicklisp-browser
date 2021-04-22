@@ -1,4 +1,5 @@
 {
   "name":"cl-keycloak",
-  "url":"http://beta.quicklisp.org/archive/cl-keycloak/2019-07-10/cl-keycloak-20190710-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-keycloak/2019-07-10/cl-keycloak-20190710-git.tgz",
+  "repository":"https://github.com/ikbenlike/cl-keycloak.git"
 }

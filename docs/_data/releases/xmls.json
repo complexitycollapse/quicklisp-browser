@@ -1,4 +1,5 @@
 {
   "name":"xmls",
-  "url":"http://beta.quicklisp.org/archive/xmls/2018-04-30/xmls-3.0.2.tgz"
+  "url":"http://beta.quicklisp.org/archive/xmls/2018-04-30/xmls-3.0.2.tgz",
+  "repository":"https://common-lisp.net/project/xmls/xmls-3.0.2.tar.gz"
 }

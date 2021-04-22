@@ -1,4 +1,5 @@
 {
   "name":"cl-modlisp",
-  "url":"http://beta.quicklisp.org/archive/cl-modlisp/2015-09-23/cl-modlisp-20150923-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-modlisp/2015-09-23/cl-modlisp-20150923-git.tgz",
+  "repository":"cl-modlisp"
 }

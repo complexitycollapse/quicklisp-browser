@@ -1,4 +1,5 @@
 {
   "name":"object-class",
-  "url":"http://beta.quicklisp.org/archive/object-class/2020-09-25/object-class_1.0.tgz"
+  "url":"http://beta.quicklisp.org/archive/object-class/2020-09-25/object-class_1.0.tgz",
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/object-class_latest.tar.gz"
 }

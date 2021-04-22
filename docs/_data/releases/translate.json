@@ -1,4 +1,5 @@
 {
   "name":"translate",
-  "url":"http://beta.quicklisp.org/archive/translate/2018-02-28/translate-20180228-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/translate/2018-02-28/translate-20180228-git.tgz",
+  "repository":"https://gitlab.common-lisp.net/dkochmanski/translate.git"
 }

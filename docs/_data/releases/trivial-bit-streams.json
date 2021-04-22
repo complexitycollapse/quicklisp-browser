@@ -1,4 +1,5 @@
 {
   "name":"trivial-bit-streams",
-  "url":"http://beta.quicklisp.org/archive/trivial-bit-streams/2019-07-10/trivial-bit-streams-20190710-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/trivial-bit-streams/2019-07-10/trivial-bit-streams-20190710-git.tgz",
+  "repository":"https://github.com/Lovesan/trivial-bit-streams.git"
 }

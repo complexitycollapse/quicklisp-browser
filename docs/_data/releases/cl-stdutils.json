@@ -1,4 +1,5 @@
 {
   "name":"cl-stdutils",
-  "url":"http://beta.quicklisp.org/archive/cl-stdutils/2011-10-01/cl-stdutils-20111001-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-stdutils/2011-10-01/cl-stdutils-20111001-git.tgz",
+  "repository":"https://github.com/eslick/cl-stdutils.git"
 }

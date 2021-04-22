@@ -1,4 +1,5 @@
 {
   "name":"uffi",
-  "url":"http://beta.quicklisp.org/archive/uffi/2018-02-28/uffi-20180228-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/uffi/2018-02-28/uffi-20180228-git.tgz",
+  "repository":"uffi"
 }

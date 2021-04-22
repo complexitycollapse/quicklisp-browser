@@ -1,4 +1,5 @@
 {
   "name":"hu.dwim.common-lisp",
-  "url":"http://beta.quicklisp.org/archive/hu.dwim.common-lisp/2021-02-28/hu.dwim.common-lisp-stable-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/hu.dwim.common-lisp/2021-02-28/hu.dwim.common-lisp-stable-git.tgz",
+  "repository":"https://github.com/hu-dwim/hu.dwim.common-lisp.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"multiposter",
-  "url":"http://beta.quicklisp.org/archive/multiposter/2021-04-11/multiposter-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/multiposter/2021-04-11/multiposter-20210411-git.tgz",
+  "repository":"https://github.com/Shinmera/multiposter.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"rfc2388-binary",
-  "url":"http://beta.quicklisp.org/archive/rfc2388-binary/2017-01-24/rfc2388-binary-20170124-darcs.tgz"
+  "url":"http://beta.quicklisp.org/archive/rfc2388-binary/2017-01-24/rfc2388-binary-20170124-darcs.tgz",
+  "repository":"https://gitlab.common-lisp.net/ucw/rfc2388-binary.git"
 }

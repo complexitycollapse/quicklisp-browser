@@ -1,4 +1,5 @@
 {
   "name":"mel-base",
-  "url":"http://beta.quicklisp.org/archive/mel-base/2018-02-28/mel-base-20180228-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/mel-base/2018-02-28/mel-base-20180228-git.tgz",
+  "repository":"https://github.com/neonsquare/mel-base.git"
 }

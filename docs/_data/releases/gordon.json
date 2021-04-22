@@ -1,4 +1,5 @@
 {
   "name":"gordon",
-  "url":"http://beta.quicklisp.org/archive/gordon/2014-07-13/gordon-20140713-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/gordon/2014-07-13/gordon-20140713-git.tgz",
+  "repository":"https://github.com/sgarciac/gordon.git"
 }

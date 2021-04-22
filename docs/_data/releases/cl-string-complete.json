@@ -1,4 +1,5 @@
 {
   "name":"cl-string-complete",
-  "url":"http://beta.quicklisp.org/archive/cl-string-complete/2019-03-07/cl-string-complete-20190307-hg.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-string-complete/2019-03-07/cl-string-complete-20190307-hg.tgz",
+  "repository":"https://bitbucket.org/tarballs_are_good/cl-string-complete"
 }

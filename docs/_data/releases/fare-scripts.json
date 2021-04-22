@@ -1,4 +1,5 @@
 {
   "name":"fare-scripts",
-  "url":"http://beta.quicklisp.org/archive/fare-scripts/2020-06-10/fare-scripts-20200610-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/fare-scripts/2020-06-10/fare-scripts-20200610-git.tgz",
+  "repository":"https://github.com/fare/fare-scripts.git"
 }

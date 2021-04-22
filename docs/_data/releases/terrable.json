@@ -1,4 +1,5 @@
 {
   "name":"terrable",
-  "url":"http://beta.quicklisp.org/archive/terrable/2019-07-10/terrable-20190710-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/terrable/2019-07-10/terrable-20190710-git.tgz",
+  "repository":"https://github.com/Shirakumo/terrable.git"
 }

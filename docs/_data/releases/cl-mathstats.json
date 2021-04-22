@@ -1,4 +1,5 @@
 {
   "name":"cl-mathstats",
-  "url":"http://beta.quicklisp.org/archive/cl-mathstats/2014-07-13/cl-mathstats-20140713-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-mathstats/2014-07-13/cl-mathstats-20140713-git.tgz",
+  "repository":"https://github.com/gwkkwg/cl-mathstats.git"
 }

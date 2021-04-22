@@ -1,4 +1,5 @@
 {
   "name":"clonsigna",
-  "url":"http://beta.quicklisp.org/archive/clonsigna/2012-09-09/clonsigna-20120909-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/clonsigna/2012-09-09/clonsigna-20120909-git.tgz",
+  "repository":"https://gitlab.common-lisp.net/clonsigna/clonsigna.git"
 }

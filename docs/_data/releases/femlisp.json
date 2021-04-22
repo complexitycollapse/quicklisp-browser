@@ -1,4 +1,5 @@
 {
   "name":"femlisp",
-  "url":"http://beta.quicklisp.org/archive/femlisp/2021-04-11/femlisp-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/femlisp/2021-04-11/femlisp-20210411-git.tgz",
+  "repository":"git://git.savannah.nongnu.org/femlisp.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"cl-log",
-  "url":"http://beta.quicklisp.org/archive/cl-log/2013-01-28/cl-log.1.0.1.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-log/2013-01-28/cl-log.1.0.1.tgz",
+  "repository":"https://www.nicklevine.org/cl-log/cl-log-latest.tar.gz"
 }

@@ -1,4 +1,5 @@
 {
   "name":"dml",
-  "url":"http://beta.quicklisp.org/archive/dml/2018-10-18/dml-20181018-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/dml/2018-10-18/dml-20181018-git.tgz",
+  "repository":"https://github.com/cuichaox/dml.git"
 }

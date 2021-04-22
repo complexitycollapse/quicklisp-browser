@@ -1,4 +1,5 @@
 {
   "name":"cl-cron",
-  "url":"http://beta.quicklisp.org/archive/cl-cron/2019-03-07/cl-cron-20190307-hg.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-cron/2019-03-07/cl-cron-20190307-hg.tgz",
+  "repository":"https://bitbucket.org/mackram/cl-cron"
 }

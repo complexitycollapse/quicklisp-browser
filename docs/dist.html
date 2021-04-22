@@ -40,12 +40,14 @@
       <tr>
         <th>Project Name</th>
         <th>Url</th>
+        <th>Repository</th>
       </tr>
       {% for release_hash in site.data.releases %}
       {% assign release = release_hash[1] %}
         <tr>
           <td>{{ release.name }}</td>
           <td>{{ release.url }}</td>
+          <td>{{ release.repository }}</td>
         </tr>
       {% endfor %}
     </table>

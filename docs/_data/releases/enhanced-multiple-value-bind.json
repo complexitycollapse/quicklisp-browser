@@ -1,4 +1,5 @@
 {
   "name":"enhanced-multiple-value-bind",
-  "url":"http://beta.quicklisp.org/archive/enhanced-multiple-value-bind/2012-11-25/enhanced-multiple-value-bind-1.0.1.tgz"
+  "url":"http://beta.quicklisp.org/archive/enhanced-multiple-value-bind/2012-11-25/enhanced-multiple-value-bind-1.0.1.tgz",
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/enhanced-multiple-value-bind_latest.tar.gz"
 }

@@ -1,4 +1,5 @@
 {
   "name":"log5",
-  "url":"http://beta.quicklisp.org/archive/log5/2011-06-19/log5-20110619-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/log5/2011-06-19/log5-20110619-git.tgz",
+  "repository":"https://github.com/sharplispers/log5.git"
 }

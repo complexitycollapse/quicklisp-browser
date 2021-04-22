@@ -1,4 +1,5 @@
 {
   "name":"message-oo",
-  "url":"http://beta.quicklisp.org/archive/message-oo/2013-06-15/message-oo-20130615-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/message-oo/2013-06-15/message-oo-20130615-git.tgz",
+  "repository":"https://github.com/Kalimehtar/message-oo.git"
 }

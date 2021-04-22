@@ -1,4 +1,5 @@
 {
   "name":"hu.dwim.partial-eval",
-  "url":"http://beta.quicklisp.org/archive/hu.dwim.partial-eval/2017-11-30/hu.dwim.partial-eval-20171130-darcs.tgz"
+  "url":"http://beta.quicklisp.org/archive/hu.dwim.partial-eval/2017-11-30/hu.dwim.partial-eval-20171130-darcs.tgz",
+  "repository":"https://github.com/hu-dwim/hu.dwim.partial-eval.git"
 }

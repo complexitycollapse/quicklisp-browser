@@ -1,4 +1,5 @@
 {
   "name":"hu.dwim.zlib",
-  "url":"http://beta.quicklisp.org/archive/hu.dwim.zlib/2021-02-28/hu.dwim.zlib-stable-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/hu.dwim.zlib/2021-02-28/hu.dwim.zlib-stable-git.tgz",
+  "repository":"https://github.com/hu-dwim/hu.dwim.zlib.git"
 }

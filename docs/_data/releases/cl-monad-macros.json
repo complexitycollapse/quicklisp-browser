@@ -1,4 +1,5 @@
 {
   "name":"cl-monad-macros",
-  "url":"http://beta.quicklisp.org/archive/cl-monad-macros/2011-06-19/cl-monad-macros-20110619-svn.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-monad-macros/2011-06-19/cl-monad-macros-20110619-svn.tgz",
+  "repository":"https://svn.common-lisp.net/cl-monad-macros/trunk"
 }

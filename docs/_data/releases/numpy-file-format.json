@@ -1,4 +1,5 @@
 {
   "name":"numpy-file-format",
-  "url":"http://beta.quicklisp.org/archive/numpy-file-format/2021-01-24/numpy-file-format-20210124-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/numpy-file-format/2021-01-24/numpy-file-format-20210124-git.tgz",
+  "repository":"https://github.com/marcoheisig/numpy-file-format.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"climc",
-  "url":"http://beta.quicklisp.org/archive/climc/2015-09-23/climc-20150923-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/climc/2015-09-23/climc-20150923-git.tgz",
+  "repository":"https://github.com/nlamirault/climc.git"
 }

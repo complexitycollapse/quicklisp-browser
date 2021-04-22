@@ -1,4 +1,5 @@
 {
   "name":"tree-search",
-  "url":"http://beta.quicklisp.org/archive/tree-search/2020-12-20/tree-search-0.0.1.tgz"
+  "url":"http://beta.quicklisp.org/archive/tree-search/2020-12-20/tree-search-0.0.1.tgz",
+  "repository":"https://files.astharoshe.net/lisp/tree-search-latest.tar.gz"
 }

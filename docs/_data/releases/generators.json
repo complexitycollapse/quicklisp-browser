@@ -1,4 +1,5 @@
 {
   "name":"generators",
-  "url":"http://beta.quicklisp.org/archive/generators/2013-06-15/generators-20130615-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/generators/2013-06-15/generators-20130615-git.tgz",
+  "repository":"https://github.com/AccelerationNet/generators.git"
 }

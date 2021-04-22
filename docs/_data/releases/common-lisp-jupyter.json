@@ -1,4 +1,5 @@
 {
   "name":"common-lisp-jupyter",
-  "url":"http://beta.quicklisp.org/archive/common-lisp-jupyter/2021-04-11/common-lisp-jupyter-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/common-lisp-jupyter/2021-04-11/common-lisp-jupyter-20210411-git.tgz",
+  "repository":"https://github.com/yitzchak/common-lisp-jupyter.git"
 }

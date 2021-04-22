@@ -1,4 +1,5 @@
 {
   "name":"cl-bip39",
-  "url":"http://beta.quicklisp.org/archive/cl-bip39/2018-07-11/cl-bip39-20180711-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-bip39/2018-07-11/cl-bip39-20180711-git.tgz",
+  "repository":"https://github.com/zodmaner/cl-bip39.git"
 }

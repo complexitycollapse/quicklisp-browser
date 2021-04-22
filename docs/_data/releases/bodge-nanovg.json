@@ -1,4 +1,5 @@
 {
   "name":"bodge-nanovg",
-  "url":"http://beta.quicklisp.org/archive/bodge-nanovg/2020-10-16/bodge-nanovg-stable-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/bodge-nanovg/2020-10-16/bodge-nanovg-stable-git.tgz",
+  "repository":"https://github.com/borodust/bodge-nanovg.git"
 }

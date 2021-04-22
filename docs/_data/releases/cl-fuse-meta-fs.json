@@ -1,4 +1,5 @@
 {
   "name":"cl-fuse-meta-fs",
-  "url":"http://beta.quicklisp.org/archive/cl-fuse-meta-fs/2019-07-10/cl-fuse-meta-fs-20190710-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-fuse-meta-fs/2019-07-10/cl-fuse-meta-fs-20190710-git.tgz",
+  "repository":"https://github.com/fb08af68/cl-fuse-meta-fs.git"
 }

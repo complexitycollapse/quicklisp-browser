@@ -1,4 +1,5 @@
 {
   "name":"random-state",
-  "url":"http://beta.quicklisp.org/archive/random-state/2020-09-25/random-state-20200925-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/random-state/2020-09-25/random-state-20200925-git.tgz",
+  "repository":"http://github.com/Shinmera/random-state.git"
 }

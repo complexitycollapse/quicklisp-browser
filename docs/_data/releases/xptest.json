@@ -1,4 +1,5 @@
 {
   "name":"xptest",
-  "url":"http://beta.quicklisp.org/archive/xptest/2015-09-23/xptest-20150923-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/xptest/2015-09-23/xptest-20150923-git.tgz",
+  "repository":"xptest"
 }

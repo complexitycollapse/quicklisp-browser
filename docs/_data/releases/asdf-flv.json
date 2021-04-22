@@ -1,4 +1,5 @@
 {
   "name":"asdf-flv",
-  "url":"http://beta.quicklisp.org/archive/asdf-flv/2016-04-21/asdf-flv-version-2.1.tgz"
+  "url":"http://beta.quicklisp.org/archive/asdf-flv/2016-04-21/asdf-flv-version-2.1.tgz",
+  "repository":"https://github.com/didierverna/asdf-flv.git"
 }

@@ -1,4 +1,5 @@
 {
   "name":"bodge-queue",
-  "url":"http://beta.quicklisp.org/archive/bodge-queue/2020-10-16/bodge-queue-stable-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/bodge-queue/2020-10-16/bodge-queue-stable-git.tgz",
+  "repository":"https://github.com/borodust/bodge-queue.git"
 }

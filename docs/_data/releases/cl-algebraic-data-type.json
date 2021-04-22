@@ -1,4 +1,5 @@
 {
   "name":"cl-algebraic-data-type",
-  "url":"http://beta.quicklisp.org/archive/cl-algebraic-data-type/2019-10-07/cl-algebraic-data-type-20191007-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-algebraic-data-type/2019-10-07/cl-algebraic-data-type-20191007-git.tgz",
+  "repository":"https://github.com/tarballs-are-good/cl-algebraic-data-type.git"
 }

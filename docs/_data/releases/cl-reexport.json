@@ -1,4 +1,5 @@
 {
   "name":"cl-reexport",
-  "url":"http://beta.quicklisp.org/archive/cl-reexport/2021-02-28/cl-reexport-20210228-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-reexport/2021-02-28/cl-reexport-20210228-git.tgz",
+  "repository":"https://github.com/takagi/cl-reexport.git"
 }

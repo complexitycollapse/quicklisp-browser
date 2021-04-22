@@ -1,4 +1,5 @@
 {
   "name":"serapeum",
-  "url":"http://beta.quicklisp.org/archive/serapeum/2021-04-11/serapeum-20210411-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/serapeum/2021-04-11/serapeum-20210411-git.tgz",
+  "repository":"https://github.com/ruricolist/serapeum.git"
 }

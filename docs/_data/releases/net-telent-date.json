@@ -1,4 +1,5 @@
 {
   "name":"net-telent-date",
-  "url":"http://beta.quicklisp.org/archive/net-telent-date/2010-10-06/net-telent-date_0.42.tgz"
+  "url":"http://beta.quicklisp.org/archive/net-telent-date/2010-10-06/net-telent-date_0.42.tgz",
+  "repository":"http://ftp.linux.org.uk/pub/lisp/cclan/net-telent-date.tar.gz"
 }

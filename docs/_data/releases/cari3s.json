@@ -1,4 +1,5 @@
 {
   "name":"cari3s",
-  "url":"http://beta.quicklisp.org/archive/cari3s/2020-03-25/cari3s-20200325-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cari3s/2020-03-25/cari3s-20200325-git.tgz",
+  "repository":"https://github.com/Shinmera/cari3s.git"
 }

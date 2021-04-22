@@ -1,4 +1,5 @@
 {
   "name":"swank-client",
-  "url":"http://beta.quicklisp.org/archive/swank-client/2020-12-20/swank-client-20201220-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/swank-client/2020-12-20/swank-client-20201220-git.tgz",
+  "repository":"https://github.com/brown/swank-client.git"
 }

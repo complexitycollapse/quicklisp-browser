@@ -1,4 +1,5 @@
 {
   "name":"chancery",
-  "url":"http://beta.quicklisp.org/archive/chancery/2020-10-16/chancery-20201016-hg.tgz"
+  "url":"http://beta.quicklisp.org/archive/chancery/2020-10-16/chancery-20201016-hg.tgz",
+  "repository":"https://hg.stevelosh.com/chancery"
 }

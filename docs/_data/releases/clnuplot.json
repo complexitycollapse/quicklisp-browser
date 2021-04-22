@@ -1,4 +1,5 @@
 {
   "name":"clnuplot",
-  "url":"http://beta.quicklisp.org/archive/clnuplot/2013-01-28/clnuplot-20130128-darcs.tgz"
+  "url":"http://beta.quicklisp.org/archive/clnuplot/2013-01-28/clnuplot-20130128-darcs.tgz",
+  "repository":"http://gitlab.common-lisp.net/clnuplot/clnuplot.git"
 }

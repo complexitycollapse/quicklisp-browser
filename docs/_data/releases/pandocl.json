@@ -1,4 +1,5 @@
 {
   "name":"pandocl",
-  "url":"http://beta.quicklisp.org/archive/pandocl/2015-09-23/pandocl-20150923-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/pandocl/2015-09-23/pandocl-20150923-git.tgz",
+  "repository":"https://github.com/CommonDoc/pandocl.git"
 }

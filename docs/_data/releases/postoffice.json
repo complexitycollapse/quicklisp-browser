@@ -1,4 +1,5 @@
 {
   "name":"postoffice",
-  "url":"http://beta.quicklisp.org/archive/postoffice/2012-09-09/postoffice-20120909-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/postoffice/2012-09-09/postoffice-20120909-git.tgz",
+  "repository":"postoffice"
 }

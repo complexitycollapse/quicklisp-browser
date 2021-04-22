@@ -1,4 +1,5 @@
 {
   "name":"trivial-octet-streams",
-  "url":"http://beta.quicklisp.org/archive/trivial-octet-streams/2013-01-28/trivial-octet-streams-20130128-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/trivial-octet-streams/2013-01-28/trivial-octet-streams-20130128-git.tgz",
+  "repository":"https://github.com/sharplispers/trivial-octet-streams.git"
 }

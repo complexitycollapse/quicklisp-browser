@@ -1,4 +1,5 @@
 {
   "name":"string-escape",
-  "url":"http://beta.quicklisp.org/archive/string-escape/2015-04-07/string-escape-20150407-http.tgz"
+  "url":"http://beta.quicklisp.org/archive/string-escape/2015-04-07/string-escape-20150407-http.tgz",
+  "repository":"https://people.csail.mit.edu/devon/lisp/string-escape.tgz"
 }

@@ -1,4 +1,5 @@
 {
   "name":"json-responses",
-  "url":"http://beta.quicklisp.org/archive/json-responses/2019-03-07/json-responses-20190307-hg.tgz"
+  "url":"http://beta.quicklisp.org/archive/json-responses/2019-03-07/json-responses-20190307-hg.tgz",
+  "repository":"https://bitbucket.org/bradJM/json-responses"
 }

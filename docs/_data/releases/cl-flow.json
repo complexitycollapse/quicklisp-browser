@@ -1,4 +1,5 @@
 {
   "name":"cl-flow",
-  "url":"http://beta.quicklisp.org/archive/cl-flow/2020-10-16/cl-flow-stable-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/cl-flow/2020-10-16/cl-flow-stable-git.tgz",
+  "repository":"https://github.com/borodust/cl-flow.git"
 }

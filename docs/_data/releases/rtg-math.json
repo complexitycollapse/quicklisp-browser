@@ -1,4 +1,5 @@
 {
   "name":"rtg-math",
-  "url":"http://beta.quicklisp.org/archive/rtg-math/2019-10-07/rtg-math-release-quicklisp-29fc5b3d-git.tgz"
+  "url":"http://beta.quicklisp.org/archive/rtg-math/2019-10-07/rtg-math-release-quicklisp-29fc5b3d-git.tgz",
+  "repository":"https://github.com/cbaggers/rtg-math.git"
 }
