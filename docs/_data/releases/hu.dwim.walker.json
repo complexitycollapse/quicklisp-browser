@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.walker",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.walker/2021-02-28/hu.dwim.walker-stable-git.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.walker.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.walker.git",
+  "keywords":
+  [
+  ]
 }

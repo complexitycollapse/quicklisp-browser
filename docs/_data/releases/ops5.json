@@ -1,5 +1,8 @@
 {
   "name":"ops5",
   "url":"http://beta.quicklisp.org/archive/ops5/2020-02-18/ops5-20200218-git.tgz",
-  "repository":"https://github.com/sharplispers/ops5.git"
+  "repository":"https://github.com/sharplispers/ops5.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-maxsat",
   "url":"http://beta.quicklisp.org/archive/cl-maxsat/2020-02-18/cl-maxsat-20200218-git.tgz",
-  "repository":"https://github.com/cl-model-languages/cl-maxsat.git"
+  "repository":"https://github.com/cl-model-languages/cl-maxsat.git",
+  "keywords":
+  [
+  ]
 }

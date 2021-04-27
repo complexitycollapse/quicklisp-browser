@@ -1,5 +1,8 @@
 {
   "name":"common-lisp-actors",
   "url":"http://beta.quicklisp.org/archive/common-lisp-actors/2019-11-30/common-lisp-actors-20191130-git.tgz",
-  "repository":"https://github.com/naveensundarg/Common-Lisp-Actors.git"
+  "repository":"https://github.com/naveensundarg/Common-Lisp-Actors.git",
+  "keywords":
+  [
+  ]
 }

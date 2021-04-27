@@ -1,5 +1,8 @@
 {
   "name":"lisp-interface-library",
   "url":"http://beta.quicklisp.org/archive/lisp-interface-library/2018-04-30/lisp-interface-library-20180430-git.tgz",
-  "repository":"https://github.com/fare/lisp-interface-library.git"
+  "repository":"https://github.com/fare/lisp-interface-library.git",
+  "keywords":
+  [
+  ]
 }

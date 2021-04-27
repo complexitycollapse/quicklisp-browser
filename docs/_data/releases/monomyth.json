@@ -1,5 +1,8 @@
 {
   "name":"monomyth",
   "url":"http://beta.quicklisp.org/archive/monomyth/2021-02-28/monomyth-20210228-git.tgz",
-  "repository":"https://gitlab.com/smaller-infinity/monomyth.git"
+  "repository":"https://gitlab.com/smaller-infinity/monomyth.git",
+  "keywords":
+  [
+  ]
 }

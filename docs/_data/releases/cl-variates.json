@@ -1,5 +1,8 @@
 {
   "name":"cl-variates",
   "url":"http://beta.quicklisp.org/archive/cl-variates/2018-01-31/cl-variates-20180131-darcs.tgz",
-  "repository":"https://gitlab.common-lisp.net/cl-variates/cl-variates.git"
+  "repository":"https://gitlab.common-lisp.net/cl-variates/cl-variates.git",
+  "keywords":
+  [
+  ]
 }

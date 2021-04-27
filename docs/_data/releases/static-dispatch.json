@@ -1,5 +1,8 @@
 {
   "name":"static-dispatch",
   "url":"http://beta.quicklisp.org/archive/static-dispatch/2021-04-11/static-dispatch-20210411-git.tgz",
-  "repository":"https://github.com/alex-gutev/static-dispatch.git"
+  "repository":"https://github.com/alex-gutev/static-dispatch.git",
+  "keywords":
+  [
+  ]
 }

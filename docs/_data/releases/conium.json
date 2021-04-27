@@ -1,5 +1,8 @@
 {
   "name":"conium",
   "url":"http://beta.quicklisp.org/archive/conium/2021-01-24/conium-20210124-git.tgz",
-  "repository":"https://github.com/sharplispers/conium.git"
+  "repository":"https://github.com/sharplispers/conium.git",
+  "keywords":
+  [
+  ]
 }

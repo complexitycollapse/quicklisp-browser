@@ -1,5 +1,8 @@
 {
   "name":"glad-blob",
   "url":"http://beta.quicklisp.org/archive/glad-blob/2020-10-16/glad-blob-stable-git.tgz",
-  "repository":"https://github.com/borodust/glad-blob.git"
+  "repository":"https://github.com/borodust/glad-blob.git",
+  "keywords":
+  [
+  ]
 }

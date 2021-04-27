@@ -1,5 +1,8 @@
 {
   "name":"cl-json-pointer",
   "url":"http://beta.quicklisp.org/archive/cl-json-pointer/2021-04-11/cl-json-pointer-20210411-git.tgz",
-  "repository":"https://github.com/y2q-actionman/cl-json-pointer.git"
+  "repository":"https://github.com/y2q-actionman/cl-json-pointer.git",
+  "keywords":
+  [
+  ]
 }

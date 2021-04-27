@@ -1,5 +1,8 @@
 {
   "name":"cl-containers",
   "url":"http://beta.quicklisp.org/archive/cl-containers/2020-04-27/cl-containers-20200427-git.tgz",
-  "repository":"https://github.com/gwkkwg/cl-containers.git"
+  "repository":"https://github.com/gwkkwg/cl-containers.git",
+  "keywords":
+  [
+  ]
 }

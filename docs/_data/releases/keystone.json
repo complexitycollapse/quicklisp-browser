@@ -1,5 +1,8 @@
 {
   "name":"keystone",
   "url":"http://beta.quicklisp.org/archive/keystone/2020-04-27/keystone-20200427-git.tgz",
-  "repository":"https://github.com/GrammaTech/keystone.git"
+  "repository":"https://github.com/GrammaTech/keystone.git",
+  "keywords":
+  [
+  ]
 }

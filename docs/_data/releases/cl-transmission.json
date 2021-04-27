@@ -1,5 +1,8 @@
 {
   "name":"cl-transmission",
   "url":"http://beta.quicklisp.org/archive/cl-transmission/2020-03-25/cl-transmission-20200325-git.tgz",
-  "repository":"https://github.com/libre-man/cl-transmission.git"
+  "repository":"https://github.com/libre-man/cl-transmission.git",
+  "keywords":
+  [
+  ]
 }

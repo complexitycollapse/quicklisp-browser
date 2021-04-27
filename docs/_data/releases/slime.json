@@ -1,5 +1,8 @@
 {
   "name":"slime",
   "url":"http://beta.quicklisp.org/archive/slime/2020-12-20/slime-v2.26.1.tgz",
-  "repository":"https://github.com/slime/slime.git"
+  "repository":"https://github.com/slime/slime.git",
+  "keywords":
+  [
+  ]
 }

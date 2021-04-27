@@ -1,5 +1,8 @@
 {
   "name":"chtml-matcher",
   "url":"http://beta.quicklisp.org/archive/chtml-matcher/2011-10-01/chtml-matcher-20111001-git.tgz",
-  "repository":"https://github.com/eslick/chtml-matcher.git"
+  "repository":"https://github.com/eslick/chtml-matcher.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-kanren",
   "url":"http://beta.quicklisp.org/archive/cl-kanren/2019-10-07/cl-kanren-20191007-git.tgz",
-  "repository":"https://notabug.org/cage/cl-kanren.git"
+  "repository":"https://notabug.org/cage/cl-kanren.git",
+  "keywords":
+  [
+  ]
 }

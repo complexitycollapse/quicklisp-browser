@@ -1,5 +1,8 @@
 {
   "name":"tap-unit-test",
   "url":"http://beta.quicklisp.org/archive/tap-unit-test/2017-12-27/tap-unit-test-20171227-git.tgz",
-  "repository":"https://github.com/jhanley634/tap-unit-test.git"
+  "repository":"https://github.com/jhanley634/tap-unit-test.git",
+  "keywords":
+  [
+  ]
 }

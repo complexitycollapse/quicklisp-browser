@@ -1,5 +1,8 @@
 {
   "name":"zaws",
   "url":"http://beta.quicklisp.org/archive/zaws/2015-04-07/zaws-20150407-git.tgz",
-  "repository":"https://github.com/xach/zaws.git"
+  "repository":"https://github.com/xach/zaws.git",
+  "keywords":
+  [
+  ]
 }

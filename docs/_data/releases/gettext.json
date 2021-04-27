@@ -1,5 +1,8 @@
 {
   "name":"gettext",
   "url":"http://beta.quicklisp.org/archive/gettext/2017-11-30/gettext-20171130-git.tgz",
-  "repository":"https://github.com/rotatef/gettext.git"
+  "repository":"https://github.com/rotatef/gettext.git",
+  "keywords":
+  [
+  ]
 }

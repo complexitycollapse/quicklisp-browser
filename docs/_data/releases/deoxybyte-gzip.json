@@ -1,5 +1,8 @@
 {
   "name":"deoxybyte-gzip",
   "url":"http://beta.quicklisp.org/archive/deoxybyte-gzip/2014-01-13/deoxybyte-gzip-20140113-git.tgz",
-  "repository":"https://github.com/keithj/deoxybyte-gzip.git"
+  "repository":"https://github.com/keithj/deoxybyte-gzip.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"sapaclisp",
   "url":"http://beta.quicklisp.org/archive/sapaclisp/2012-05-20/sapaclisp-1.0a.tgz",
-  "repository":"https://common-lisp.net/project/sapaclisp/sapaclisp-1.0a.tgz"
+  "repository":"https://common-lisp.net/project/sapaclisp/sapaclisp-1.0a.tgz",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"livesupport",
   "url":"http://beta.quicklisp.org/archive/livesupport/2019-05-21/livesupport-release-quicklisp-71e6e412-git.tgz",
-  "repository":"https://github.com/cbaggers/livesupport.git"
+  "repository":"https://github.com/cbaggers/livesupport.git",
+  "keywords":
+  [
+  ]
 }

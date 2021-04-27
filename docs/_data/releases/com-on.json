@@ -1,5 +1,8 @@
 {
   "name":"com-on",
   "url":"http://beta.quicklisp.org/archive/com-on/2020-10-16/com-on-20201016-git.tgz",
-  "repository":"https://github.com/Shinmera/com-on.git"
+  "repository":"https://github.com/Shinmera/com-on.git",
+  "keywords":
+  [
+  ]
 }

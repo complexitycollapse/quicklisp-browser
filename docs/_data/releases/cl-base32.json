@@ -1,5 +1,8 @@
 {
   "name":"cl-base32",
   "url":"http://beta.quicklisp.org/archive/cl-base32/2013-04-20/cl-base32-20130420-git.tgz",
-  "repository":"https://github.com/hargettp/cl-base32.git"
+  "repository":"https://github.com/hargettp/cl-base32.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"fiveam",
   "url":"http://beta.quicklisp.org/archive/fiveam/2020-09-25/fiveam-20200925-git.tgz",
-  "repository":"https://github.com/lispci/fiveam.git"
+  "repository":"https://github.com/lispci/fiveam.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-scrobbler",
   "url":"http://beta.quicklisp.org/archive/cl-scrobbler/2011-11-05/cl-scrobbler-20111105-git.tgz",
-  "repository":"https://github.com/redline6561/cl-scrobbler.git"
+  "repository":"https://github.com/redline6561/cl-scrobbler.git",
+  "keywords":
+  [
+  ]
 }

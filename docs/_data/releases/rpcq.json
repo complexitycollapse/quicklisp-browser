@@ -1,5 +1,8 @@
 {
   "name":"rpcq",
   "url":"http://beta.quicklisp.org/archive/rpcq/2021-02-28/rpcq-v3.8.0.tgz",
-  "repository":"https://github.com/rigetti/rpcq.git"
+  "repository":"https://github.com/rigetti/rpcq.git",
+  "keywords":
+  [
+  ]
 }

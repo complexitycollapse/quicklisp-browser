@@ -1,5 +1,8 @@
 {
   "name":"moptilities",
   "url":"http://beta.quicklisp.org/archive/moptilities/2017-04-03/moptilities-20170403-git.tgz",
-  "repository":"https://github.com/gwkkwg/moptilities.git"
+  "repository":"https://github.com/gwkkwg/moptilities.git",
+  "keywords":
+  [
+  ]
 }

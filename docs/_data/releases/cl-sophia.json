@@ -1,5 +1,8 @@
 {
   "name":"cl-sophia",
   "url":"http://beta.quicklisp.org/archive/cl-sophia/2015-06-08/cl-sophia-20150608-git.tgz",
-  "repository":"https://github.com/multimethod/cl-sophia.git"
+  "repository":"https://github.com/multimethod/cl-sophia.git",
+  "keywords":
+  [
+  ]
 }

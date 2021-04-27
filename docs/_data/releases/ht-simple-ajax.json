@@ -1,5 +1,8 @@
 {
   "name":"ht-simple-ajax",
   "url":"http://beta.quicklisp.org/archive/ht-simple-ajax/2013-04-21/ht-simple-ajax-20130421-git.tgz",
-  "repository":"https://github.com/martin-loetzsch/ht-simple-ajax.git"
+  "repository":"https://github.com/martin-loetzsch/ht-simple-ajax.git",
+  "keywords":
+  [
+  ]
 }

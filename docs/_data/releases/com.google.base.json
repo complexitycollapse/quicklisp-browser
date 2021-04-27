@@ -1,5 +1,8 @@
 {
   "name":"com.google.base",
   "url":"http://beta.quicklisp.org/archive/com.google.base/2020-09-25/com.google.base-20200925-git.tgz",
-  "repository":"https://github.com/brown/base.git"
+  "repository":"https://github.com/brown/base.git",
+  "keywords":
+  [
+  ]
 }

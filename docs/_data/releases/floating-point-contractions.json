@@ -1,5 +1,8 @@
 {
   "name":"floating-point-contractions",
   "url":"http://beta.quicklisp.org/archive/floating-point-contractions/2020-12-20/floating-point-contractions-20201220-git.tgz",
-  "repository":"https://github.com/ruricolist/floating-point-contractions.git"
+  "repository":"https://github.com/ruricolist/floating-point-contractions.git",
+  "keywords":
+  [
+  ]
 }

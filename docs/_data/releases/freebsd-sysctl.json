@@ -1,5 +1,8 @@
 {
   "name":"freebsd-sysctl",
   "url":"http://beta.quicklisp.org/archive/freebsd-sysctl/2021-02-28/freebsd-sysctl-20210228-git.tgz",
-  "repository":"https://github.com/shamazmazum/freebsd-sysctl.git"
+  "repository":"https://github.com/shamazmazum/freebsd-sysctl.git",
+  "keywords":
+  [
+  ]
 }

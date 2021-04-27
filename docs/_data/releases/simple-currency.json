@@ -1,5 +1,8 @@
 {
   "name":"simple-currency",
   "url":"http://beta.quicklisp.org/archive/simple-currency/2017-11-30/simple-currency-20171130-git.tgz",
-  "repository":"https://github.com/a0-prw/simple-currency.git"
+  "repository":"https://github.com/a0-prw/simple-currency.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"diff-match-patch",
   "url":"http://beta.quicklisp.org/archive/diff-match-patch/2020-09-25/diff-match-patch-20200925-git.tgz",
-  "repository":"https://github.com/agrostis/diff-match-patch.git"
+  "repository":"https://github.com/agrostis/diff-match-patch.git",
+  "keywords":
+  [
+  ]
 }

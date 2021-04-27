@@ -1,5 +1,8 @@
 {
   "name":"cl-simple-fsm",
   "url":"http://beta.quicklisp.org/archive/cl-simple-fsm/2020-02-18/cl-simple-fsm-20200218-git.tgz",
-  "repository":"https://github.com/isoraqathedh/cl-simple-fsm.git"
+  "repository":"https://github.com/isoraqathedh/cl-simple-fsm.git",
+  "keywords":
+  [
+  ]
 }

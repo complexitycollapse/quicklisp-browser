@@ -1,5 +1,8 @@
 {
   "name":"cl-getx",
   "url":"http://beta.quicklisp.org/archive/cl-getx/2020-09-25/cl-getx-20200925-git.tgz",
-  "repository":"https://gitlab.com/Harag/cl-getx.git"
+  "repository":"https://gitlab.com/Harag/cl-getx.git",
+  "keywords":
+  [
+  ]
 }

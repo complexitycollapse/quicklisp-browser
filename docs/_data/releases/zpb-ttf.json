@@ -1,5 +1,8 @@
 {
   "name":"zpb-ttf",
   "url":"http://beta.quicklisp.org/archive/zpb-ttf/2021-01-24/zpb-ttf-release-1.0.4.tgz",
-  "repository":"https://github.com/xach/zpb-ttf.git"
+  "repository":"https://github.com/xach/zpb-ttf.git",
+  "keywords":
+  [
+  ]
 }

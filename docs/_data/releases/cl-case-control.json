@@ -1,5 +1,8 @@
 {
   "name":"cl-case-control",
   "url":"http://beta.quicklisp.org/archive/cl-case-control/2014-11-06/cl-case-control-20141106-git.tgz",
-  "repository":"https://github.com/ichimal/cl-case-control.git"
+  "repository":"https://github.com/ichimal/cl-case-control.git",
+  "keywords":
+  [
+  ]
 }

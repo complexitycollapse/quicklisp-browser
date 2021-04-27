@@ -1,5 +1,8 @@
 {
   "name":"prove",
   "url":"http://beta.quicklisp.org/archive/prove/2020-02-18/prove-20200218-git.tgz",
-  "repository":"https://github.com/fukamachi/prove.git"
+  "repository":"https://github.com/fukamachi/prove.git",
+  "keywords":
+  [
+  ]
 }

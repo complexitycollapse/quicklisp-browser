@@ -1,5 +1,8 @@
 {
   "name":"cl-disque",
   "url":"http://beta.quicklisp.org/archive/cl-disque/2017-12-27/cl-disque-20171227-git.tgz",
-  "repository":"https://github.com/CodyReichert/cl-disque.git"
+  "repository":"https://github.com/CodyReichert/cl-disque.git",
+  "keywords":
+  [
+  ]
 }

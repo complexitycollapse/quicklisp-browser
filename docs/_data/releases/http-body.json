@@ -1,5 +1,8 @@
 {
   "name":"http-body",
   "url":"http://beta.quicklisp.org/archive/http-body/2019-08-13/http-body-20190813-git.tgz",
-  "repository":"https://github.com/fukamachi/http-body.git"
+  "repository":"https://github.com/fukamachi/http-body.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"xcat",
   "url":"http://beta.quicklisp.org/archive/xcat/2020-09-25/xcat-20200925-git.tgz",
-  "repository":"http://github.com/jesseoff/xcat.git"
+  "repository":"http://github.com/jesseoff/xcat.git",
+  "keywords":
+  [
+  ]
 }

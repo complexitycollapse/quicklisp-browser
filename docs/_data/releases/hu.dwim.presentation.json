@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.presentation",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.presentation/2020-10-16/hu.dwim.presentation-20201016-darcs.tgz",
-  "repository":"http://dwim.hu/live/hu.dwim.presentation/"
+  "repository":"http://dwim.hu/live/hu.dwim.presentation/",
+  "keywords":
+  [
+  ]
 }

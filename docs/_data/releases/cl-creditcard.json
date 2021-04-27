@@ -1,5 +1,8 @@
 {
   "name":"cl-creditcard",
   "url":"http://beta.quicklisp.org/archive/cl-creditcard/2015-01-13/cl-creditcard-20150113-git.tgz",
-  "repository":"https://github.com/AccelerationNet/cl-creditcard.git"
+  "repository":"https://github.com/AccelerationNet/cl-creditcard.git",
+  "keywords":
+  [
+  ]
 }

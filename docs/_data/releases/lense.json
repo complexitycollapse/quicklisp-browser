@@ -1,5 +1,8 @@
 {
   "name":"lense",
   "url":"http://beta.quicklisp.org/archive/lense/2020-12-20/lense-20201220-git.tgz",
-  "repository":"https://github.com/sirherrbatka/lense.git"
+  "repository":"https://github.com/sirherrbatka/lense.git",
+  "keywords":
+  [
+  ]
 }

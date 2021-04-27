@@ -1,5 +1,8 @@
 {
   "name":"thread.comm.rendezvous",
   "url":"http://beta.quicklisp.org/archive/thread.comm.rendezvous/2012-10-13/thread.comm.rendezvous-20121013-git.tgz",
-  "repository":"https://github.com/kkazuo/thread.comm.rendezvous.git"
+  "repository":"https://github.com/kkazuo/thread.comm.rendezvous.git",
+  "keywords":
+  [
+  ]
 }

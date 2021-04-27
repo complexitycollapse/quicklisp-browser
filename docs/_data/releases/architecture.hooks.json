@@ -1,5 +1,8 @@
 {
   "name":"architecture.hooks",
   "url":"http://beta.quicklisp.org/archive/architecture.hooks/2018-12-10/architecture.hooks-20181210-git.tgz",
-  "repository":"https://github.com/scymtym/architecture.hooks.git"
+  "repository":"https://github.com/scymtym/architecture.hooks.git",
+  "keywords":
+  [
+  ]
 }

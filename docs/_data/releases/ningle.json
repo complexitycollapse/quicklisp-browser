@@ -1,5 +1,8 @@
 {
   "name":"ningle",
   "url":"http://beta.quicklisp.org/archive/ningle/2019-10-07/ningle-20191007-git.tgz",
-  "repository":"https://github.com/fukamachi/ningle.git"
+  "repository":"https://github.com/fukamachi/ningle.git",
+  "keywords":
+  [
+  ]
 }

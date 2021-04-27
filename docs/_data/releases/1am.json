@@ -1,5 +1,10 @@
 {
   "name":"1am",
   "url":"http://beta.quicklisp.org/archive/1am/2014-11-06/1am-20141106-git.tgz",
-  "repository":"https://github.com/lmj/1am.git"
+  "repository":"https://github.com/lmj/1am.git",
+  "keywords":
+  [
+    "tests",
+    "test"
+  ]
 }

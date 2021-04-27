@@ -1,5 +1,8 @@
 {
   "name":"hunchentools",
   "url":"http://beta.quicklisp.org/archive/hunchentools/2016-12-04/hunchentools-20161204-git.tgz",
-  "repository":"https://github.com/michaeljforster/hunchentools.git"
+  "repository":"https://github.com/michaeljforster/hunchentools.git",
+  "keywords":
+  [
+  ]
 }

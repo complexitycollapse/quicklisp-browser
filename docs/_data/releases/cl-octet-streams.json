@@ -1,5 +1,8 @@
 {
   "name":"cl-octet-streams",
   "url":"http://beta.quicklisp.org/archive/cl-octet-streams/2020-12-20/cl-octet-streams-20201220-git.tgz",
-  "repository":"https://github.com/glv2/cl-octet-streams.git"
+  "repository":"https://github.com/glv2/cl-octet-streams.git",
+  "keywords":
+  [
+  ]
 }

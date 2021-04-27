@@ -1,5 +1,8 @@
 {
   "name":"bordeaux-threads",
   "url":"http://beta.quicklisp.org/archive/bordeaux-threads/2020-06-10/bordeaux-threads-v0.8.8.tgz",
-  "repository":"https://github.com/sionescu/bordeaux-threads.git"
+  "repository":"https://github.com/sionescu/bordeaux-threads.git",
+  "keywords":
+  [
+  ]
 }

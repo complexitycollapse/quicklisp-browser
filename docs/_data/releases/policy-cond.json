@@ -1,5 +1,8 @@
 {
   "name":"policy-cond",
   "url":"http://beta.quicklisp.org/archive/policy-cond/2020-04-27/policy-cond-20200427-git.tgz",
-  "repository":"https://github.com/stylewarning/policy-cond.git"
+  "repository":"https://github.com/stylewarning/policy-cond.git",
+  "keywords":
+  [
+  ]
 }

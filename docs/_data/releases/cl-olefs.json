@@ -1,5 +1,8 @@
 {
   "name":"cl-olefs",
   "url":"http://beta.quicklisp.org/archive/cl-olefs/2015-07-09/cl-olefs-20150709-git.tgz",
-  "repository":"http://logand.com/git/cl-olefs.git"
+  "repository":"http://logand.com/git/cl-olefs.git",
+  "keywords":
+  [
+  ]
 }

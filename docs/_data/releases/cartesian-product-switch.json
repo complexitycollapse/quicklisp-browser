@@ -1,5 +1,8 @@
 {
   "name":"cartesian-product-switch",
   "url":"http://beta.quicklisp.org/archive/cartesian-product-switch/2012-09-09/cartesian-product-switch-2.0.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/cartesian-product-switch_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/cartesian-product-switch_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

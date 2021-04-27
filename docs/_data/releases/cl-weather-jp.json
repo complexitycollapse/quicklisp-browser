@@ -1,5 +1,8 @@
 {
   "name":"cl-weather-jp",
   "url":"http://beta.quicklisp.org/archive/cl-weather-jp/2016-02-08/cl-weather-jp-20160208-git.tgz",
-  "repository":"https://github.com/fukamachi/cl-weather-jp.git"
+  "repository":"https://github.com/fukamachi/cl-weather-jp.git",
+  "keywords":
+  [
+  ]
 }

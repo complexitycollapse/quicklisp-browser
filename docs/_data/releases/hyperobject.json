@@ -1,5 +1,8 @@
 {
   "name":"hyperobject",
   "url":"http://beta.quicklisp.org/archive/hyperobject/2020-10-16/hyperobject-20201016-git.tgz",
-  "repository":"hyperobject"
+  "repository":"hyperobject",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-emoji",
   "url":"http://beta.quicklisp.org/archive/cl-emoji/2020-02-18/cl-emoji-20200218-git.tgz",
-  "repository":"https://github.com/asciian/cl-emoji.git"
+  "repository":"https://github.com/asciian/cl-emoji.git",
+  "keywords":
+  [
+  ]
 }

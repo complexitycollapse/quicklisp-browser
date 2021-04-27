@@ -1,5 +1,8 @@
 {
   "name":"cl-tiled",
   "url":"http://beta.quicklisp.org/archive/cl-tiled/2019-11-30/cl-tiled-20191130-git.tgz",
-  "repository":"https://github.com/Zulu-Inuoe/cl-tiled.git"
+  "repository":"https://github.com/Zulu-Inuoe/cl-tiled.git",
+  "keywords":
+  [
+  ]
 }

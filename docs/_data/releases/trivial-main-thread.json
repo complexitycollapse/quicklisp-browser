@@ -1,5 +1,8 @@
 {
   "name":"trivial-main-thread",
   "url":"http://beta.quicklisp.org/archive/trivial-main-thread/2019-07-10/trivial-main-thread-20190710-git.tgz",
-  "repository":"https://github.com/Shinmera/trivial-main-thread.git"
+  "repository":"https://github.com/Shinmera/trivial-main-thread.git",
+  "keywords":
+  [
+  ]
 }

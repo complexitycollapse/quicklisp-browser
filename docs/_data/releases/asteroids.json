@@ -1,5 +1,18 @@
 {
   "name":"asteroids",
   "url":"http://beta.quicklisp.org/archive/asteroids/2019-10-07/asteroids-20191007-git.tgz",
-  "repository":"https://github.com/stacksmith/asteroids.git"
+  "repository":"https://github.com/stacksmith/asteroids.git",
+  "keywords":
+  [
+    "asteroids",
+    "game",
+    "code",
+    "http",
+    "install",
+    "esc",
+    "repl",
+    "ship",
+    "rotate",
+    "powerups"
+  ]
 }

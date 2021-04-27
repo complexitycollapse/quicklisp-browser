@@ -1,5 +1,8 @@
 {
   "name":"modf-fset",
   "url":"http://beta.quicklisp.org/archive/modf-fset/2015-06-08/modf-fset-20150608-git.tgz",
-  "repository":"https://github.com/smithzvk/modf-fset.git"
+  "repository":"https://github.com/smithzvk/modf-fset.git",
+  "keywords":
+  [
+  ]
 }

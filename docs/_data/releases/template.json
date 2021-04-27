@@ -1,5 +1,8 @@
 {
   "name":"template",
   "url":"http://beta.quicklisp.org/archive/template/2019-03-07/template-20190307-hg.tgz",
-  "repository":"https://bitbucket.org/tarballs_are_good/template"
+  "repository":"https://bitbucket.org/tarballs_are_good/template",
+  "keywords":
+  [
+  ]
 }

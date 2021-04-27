@@ -1,5 +1,8 @@
 {
   "name":"cl-liballegro-nuklear",
   "url":"http://beta.quicklisp.org/archive/cl-liballegro-nuklear/2021-04-11/cl-liballegro-nuklear-20210411-git.tgz",
-  "repository":"https://gitlab.com/lockie/cl-liballegro-nuklear.git"
+  "repository":"https://gitlab.com/lockie/cl-liballegro-nuklear.git",
+  "keywords":
+  [
+  ]
 }

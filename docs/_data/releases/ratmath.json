@@ -1,5 +1,8 @@
 {
   "name":"ratmath",
   "url":"http://beta.quicklisp.org/archive/ratmath/2020-02-18/ratmath-20200218-git.tgz",
-  "repository":"https://github.com/jesseoff/ratmath.git"
+  "repository":"https://github.com/jesseoff/ratmath.git",
+  "keywords":
+  [
+  ]
 }

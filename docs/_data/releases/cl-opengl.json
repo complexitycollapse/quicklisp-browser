@@ -1,5 +1,8 @@
 {
   "name":"cl-opengl",
   "url":"http://beta.quicklisp.org/archive/cl-opengl/2019-11-30/cl-opengl-20191130-git.tgz",
-  "repository":"https://github.com/3b/cl-opengl.git"
+  "repository":"https://github.com/3b/cl-opengl.git",
+  "keywords":
+  [
+  ]
 }

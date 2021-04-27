@@ -1,5 +1,8 @@
 {
   "name":"cl-spark",
   "url":"http://beta.quicklisp.org/archive/cl-spark/2015-07-09/cl-spark-20150709-git.tgz",
-  "repository":"https://github.com/tkych/cl-spark.git"
+  "repository":"https://github.com/tkych/cl-spark.git",
+  "keywords":
+  [
+  ]
 }

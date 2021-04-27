@@ -1,5 +1,8 @@
 {
   "name":"anaphora",
   "url":"http://beta.quicklisp.org/archive/anaphora/2021-01-24/anaphora-20210124-git.tgz",
-  "repository":"https://github.com/tokenrove/anaphora"
+  "repository":"https://github.com/tokenrove/anaphora",
+  "keywords":
+  [
+  ]
 }

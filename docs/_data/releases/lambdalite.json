@@ -1,5 +1,8 @@
 {
   "name":"lambdalite",
   "url":"http://beta.quicklisp.org/archive/lambdalite/2014-12-17/lambdalite-20141217-git.tgz",
-  "repository":"https://github.com/Wukix/LambdaLite.git"
+  "repository":"https://github.com/Wukix/LambdaLite.git",
+  "keywords":
+  [
+  ]
 }

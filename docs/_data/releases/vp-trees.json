@@ -1,5 +1,8 @@
 {
   "name":"vp-trees",
   "url":"http://beta.quicklisp.org/archive/vp-trees/2020-12-20/vp-trees-20201220-git.tgz",
-  "repository":"https://github.com/shamazmazum/vp-trees.git"
+  "repository":"https://github.com/shamazmazum/vp-trees.git",
+  "keywords":
+  [
+  ]
 }

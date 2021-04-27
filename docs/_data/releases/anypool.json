@@ -1,5 +1,18 @@
 {
   "name":"anypool",
   "url":"http://beta.quicklisp.org/archive/anypool/2021-04-11/anypool-20210411-git.tgz",
-  "repository":"https://github.com/fukamachi/anypool.git"
+  "repository":"https://github.com/fukamachi/anypool.git",
+  "keywords":
+  [
+    "pool",
+    "connections",
+    "number",
+    "accessor",
+    "idle",
+    "open",
+    "maximum",
+    "connection",
+    "available",
+    "putback"
+  ]
 }

@@ -1,5 +1,11 @@
 {
   "name":"bknr-web",
   "url":"http://beta.quicklisp.org/archive/bknr-web/2014-07-13/bknr-web-20140713-git.tgz",
-  "repository":"https://github.com/hanshuebner/bknr-web.git"
+  "repository":"https://github.com/hanshuebner/bknr-web.git",
+  "keywords":
+  [
+    "framework",
+    "web",
+    "bknr"
+  ]
 }

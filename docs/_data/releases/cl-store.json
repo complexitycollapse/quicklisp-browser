@@ -1,5 +1,8 @@
 {
   "name":"cl-store",
   "url":"http://beta.quicklisp.org/archive/cl-store/2020-09-25/cl-store-20200925-git.tgz",
-  "repository":"https://github.com/skypher/cl-store.git"
+  "repository":"https://github.com/skypher/cl-store.git",
+  "keywords":
+  [
+  ]
 }

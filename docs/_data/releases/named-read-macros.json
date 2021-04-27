@@ -1,5 +1,8 @@
 {
   "name":"named-read-macros",
   "url":"http://beta.quicklisp.org/archive/named-read-macros/2021-02-28/named-read-macros-20210228-git.tgz",
-  "repository":"https://github.com/williamyaoh/named-read-macros.git"
+  "repository":"https://github.com/williamyaoh/named-read-macros.git",
+  "keywords":
+  [
+  ]
 }

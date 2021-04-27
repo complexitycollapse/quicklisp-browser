@@ -1,5 +1,8 @@
 {
   "name":"cl-freeimage",
   "url":"http://beta.quicklisp.org/archive/cl-freeimage/2017-04-03/cl-freeimage-20170403-git.tgz",
-  "repository":"https://github.com/BradWBeer/cl-freeimage.git"
+  "repository":"https://github.com/BradWBeer/cl-freeimage.git",
+  "keywords":
+  [
+  ]
 }

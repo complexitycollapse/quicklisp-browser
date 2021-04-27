@@ -1,5 +1,8 @@
 {
   "name":"definitions",
   "url":"http://beta.quicklisp.org/archive/definitions/2020-02-18/definitions-20200218-git.tgz",
-  "repository":"https://github.com/Shinmera/definitions.git"
+  "repository":"https://github.com/Shinmera/definitions.git",
+  "keywords":
+  [
+  ]
 }

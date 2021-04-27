@@ -1,5 +1,8 @@
 {
   "name":"cl-debug-print",
   "url":"http://beta.quicklisp.org/archive/cl-debug-print/2021-02-28/cl-debug-print-20210228-git.tgz",
-  "repository":"https://github.com/masatoi/cl-debug-print.git"
+  "repository":"https://github.com/masatoi/cl-debug-print.git",
+  "keywords":
+  [
+  ]
 }

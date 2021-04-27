@@ -1,5 +1,8 @@
 {
   "name":"mexpr",
   "url":"http://beta.quicklisp.org/archive/mexpr/2015-07-09/mexpr-20150709-git.tgz",
-  "repository":"https://github.com/tmccombs/mexpr.git"
+  "repository":"https://github.com/tmccombs/mexpr.git",
+  "keywords":
+  [
+  ]
 }

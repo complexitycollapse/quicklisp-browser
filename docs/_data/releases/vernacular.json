@@ -1,5 +1,8 @@
 {
   "name":"vernacular",
   "url":"http://beta.quicklisp.org/archive/vernacular/2020-09-25/vernacular-20200925-git.tgz",
-  "repository":"https://github.com/ruricolist/vernacular.git"
+  "repository":"https://github.com/ruricolist/vernacular.git",
+  "keywords":
+  [
+  ]
 }

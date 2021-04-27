@@ -1,5 +1,8 @@
 {
   "name":"cl-irregsexp",
   "url":"http://beta.quicklisp.org/archive/cl-irregsexp/2016-08-25/cl-irregsexp-20160825-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/cl-irregsexp/cl-irregsexp.git"
+  "repository":"https://gitlab.common-lisp.net/cl-irregsexp/cl-irregsexp.git",
+  "keywords":
+  [
+  ]
 }

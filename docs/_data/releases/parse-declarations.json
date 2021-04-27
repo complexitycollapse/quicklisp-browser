@@ -1,5 +1,8 @@
 {
   "name":"parse-declarations",
   "url":"http://beta.quicklisp.org/archive/parse-declarations/2010-10-06/parse-declarations-20101006-darcs.tgz",
-  "repository":"https://gitlab.common-lisp.net/parse-declarations/parse-declarations.git"
+  "repository":"https://gitlab.common-lisp.net/parse-declarations/parse-declarations.git",
+  "keywords":
+  [
+  ]
 }

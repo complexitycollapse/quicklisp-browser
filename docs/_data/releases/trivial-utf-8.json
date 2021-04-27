@@ -1,5 +1,8 @@
 {
   "name":"trivial-utf-8",
   "url":"http://beta.quicklisp.org/archive/trivial-utf-8/2020-09-25/trivial-utf-8-20200925-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/trivial-utf-8/trivial-utf-8.git"
+  "repository":"https://gitlab.common-lisp.net/trivial-utf-8/trivial-utf-8.git",
+  "keywords":
+  [
+  ]
 }

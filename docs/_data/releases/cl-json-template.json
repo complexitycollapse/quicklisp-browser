@@ -1,5 +1,8 @@
 {
   "name":"cl-json-template",
   "url":"http://beta.quicklisp.org/archive/cl-json-template/2017-06-30/cl-json-template-20170630-git.tgz",
-  "repository":"https://git.benkard.de/mulk/cl-json-template.git"
+  "repository":"https://git.benkard.de/mulk/cl-json-template.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,18 @@
 {
   "name":"aws-sign4",
   "url":"http://beta.quicklisp.org/archive/aws-sign4/2020-12-20/aws-sign4-20201220-git.tgz",
-  "repository":"https://github.com/rotatef/aws-sign4.git"
+  "repository":"https://github.com/rotatef/aws-sign4.git",
+  "keywords":
+  [
+    "request",
+    "string",
+    "aws",
+    "http",
+    "default",
+    "url",
+    "presigned",
+    "amazon",
+    "date",
+    "headers"
+  ]
 }

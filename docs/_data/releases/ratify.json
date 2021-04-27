@@ -1,5 +1,8 @@
 {
   "name":"ratify",
   "url":"http://beta.quicklisp.org/archive/ratify/2019-10-07/ratify-20191007-git.tgz",
-  "repository":"https://github.com/Shinmera/Ratify.git"
+  "repository":"https://github.com/Shinmera/Ratify.git",
+  "keywords":
+  [
+  ]
 }

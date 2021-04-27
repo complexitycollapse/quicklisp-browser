@@ -1,5 +1,8 @@
 {
   "name":"markdown.cl",
   "url":"http://beta.quicklisp.org/archive/markdown.cl/2021-02-28/markdown.cl-20210228-git.tgz",
-  "repository":"https://github.com/orthecreedence/markdown.cl.git"
+  "repository":"https://github.com/orthecreedence/markdown.cl.git",
+  "keywords":
+  [
+  ]
 }

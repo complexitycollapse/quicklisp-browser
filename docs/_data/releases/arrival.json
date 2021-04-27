@@ -1,5 +1,8 @@
 {
   "name":"arrival",
   "url":"http://beta.quicklisp.org/archive/arrival/2020-06-10/arrival-20200610-git.tgz",
-  "repository":"https://github.com/guicho271828/ArriVAL.git"
+  "repository":"https://github.com/guicho271828/ArriVAL.git",
+  "keywords":
+  [
+  ]
 }

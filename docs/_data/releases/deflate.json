@@ -1,5 +1,8 @@
 {
   "name":"deflate",
   "url":"http://beta.quicklisp.org/archive/deflate/2020-02-18/deflate-20200218-git.tgz",
-  "repository":"https://github.com/pmai/Deflate.git"
+  "repository":"https://github.com/pmai/Deflate.git",
+  "keywords":
+  [
+  ]
 }

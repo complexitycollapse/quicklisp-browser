@@ -1,5 +1,18 @@
 {
   "name":"audio-tag",
   "url":"http://beta.quicklisp.org/archive/audio-tag/2021-04-11/audio-tag-20210411-git.tgz",
-  "repository":"https://github.com/C-Entropy/audio-tag.git"
+  "repository":"https://github.com/C-Entropy/audio-tag.git",
+  "keywords":
+  [
+    "id",
+    "lyrics",
+    "support",
+    "temp",
+    "",
+    "tracknumber",
+    "春江花月夜《编钟与编磬》",
+    "title",
+    "lavf",
+    "encoder"
+  ]
 }

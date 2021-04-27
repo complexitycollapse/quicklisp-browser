@@ -1,5 +1,8 @@
 {
   "name":"paren-files",
   "url":"http://beta.quicklisp.org/archive/paren-files/2011-04-18/paren-files-20110418-git.tgz",
-  "repository":"https://github.com/gonzojive/paren-files"
+  "repository":"https://github.com/gonzojive/paren-files",
+  "keywords":
+  [
+  ]
 }

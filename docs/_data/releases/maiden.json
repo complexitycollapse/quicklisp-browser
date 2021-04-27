@@ -1,5 +1,8 @@
 {
   "name":"maiden",
   "url":"http://beta.quicklisp.org/archive/maiden/2021-04-11/maiden-20210411-git.tgz",
-  "repository":"https://github.com/Shirakumo/maiden.git"
+  "repository":"https://github.com/Shirakumo/maiden.git",
+  "keywords":
+  [
+  ]
 }

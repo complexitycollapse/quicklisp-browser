@@ -1,5 +1,8 @@
 {
   "name":"defrec",
   "url":"http://beta.quicklisp.org/archive/defrec/2019-03-07/defrec-20190307-hg.tgz",
-  "repository":"https://bitbucket.org/tarballs_are_good/defrec"
+  "repository":"https://bitbucket.org/tarballs_are_good/defrec",
+  "keywords":
+  [
+  ]
 }

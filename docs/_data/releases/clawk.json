@@ -1,5 +1,8 @@
 {
   "name":"clawk",
   "url":"http://beta.quicklisp.org/archive/clawk/2020-09-25/clawk-20200925-git.tgz",
-  "repository":"https://github.com/sharplispers/clawk.git"
+  "repository":"https://github.com/sharplispers/clawk.git",
+  "keywords":
+  [
+  ]
 }

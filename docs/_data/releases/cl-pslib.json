@@ -1,5 +1,8 @@
 {
   "name":"cl-pslib",
   "url":"http://beta.quicklisp.org/archive/cl-pslib/2020-10-16/cl-pslib-20201016-git.tgz",
-  "repository":"https://notabug.org/cage/cl-pslib.git"
+  "repository":"https://notabug.org/cage/cl-pslib.git",
+  "keywords":
+  [
+  ]
 }

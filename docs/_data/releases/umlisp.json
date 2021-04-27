@@ -1,5 +1,8 @@
 {
   "name":"umlisp",
   "url":"http://beta.quicklisp.org/archive/umlisp/2021-04-11/umlisp-20210411-git.tgz",
-  "repository":"umlisp"
+  "repository":"umlisp",
+  "keywords":
+  [
+  ]
 }

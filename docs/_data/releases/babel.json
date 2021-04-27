@@ -1,5 +1,8 @@
 {
   "name":"babel",
   "url":"http://beta.quicklisp.org/archive/babel/2020-09-25/babel-20200925-git.tgz",
-  "repository":"https://github.com/cl-babel/babel.git"
+  "repository":"https://github.com/cl-babel/babel.git",
+  "keywords":
+  [
+  ]
 }

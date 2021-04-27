@@ -1,5 +1,8 @@
 {
   "name":"curve",
   "url":"http://beta.quicklisp.org/archive/curve/2013-01-28/curve-20130128-git.tgz",
-  "repository":"https://github.com/elbeno/curve.git"
+  "repository":"https://github.com/elbeno/curve.git",
+  "keywords":
+  [
+  ]
 }

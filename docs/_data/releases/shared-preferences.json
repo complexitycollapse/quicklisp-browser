@@ -1,5 +1,8 @@
 {
   "name":"shared-preferences",
   "url":"http://beta.quicklisp.org/archive/shared-preferences/2021-02-28/shared-preferences_1.1.1.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/shared-preferences_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/shared-preferences_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

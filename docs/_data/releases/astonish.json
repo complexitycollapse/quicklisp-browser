@@ -1,5 +1,8 @@
 {
   "name":"astonish",
   "url":"http://beta.quicklisp.org/archive/astonish/2021-01-24/astonish-20210124-git.tgz",
-  "repository":"https://gitlab.com/TheLostLambda/astonish.git"
+  "repository":"https://gitlab.com/TheLostLambda/astonish.git",
+  "keywords":
+  [
+  ]
 }

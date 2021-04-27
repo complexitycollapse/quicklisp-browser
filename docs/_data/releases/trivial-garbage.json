@@ -1,5 +1,8 @@
 {
   "name":"trivial-garbage",
   "url":"http://beta.quicklisp.org/archive/trivial-garbage/2020-09-25/trivial-garbage-20200925-git.tgz",
-  "repository":"https://github.com/trivial-garbage/trivial-garbage"
+  "repository":"https://github.com/trivial-garbage/trivial-garbage",
+  "keywords":
+  [
+  ]
 }

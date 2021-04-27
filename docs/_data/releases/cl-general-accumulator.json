@@ -1,5 +1,8 @@
 {
   "name":"cl-general-accumulator",
   "url":"http://beta.quicklisp.org/archive/cl-general-accumulator/2019-05-21/cl-general-accumulator-20190521-git.tgz",
-  "repository":"https://github.com/tlikonen/cl-general-accumulator.git"
+  "repository":"https://github.com/tlikonen/cl-general-accumulator.git",
+  "keywords":
+  [
+  ]
 }

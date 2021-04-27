@@ -1,5 +1,8 @@
 {
   "name":"memoize",
   "url":"http://beta.quicklisp.org/archive/memoize/2014-08-26/memoize-20140826-http.tgz",
-  "repository":"http://beta.quicklisp.org/orphans/tfeb/memoize.lisp"
+  "repository":"http://beta.quicklisp.org/orphans/tfeb/memoize.lisp",
+  "keywords":
+  [
+  ]
 }

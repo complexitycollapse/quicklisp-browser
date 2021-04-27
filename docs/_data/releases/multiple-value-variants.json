@@ -1,5 +1,8 @@
 {
   "name":"multiple-value-variants",
   "url":"http://beta.quicklisp.org/archive/multiple-value-variants/2014-08-26/multiple-value-variants-1.0.1.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/multiple-value-variants_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/multiple-value-variants_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-setlocale",
   "url":"http://beta.quicklisp.org/archive/cl-setlocale/2020-12-20/cl-setlocale-20201220-git.tgz",
-  "repository":"https://github.com/shamazmazum/cl-setlocale.git"
+  "repository":"https://github.com/shamazmazum/cl-setlocale.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-epoch",
   "url":"http://beta.quicklisp.org/archive/cl-epoch/2018-12-10/cl-epoch-20181210-git.tgz",
-  "repository":"https://github.com/mcandre/cl-epoch.git"
+  "repository":"https://github.com/mcandre/cl-epoch.git",
+  "keywords":
+  [
+  ]
 }

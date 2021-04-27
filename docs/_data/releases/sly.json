@@ -1,5 +1,8 @@
 {
   "name":"sly",
   "url":"http://beta.quicklisp.org/archive/sly/2021-04-11/sly-20210411-git.tgz",
-  "repository":"https://github.com/joaotavora/sly.git"
+  "repository":"https://github.com/joaotavora/sly.git",
+  "keywords":
+  [
+  ]
 }

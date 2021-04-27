@@ -1,5 +1,8 @@
 {
   "name":"misc-extensions",
   "url":"http://beta.quicklisp.org/archive/misc-extensions/2015-06-08/misc-extensions-20150608-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/misc-extensions/devel.git"
+  "repository":"https://gitlab.common-lisp.net/misc-extensions/devel.git",
+  "keywords":
+  [
+  ]
 }

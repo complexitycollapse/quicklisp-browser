@@ -1,5 +1,8 @@
 {
   "name":"literate-lisp",
   "url":"http://beta.quicklisp.org/archive/literate-lisp/2020-12-20/literate-lisp-20201220-git.tgz",
-  "repository":"https://github.com/jingtaozf/literate-lisp.git"
+  "repository":"https://github.com/jingtaozf/literate-lisp.git",
+  "keywords":
+  [
+  ]
 }

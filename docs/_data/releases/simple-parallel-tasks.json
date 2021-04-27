@@ -1,5 +1,8 @@
 {
   "name":"simple-parallel-tasks",
   "url":"http://beta.quicklisp.org/archive/simple-parallel-tasks/2020-12-20/simple-parallel-tasks-20201220-git.tgz",
-  "repository":"https://github.com/glv2/simple-parallel-tasks.git"
+  "repository":"https://github.com/glv2/simple-parallel-tasks.git",
+  "keywords":
+  [
+  ]
 }

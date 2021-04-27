@@ -1,5 +1,8 @@
 {
   "name":"unix-options",
   "url":"http://beta.quicklisp.org/archive/unix-options/2015-10-31/unix-options-20151031-git.tgz",
-  "repository":"https://github.com/astine/unix-options.git"
+  "repository":"https://github.com/astine/unix-options.git",
+  "keywords":
+  [
+  ]
 }

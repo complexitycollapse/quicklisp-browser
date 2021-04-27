@@ -1,5 +1,8 @@
 {
   "name":"xsubseq",
   "url":"http://beta.quicklisp.org/archive/xsubseq/2017-08-30/xsubseq-20170830-git.tgz",
-  "repository":"https://github.com/fukamachi/xsubseq.git"
+  "repository":"https://github.com/fukamachi/xsubseq.git",
+  "keywords":
+  [
+  ]
 }

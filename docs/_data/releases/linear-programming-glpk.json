@@ -1,5 +1,8 @@
 {
   "name":"linear-programming-glpk",
   "url":"http://beta.quicklisp.org/archive/linear-programming-glpk/2020-12-20/linear-programming-glpk-20201220-git.tgz",
-  "repository":"https://github.com/neil-lindquist/linear-programming-glpk.git"
+  "repository":"https://github.com/neil-lindquist/linear-programming-glpk.git",
+  "keywords":
+  [
+  ]
 }

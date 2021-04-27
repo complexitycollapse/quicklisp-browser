@@ -1,5 +1,8 @@
 {
   "name":"serializable-object",
   "url":"http://beta.quicklisp.org/archive/serializable-object/2019-12-27/serializable-object-20191227-git.tgz",
-  "repository":"https://github.com/guicho271828/serializable-object.git"
+  "repository":"https://github.com/guicho271828/serializable-object.git",
+  "keywords":
+  [
+  ]
 }

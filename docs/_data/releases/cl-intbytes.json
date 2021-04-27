@@ -1,5 +1,8 @@
 {
   "name":"cl-intbytes",
   "url":"http://beta.quicklisp.org/archive/cl-intbytes/2015-09-23/cl-intbytes-20150923-git.tgz",
-  "repository":"https://github.com/EuAndreh/cl-intbytes.git"
+  "repository":"https://github.com/EuAndreh/cl-intbytes.git",
+  "keywords":
+  [
+  ]
 }

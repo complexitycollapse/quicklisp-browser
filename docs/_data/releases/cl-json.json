@@ -1,5 +1,8 @@
 {
   "name":"cl-json",
   "url":"http://beta.quicklisp.org/archive/cl-json/2014-12-17/cl-json-20141217-git.tgz",
-  "repository":"https://github.com/hankhero/cl-json.git"
+  "repository":"https://github.com/hankhero/cl-json.git",
+  "keywords":
+  [
+  ]
 }

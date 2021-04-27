@@ -1,5 +1,8 @@
 {
   "name":"stealth-mixin",
   "url":"http://beta.quicklisp.org/archive/stealth-mixin/2018-12-10/stealth-mixin-20181210-git.tgz",
-  "repository":"https://github.com/robert-strandh/Stealth-mixin.git"
+  "repository":"https://github.com/robert-strandh/Stealth-mixin.git",
+  "keywords":
+  [
+  ]
 }

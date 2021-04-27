@@ -1,5 +1,8 @@
 {
   "name":"safe-read",
   "url":"http://beta.quicklisp.org/archive/safe-read/2018-10-18/safe-read-20181018-git.tgz",
-  "repository":"https://github.com/phoe/safe-read.git"
+  "repository":"https://github.com/phoe/safe-read.git",
+  "keywords":
+  [
+  ]
 }

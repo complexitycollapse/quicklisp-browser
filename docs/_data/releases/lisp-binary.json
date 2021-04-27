@@ -1,5 +1,8 @@
 {
   "name":"lisp-binary",
   "url":"http://beta.quicklisp.org/archive/lisp-binary/2021-04-11/lisp-binary-20210411-git.tgz",
-  "repository":"https://github.com/heegaiximephoomeeghahyaiseekh/lisp-binary.git"
+  "repository":"https://github.com/heegaiximephoomeeghahyaiseekh/lisp-binary.git",
+  "keywords":
+  [
+  ]
 }

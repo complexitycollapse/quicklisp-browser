@@ -1,5 +1,8 @@
 {
   "name":"iso-8601-date",
   "url":"http://beta.quicklisp.org/archive/iso-8601-date/2019-01-07/iso-8601-date-20190107-git.tgz",
-  "repository":"https://gitlab.com/DataLinkDroid/iso-8601-date.git"
+  "repository":"https://gitlab.com/DataLinkDroid/iso-8601-date.git",
+  "keywords":
+  [
+  ]
 }

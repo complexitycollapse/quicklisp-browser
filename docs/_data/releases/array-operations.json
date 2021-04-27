@@ -1,5 +1,10 @@
 {
   "name":"array-operations",
   "url":"http://beta.quicklisp.org/archive/array-operations/2021-04-11/array-operations-20210411-git.tgz",
-  "repository":"https://github.com/bendudson/array-operations.git"
+  "repository":"https://github.com/bendudson/array-operations.git",
+  "keywords":
+  [
+    "aops",
+    "array"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-kraken",
   "url":"http://beta.quicklisp.org/archive/cl-kraken/2021-04-11/cl-kraken-20210411-git.tgz",
-  "repository":"https://github.com/jonatack/cl-kraken.git"
+  "repository":"https://github.com/jonatack/cl-kraken.git",
+  "keywords":
+  [
+  ]
 }

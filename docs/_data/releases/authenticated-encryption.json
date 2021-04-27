@@ -1,5 +1,8 @@
 {
   "name":"authenticated-encryption",
   "url":"http://beta.quicklisp.org/archive/authenticated-encryption/2018-10-18/authenticated-encryption-20181018-git.tgz",
-  "repository":"https://github.com/kkazuo/authenticated-encryption.git"
+  "repository":"https://github.com/kkazuo/authenticated-encryption.git",
+  "keywords":
+  [
+  ]
 }

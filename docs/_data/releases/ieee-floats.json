@@ -1,5 +1,8 @@
 {
   "name":"ieee-floats",
   "url":"http://beta.quicklisp.org/archive/ieee-floats/2017-08-30/ieee-floats-20170830-git.tgz",
-  "repository":"https://github.com/marijnh/ieee-floats.git"
+  "repository":"https://github.com/marijnh/ieee-floats.git",
+  "keywords":
+  [
+  ]
 }

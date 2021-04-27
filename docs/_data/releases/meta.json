@@ -1,5 +1,8 @@
 {
   "name":"meta",
   "url":"http://beta.quicklisp.org/archive/meta/2015-06-08/meta-20150608-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/frideau/meta.git"
+  "repository":"https://gitlab.common-lisp.net/frideau/meta.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"clump",
   "url":"http://beta.quicklisp.org/archive/clump/2016-08-25/clump-20160825-git.tgz",
-  "repository":"https://github.com/robert-strandh/Clump.git"
+  "repository":"https://github.com/robert-strandh/Clump.git",
+  "keywords":
+  [
+  ]
 }

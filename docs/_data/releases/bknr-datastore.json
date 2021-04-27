@@ -1,5 +1,8 @@
 {
   "name":"bknr-datastore",
   "url":"http://beta.quicklisp.org/archive/bknr-datastore/2019-12-27/bknr-datastore-20191227-git.tgz",
-  "repository":"https://github.com/sharplispers/bknr.datastore.git"
+  "repository":"https://github.com/sharplispers/bknr.datastore.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"safe-queue",
   "url":"http://beta.quicklisp.org/archive/safe-queue/2020-03-25/safe-queue-20200325-git.tgz",
-  "repository":"https://github.com/deadtrickster/safe-queue.git"
+  "repository":"https://github.com/deadtrickster/safe-queue.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"clweb",
   "url":"http://beta.quicklisp.org/archive/clweb/2020-12-20/clweb-20201220-git.tgz",
-  "repository":"https://github.com/plotnick/clweb.git"
+  "repository":"https://github.com/plotnick/clweb.git",
+  "keywords":
+  [
+  ]
 }

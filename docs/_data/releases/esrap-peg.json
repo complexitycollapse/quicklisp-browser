@@ -1,5 +1,8 @@
 {
   "name":"esrap-peg",
   "url":"http://beta.quicklisp.org/archive/esrap-peg/2019-10-07/esrap-peg-20191007-git.tgz",
-  "repository":"https://github.com/fb08af68/esrap-peg.git"
+  "repository":"https://github.com/fb08af68/esrap-peg.git",
+  "keywords":
+  [
+  ]
 }

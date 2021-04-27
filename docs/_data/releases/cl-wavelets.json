@@ -1,5 +1,8 @@
 {
   "name":"cl-wavelets",
   "url":"http://beta.quicklisp.org/archive/cl-wavelets/2020-12-20/cl-wavelets-20201220-git.tgz",
-  "repository":"https://github.com/shamazmazum/cl-wavelets.git"
+  "repository":"https://github.com/shamazmazum/cl-wavelets.git",
+  "keywords":
+  [
+  ]
 }

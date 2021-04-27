@@ -1,5 +1,8 @@
 {
   "name":"mito",
   "url":"http://beta.quicklisp.org/archive/mito/2021-04-11/mito-20210411-git.tgz",
-  "repository":"https://github.com/fukamachi/mito.git"
+  "repository":"https://github.com/fukamachi/mito.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-data-frame",
   "url":"http://beta.quicklisp.org/archive/cl-data-frame/2017-11-30/cl-data-frame-20171130-git.tgz",
-  "repository":"https://github.com/tpapp/cl-data-frame.git"
+  "repository":"https://github.com/tpapp/cl-data-frame.git",
+  "keywords":
+  [
+  ]
 }

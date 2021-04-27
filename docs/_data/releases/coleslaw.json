@@ -1,5 +1,8 @@
 {
   "name":"coleslaw",
   "url":"http://beta.quicklisp.org/archive/coleslaw/2021-01-24/coleslaw-20210124-git.tgz",
-  "repository":"https://github.com/coleslaw-org/coleslaw.git"
+  "repository":"https://github.com/coleslaw-org/coleslaw.git",
+  "keywords":
+  [
+  ]
 }

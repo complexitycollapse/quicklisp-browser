@@ -1,5 +1,8 @@
 {
   "name":"envy",
   "url":"http://beta.quicklisp.org/archive/envy/2019-08-13/envy-20190813-git.tgz",
-  "repository":"https://github.com/fukamachi/envy.git"
+  "repository":"https://github.com/fukamachi/envy.git",
+  "keywords":
+  [
+  ]
 }

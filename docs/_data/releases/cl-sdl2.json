@@ -1,5 +1,8 @@
 {
   "name":"cl-sdl2",
   "url":"http://beta.quicklisp.org/archive/cl-sdl2/2020-12-20/cl-sdl2-20201220-git.tgz",
-  "repository":"https://github.com/lispgames/cl-sdl2.git"
+  "repository":"https://github.com/lispgames/cl-sdl2.git",
+  "keywords":
+  [
+  ]
 }

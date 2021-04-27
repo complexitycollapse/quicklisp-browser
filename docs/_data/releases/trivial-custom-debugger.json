@@ -1,5 +1,8 @@
 {
   "name":"trivial-custom-debugger",
   "url":"http://beta.quicklisp.org/archive/trivial-custom-debugger/2020-09-25/trivial-custom-debugger-20200925-git.tgz",
-  "repository":"https://github.com/phoe/trivial-custom-debugger.git"
+  "repository":"https://github.com/phoe/trivial-custom-debugger.git",
+  "keywords":
+  [
+  ]
 }

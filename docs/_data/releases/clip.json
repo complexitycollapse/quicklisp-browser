@@ -1,5 +1,8 @@
 {
   "name":"clip",
   "url":"http://beta.quicklisp.org/archive/clip/2020-04-27/clip-20200427-git.tgz",
-  "repository":"https://github.com/Shinmera/clip.git"
+  "repository":"https://github.com/Shinmera/clip.git",
+  "keywords":
+  [
+  ]
 }

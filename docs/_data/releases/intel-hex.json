@@ -1,5 +1,8 @@
 {
   "name":"intel-hex",
   "url":"http://beta.quicklisp.org/archive/intel-hex/2016-03-18/intel-hex-20160318-git.tgz",
-  "repository":"https://github.com/takagi/intel-hex.git"
+  "repository":"https://github.com/takagi/intel-hex.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-splicing-macro",
   "url":"http://beta.quicklisp.org/archive/cl-splicing-macro/2014-07-13/cl-splicing-macro-20140713-git.tgz",
-  "repository":"https://github.com/mabragor/cl-splicing-macro.git"
+  "repository":"https://github.com/mabragor/cl-splicing-macro.git",
+  "keywords":
+  [
+  ]
 }

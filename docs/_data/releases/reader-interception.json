@@ -1,5 +1,8 @@
 {
   "name":"reader-interception",
   "url":"http://beta.quicklisp.org/archive/reader-interception/2015-06-08/reader-interception-20150608-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/frideau/reader-interception.git"
+  "repository":"https://gitlab.common-lisp.net/frideau/reader-interception.git",
+  "keywords":
+  [
+  ]
 }

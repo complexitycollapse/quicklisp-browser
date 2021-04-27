@@ -1,5 +1,8 @@
 {
   "name":"fset",
   "url":"http://beta.quicklisp.org/archive/fset/2020-09-25/fset-20200925-git.tgz",
-  "repository":"https://github.com/slburson/fset.git"
+  "repository":"https://github.com/slburson/fset.git",
+  "keywords":
+  [
+  ]
 }

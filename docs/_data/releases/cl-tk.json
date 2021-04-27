@@ -1,5 +1,8 @@
 {
   "name":"cl-tk",
   "url":"http://beta.quicklisp.org/archive/cl-tk/2015-06-08/cl-tk-20150608-git.tgz",
-  "repository":"https://github.com/marijnh/cl-tk.git"
+  "repository":"https://github.com/marijnh/cl-tk.git",
+  "keywords":
+  [
+  ]
 }

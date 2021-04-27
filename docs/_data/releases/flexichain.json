@@ -1,5 +1,8 @@
 {
   "name":"flexichain",
   "url":"http://beta.quicklisp.org/archive/flexichain/2020-12-20/flexichain-20201220-git.tgz",
-  "repository":"https://github.com/robert-strandh/Flexichain.git"
+  "repository":"https://github.com/robert-strandh/Flexichain.git",
+  "keywords":
+  [
+  ]
 }

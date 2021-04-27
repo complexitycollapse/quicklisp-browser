@@ -1,5 +1,8 @@
 {
   "name":"inotify",
   "url":"http://beta.quicklisp.org/archive/inotify/2015-06-08/inotify-20150608-git.tgz",
-  "repository":"https://github.com/stassats/inotify.git"
+  "repository":"https://github.com/stassats/inotify.git",
+  "keywords":
+  [
+  ]
 }

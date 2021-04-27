@@ -1,5 +1,8 @@
 {
   "name":"cl-permutation",
   "url":"http://beta.quicklisp.org/archive/cl-permutation/2019-10-07/cl-permutation-20191007-git.tgz",
-  "repository":"https://github.com/tarballs-are-good/cl-permutation.git"
+  "repository":"https://github.com/tarballs-are-good/cl-permutation.git",
+  "keywords":
+  [
+  ]
 }

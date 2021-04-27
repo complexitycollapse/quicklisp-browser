@@ -1,5 +1,8 @@
 {
   "name":"cl-online-learning",
   "url":"http://beta.quicklisp.org/archive/cl-online-learning/2020-07-15/cl-online-learning-20200715-git.tgz",
-  "repository":"https://github.com/masatoi/cl-online-learning.git"
+  "repository":"https://github.com/masatoi/cl-online-learning.git",
+  "keywords":
+  [
+  ]
 }

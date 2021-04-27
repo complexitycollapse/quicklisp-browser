@@ -1,5 +1,8 @@
 {
   "name":"cl-logic",
   "url":"http://beta.quicklisp.org/archive/cl-logic/2014-12-17/cl-logic-20141217-git.tgz",
-  "repository":"https://github.com/jollheef/cl-logic.git"
+  "repository":"https://github.com/jollheef/cl-logic.git",
+  "keywords":
+  [
+  ]
 }

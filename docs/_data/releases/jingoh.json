@@ -1,5 +1,8 @@
 {
   "name":"jingoh",
   "url":"http://beta.quicklisp.org/archive/jingoh/2021-02-28/jingoh-20210228-git.tgz",
-  "repository":"https://github.com/hyotang666/jingoh.git"
+  "repository":"https://github.com/hyotang666/jingoh.git",
+  "keywords":
+  [
+  ]
 }

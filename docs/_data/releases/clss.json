@@ -1,5 +1,8 @@
 {
   "name":"clss",
   "url":"http://beta.quicklisp.org/archive/clss/2019-11-30/clss-20191130-git.tgz",
-  "repository":"https://github.com/Shinmera/clss.git"
+  "repository":"https://github.com/Shinmera/clss.git",
+  "keywords":
+  [
+  ]
 }

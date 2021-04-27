@@ -1,5 +1,8 @@
 {
   "name":"closure-html",
   "url":"http://beta.quicklisp.org/archive/closure-html/2018-07-11/closure-html-20180711-git.tgz",
-  "repository":"https://github.com/bluelisp/closure-html.git"
+  "repository":"https://github.com/bluelisp/closure-html.git",
+  "keywords":
+  [
+  ]
 }

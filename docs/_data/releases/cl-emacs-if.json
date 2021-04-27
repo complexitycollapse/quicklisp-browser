@@ -1,5 +1,8 @@
 {
   "name":"cl-emacs-if",
   "url":"http://beta.quicklisp.org/archive/cl-emacs-if/2012-03-05/cl-emacs-if-20120305-git.tgz",
-  "repository":"https://github.com/7max/cl-emacs-if.git"
+  "repository":"https://github.com/7max/cl-emacs-if.git",
+  "keywords":
+  [
+  ]
 }

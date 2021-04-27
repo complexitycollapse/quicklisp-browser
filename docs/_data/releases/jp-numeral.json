@@ -1,5 +1,8 @@
 {
   "name":"jp-numeral",
   "url":"http://beta.quicklisp.org/archive/jp-numeral/2019-05-21/jp-numeral-20190521-git.tgz",
-  "repository":"https://github.com/y2q-actionman/jp-numeral.git"
+  "repository":"https://github.com/y2q-actionman/jp-numeral.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"trivial-object-lock",
   "url":"http://beta.quicklisp.org/archive/trivial-object-lock/2019-10-07/trivial-object-lock-20191007-git.tgz",
-  "repository":"https://gitlab.com/ediethelm/trivial-object-lock.git"
+  "repository":"https://gitlab.com/ediethelm/trivial-object-lock.git",
+  "keywords":
+  [
+  ]
 }

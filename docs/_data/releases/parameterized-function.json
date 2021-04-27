@@ -1,5 +1,8 @@
 {
   "name":"parameterized-function",
   "url":"http://beta.quicklisp.org/archive/parameterized-function/2019-03-07/parameterized-function-20190307-hg.tgz",
-  "repository":"https://bitbucket.org/tarballs_are_good/parameterized-function"
+  "repository":"https://bitbucket.org/tarballs_are_good/parameterized-function",
+  "keywords":
+  [
+  ]
 }

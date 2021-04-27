@@ -1,5 +1,8 @@
 {
   "name":"cl-bayesnet",
   "url":"http://beta.quicklisp.org/archive/cl-bayesnet/2013-04-20/cl-bayesnet-20130420-git.tgz",
-  "repository":"https://github.com/lhope/cl-bayesnet.git"
+  "repository":"https://github.com/lhope/cl-bayesnet.git",
+  "keywords":
+  [
+  ]
 }

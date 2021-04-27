@@ -1,5 +1,8 @@
 {
   "name":"hl7-parser",
   "url":"http://beta.quicklisp.org/archive/hl7-parser/2016-05-31/hl7-parser-20160531-git.tgz",
-  "repository":"https://github.com/MartinEnders/hl7-parser.git"
+  "repository":"https://github.com/MartinEnders/hl7-parser.git",
+  "keywords":
+  [
+  ]
 }

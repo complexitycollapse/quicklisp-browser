@@ -1,5 +1,8 @@
 {
   "name":"lisp-stat",
   "url":"http://beta.quicklisp.org/archive/lisp-stat/2021-04-11/lisp-stat-20210411-git.tgz",
-  "repository":"https://github.com/Lisp-Stat/lisp-stat.git"
+  "repository":"https://github.com/Lisp-Stat/lisp-stat.git",
+  "keywords":
+  [
+  ]
 }

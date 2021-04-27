@@ -1,5 +1,8 @@
 {
   "name":"asdf-finalizers",
   "url":"http://beta.quicklisp.org/archive/asdf-finalizers/2017-04-03/asdf-finalizers-20170403-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/asdf/asdf-finalizers.git"
+  "repository":"https://gitlab.common-lisp.net/asdf/asdf-finalizers.git",
+  "keywords":
+  [
+  ]
 }

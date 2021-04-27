@@ -1,5 +1,8 @@
 {
   "name":"asdf-viz",
   "url":"http://beta.quicklisp.org/archive/asdf-viz/2020-06-10/asdf-viz-20200610-git.tgz",
-  "repository":"https://github.com/guicho271828/asdf-viz.git"
+  "repository":"https://github.com/guicho271828/asdf-viz.git",
+  "keywords":
+  [
+  ]
 }

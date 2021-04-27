@@ -1,5 +1,8 @@
 {
   "name":"bourbaki",
   "url":"http://beta.quicklisp.org/archive/bourbaki/2011-01-10/bourbaki-20110110-http.tgz",
-  "repository":"http://juhaarpi.users.paivola.fi/bourbaki/bourbaki.tar.gz"
+  "repository":"http://juhaarpi.users.paivola.fi/bourbaki/bourbaki.tar.gz",
+  "keywords":
+  [
+  ]
 }

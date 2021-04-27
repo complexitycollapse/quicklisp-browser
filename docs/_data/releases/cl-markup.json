@@ -1,5 +1,8 @@
 {
   "name":"cl-markup",
   "url":"http://beta.quicklisp.org/archive/cl-markup/2013-10-03/cl-markup-20131003-git.tgz",
-  "repository":"https://github.com/arielnetworks/cl-markup.git"
+  "repository":"https://github.com/arielnetworks/cl-markup.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"wallstreetflets",
   "url":"http://beta.quicklisp.org/archive/wallstreetflets/2021-01-24/wallstreetflets-20210124-git.tgz",
-  "repository":"https://github.com/nathanvy/wallstreetflets.git"
+  "repository":"https://github.com/nathanvy/wallstreetflets.git",
+  "keywords":
+  [
+  ]
 }

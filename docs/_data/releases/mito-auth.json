@@ -1,5 +1,8 @@
 {
   "name":"mito-auth",
   "url":"http://beta.quicklisp.org/archive/mito-auth/2017-10-19/mito-auth-20171019-git.tgz",
-  "repository":"https://github.com/fukamachi/mito-auth.git"
+  "repository":"https://github.com/fukamachi/mito-auth.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"portable-condition-system",
   "url":"http://beta.quicklisp.org/archive/portable-condition-system/2021-01-24/portable-condition-system-20210124-git.tgz",
-  "repository":"https://github.com/phoe/portable-condition-system.git"
+  "repository":"https://github.com/phoe/portable-condition-system.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-nxt",
   "url":"http://beta.quicklisp.org/archive/cl-nxt/2015-06-08/cl-nxt-20150608-git.tgz",
-  "repository":"https://github.com/woudshoo/cl-nxt.git"
+  "repository":"https://github.com/woudshoo/cl-nxt.git",
+  "keywords":
+  [
+  ]
 }

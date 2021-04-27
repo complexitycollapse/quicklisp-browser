@@ -1,5 +1,8 @@
 {
   "name":"rpm",
   "url":"http://beta.quicklisp.org/archive/rpm/2016-04-21/rpm-20160421-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/qitab/rpm.git"
+  "repository":"https://gitlab.common-lisp.net/qitab/rpm.git",
+  "keywords":
+  [
+  ]
 }

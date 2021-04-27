@@ -1,5 +1,8 @@
 {
   "name":"ziz",
   "url":"http://beta.quicklisp.org/archive/ziz/2019-10-07/ziz-20191007-git.tgz",
-  "repository":"https://github.com/yitzchak/ziz.git"
+  "repository":"https://github.com/yitzchak/ziz.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"pooler",
   "url":"http://beta.quicklisp.org/archive/pooler/2015-06-08/pooler-20150608-git.tgz",
-  "repository":"https://github.com/quasi/pooler.git"
+  "repository":"https://github.com/quasi/pooler.git",
+  "keywords":
+  [
+  ]
 }

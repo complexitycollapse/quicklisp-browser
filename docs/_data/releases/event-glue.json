@@ -1,5 +1,8 @@
 {
   "name":"event-glue",
   "url":"http://beta.quicklisp.org/archive/event-glue/2015-06-08/event-glue-20150608-git.tgz",
-  "repository":"https://github.com/orthecreedence/event-glue.git"
+  "repository":"https://github.com/orthecreedence/event-glue.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"leveldb",
   "url":"http://beta.quicklisp.org/archive/leveldb/2016-05-31/leveldb-20160531-git.tgz",
-  "repository":"https://github.com/death/leveldb.git"
+  "repository":"https://github.com/death/leveldb.git",
+  "keywords":
+  [
+  ]
 }

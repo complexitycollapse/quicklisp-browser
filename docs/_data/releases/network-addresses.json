@@ -1,5 +1,8 @@
 {
   "name":"network-addresses",
   "url":"http://beta.quicklisp.org/archive/network-addresses/2016-06-28/network-addresses-20160628-git.tgz",
-  "repository":"https://github.com/ralt/network-addresses.git"
+  "repository":"https://github.com/ralt/network-addresses.git",
+  "keywords":
+  [
+  ]
 }

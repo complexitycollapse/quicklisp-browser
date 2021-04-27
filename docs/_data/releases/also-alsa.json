@@ -1,5 +1,13 @@
 {
   "name":"also-alsa",
   "url":"http://beta.quicklisp.org/archive/also-alsa/2020-02-18/also-alsa-20200218-git.tgz",
-  "repository":"https://github.com/varjagg/also-alsa.git"
+  "repository":"https://github.com/varjagg/also-alsa.git",
+  "keywords":
+  [
+    "pcm",
+    "buffer",
+    "channels",
+    "sample",
+    "pos"
+  ]
 }

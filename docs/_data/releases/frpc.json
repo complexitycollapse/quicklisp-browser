@@ -1,5 +1,8 @@
 {
   "name":"frpc",
   "url":"http://beta.quicklisp.org/archive/frpc/2015-10-31/frpc-20151031-git.tgz",
-  "repository":"https://github.com/fjames86/frpc.git"
+  "repository":"https://github.com/fjames86/frpc.git",
+  "keywords":
+  [
+  ]
 }

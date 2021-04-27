@@ -1,5 +1,8 @@
 {
   "name":"winlock",
   "url":"http://beta.quicklisp.org/archive/winlock/2019-11-30/winlock-20191130-git.tgz",
-  "repository":"https://github.com/ruricolist/winlock.git"
+  "repository":"https://github.com/ruricolist/winlock.git",
+  "keywords":
+  [
+  ]
 }

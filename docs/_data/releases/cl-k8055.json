@@ -1,5 +1,8 @@
 {
   "name":"cl-k8055",
   "url":"http://beta.quicklisp.org/archive/cl-k8055/2019-07-10/cl-k8055-20190710-git.tgz",
-  "repository":"https://github.com/Shinmera/cl-k8055.git"
+  "repository":"https://github.com/Shinmera/cl-k8055.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"glass",
   "url":"http://beta.quicklisp.org/archive/glass/2015-07-09/glass-20150709-git.tgz",
-  "repository":"https://github.com/fjames86/glass.git"
+  "repository":"https://github.com/fjames86/glass.git",
+  "keywords":
+  [
+  ]
 }

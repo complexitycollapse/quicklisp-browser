@@ -1,5 +1,8 @@
 {
   "name":"method-hooks",
   "url":"http://beta.quicklisp.org/archive/method-hooks/2020-09-25/method-hooks-20200925-git.tgz",
-  "repository":"https://github.com/Gnuxie/method-hooks.git"
+  "repository":"https://github.com/Gnuxie/method-hooks.git",
+  "keywords":
+  [
+  ]
 }

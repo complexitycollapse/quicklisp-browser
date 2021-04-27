@@ -1,5 +1,8 @@
 {
   "name":"gooptest",
   "url":"http://beta.quicklisp.org/archive/gooptest/2020-09-25/gooptest-20200925-git.tgz",
-  "repository":"https://github.com/markasoftware/gooptest.git"
+  "repository":"https://github.com/markasoftware/gooptest.git",
+  "keywords":
+  [
+  ]
 }

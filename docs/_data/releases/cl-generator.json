@@ -1,5 +1,8 @@
 {
   "name":"cl-generator",
   "url":"http://beta.quicklisp.org/archive/cl-generator/2019-03-07/cl-generator-20190307-git.tgz",
-  "repository":"https://github.com/ukari/cl-generator.git"
+  "repository":"https://github.com/ukari/cl-generator.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"metap",
   "url":"http://beta.quicklisp.org/archive/metap/2015-05-05/metap-20150505-git.tgz",
-  "repository":"https://github.com/hipeta/metap.git"
+  "repository":"https://github.com/hipeta/metap.git",
+  "keywords":
+  [
+  ]
 }

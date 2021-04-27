@@ -1,5 +1,8 @@
 {
   "name":"class-options",
   "url":"http://beta.quicklisp.org/archive/class-options/2020-10-16/class-options_1.0.1.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/class-options_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/class-options_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

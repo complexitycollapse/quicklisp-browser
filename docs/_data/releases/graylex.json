@@ -1,5 +1,8 @@
 {
   "name":"graylex",
   "url":"http://beta.quicklisp.org/archive/graylex/2011-05-22/graylex-20110522-git.tgz",
-  "repository":"https://github.com/e-user/graylex.git"
+  "repository":"https://github.com/e-user/graylex.git",
+  "keywords":
+  [
+  ]
 }

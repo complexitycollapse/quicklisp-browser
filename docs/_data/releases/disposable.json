@@ -1,5 +1,8 @@
 {
   "name":"disposable",
   "url":"http://beta.quicklisp.org/archive/disposable/2016-02-08/disposable-20160208-git.tgz",
-  "repository":"https://github.com/cbaggers/disposable.git"
+  "repository":"https://github.com/cbaggers/disposable.git",
+  "keywords":
+  [
+  ]
 }

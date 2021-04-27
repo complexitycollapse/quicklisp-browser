@@ -1,5 +1,8 @@
 {
   "name":"ccl-compat",
   "url":"http://beta.quicklisp.org/archive/ccl-compat/2017-11-30/ccl-compat-20171130-git.tgz",
-  "repository":"https://github.com/phoe/ccl-compat.git"
+  "repository":"https://github.com/phoe/ccl-compat.git",
+  "keywords":
+  [
+  ]
 }

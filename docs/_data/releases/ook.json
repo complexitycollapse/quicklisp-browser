@@ -1,5 +1,8 @@
 {
   "name":"ook",
   "url":"http://beta.quicklisp.org/archive/ook/2021-01-24/ook-20210124-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/ook/ook.git"
+  "repository":"https://gitlab.common-lisp.net/ook/ook.git",
+  "keywords":
+  [
+  ]
 }

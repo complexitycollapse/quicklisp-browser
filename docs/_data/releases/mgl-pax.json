@@ -1,5 +1,8 @@
 {
   "name":"mgl-pax",
   "url":"http://beta.quicklisp.org/archive/mgl-pax/2021-04-11/mgl-pax-20210411-git.tgz",
-  "repository":"https://github.com/melisgl/mgl-pax.git"
+  "repository":"https://github.com/melisgl/mgl-pax.git",
+  "keywords":
+  [
+  ]
 }

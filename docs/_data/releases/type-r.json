@@ -1,5 +1,8 @@
 {
   "name":"type-r",
   "url":"http://beta.quicklisp.org/archive/type-r/2019-12-27/type-r-20191227-git.tgz",
-  "repository":"https://github.com/guicho271828/type-r.git"
+  "repository":"https://github.com/guicho271828/type-r.git",
+  "keywords":
+  [
+  ]
 }

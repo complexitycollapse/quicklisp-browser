@@ -1,5 +1,8 @@
 {
   "name":"lowlight",
   "url":"http://beta.quicklisp.org/archive/lowlight/2013-12-11/lowlight-20131211-git.tgz",
-  "repository":"https://github.com/chfin/lowlight.git"
+  "repository":"https://github.com/chfin/lowlight.git",
+  "keywords":
+  [
+  ]
 }

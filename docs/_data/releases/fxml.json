@@ -1,5 +1,8 @@
 {
   "name":"fxml",
   "url":"http://beta.quicklisp.org/archive/fxml/2021-02-28/fxml-20210228-git.tgz",
-  "repository":"https://github.com/ruricolist/FXML.git"
+  "repository":"https://github.com/ruricolist/FXML.git",
+  "keywords":
+  [
+  ]
 }

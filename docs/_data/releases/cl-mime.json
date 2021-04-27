@@ -1,5 +1,8 @@
 {
   "name":"cl-mime",
   "url":"http://beta.quicklisp.org/archive/cl-mime/2020-12-20/cl-mime-20201220-git.tgz",
-  "repository":"https://github.com/hanshuebner/cl-mime.git"
+  "repository":"https://github.com/hanshuebner/cl-mime.git",
+  "keywords":
+  [
+  ]
 }

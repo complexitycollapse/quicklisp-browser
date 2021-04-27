@@ -1,5 +1,11 @@
 {
   "name":"3d-vectors",
   "url":"http://beta.quicklisp.org/archive/3d-vectors/2020-12-20/3d-vectors-20201220-git.tgz",
-  "repository":"https://github.com/Shinmera/3d-vectors.git"
+  "repository":"https://github.com/Shinmera/3d-vectors.git",
+  "keywords":
+  [
+    "vec",
+    "vector",
+    "operations"
+  ]
 }

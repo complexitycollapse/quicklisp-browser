@@ -1,5 +1,8 @@
 {
   "name":"uax-14",
   "url":"http://beta.quicklisp.org/archive/uax-14/2020-09-25/uax-14-20200925-git.tgz",
-  "repository":"https://github.com/shinmera/uax-14.git"
+  "repository":"https://github.com/shinmera/uax-14.git",
+  "keywords":
+  [
+  ]
 }

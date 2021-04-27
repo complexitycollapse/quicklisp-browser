@@ -1,5 +1,8 @@
 {
   "name":"defconfig",
   "url":"http://beta.quicklisp.org/archive/defconfig/2021-04-11/defconfig-20210411-git.tgz",
-  "repository":"https://github.com/szos/defconfig.git"
+  "repository":"https://github.com/szos/defconfig.git",
+  "keywords":
+  [
+  ]
 }

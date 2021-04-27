@@ -1,5 +1,8 @@
 {
   "name":"equals",
   "url":"http://beta.quicklisp.org/archive/equals/2014-08-26/equals-20140826-git.tgz",
-  "repository":"https://github.com/csziacobus/equals.git"
+  "repository":"https://github.com/csziacobus/equals.git",
+  "keywords":
+  [
+  ]
 }

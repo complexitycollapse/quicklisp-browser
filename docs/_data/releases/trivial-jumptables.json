@@ -1,5 +1,8 @@
 {
   "name":"trivial-jumptables",
   "url":"http://beta.quicklisp.org/archive/trivial-jumptables/2019-11-30/trivial-jumptables_1.1.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/trivial-jumptables_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/trivial-jumptables_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

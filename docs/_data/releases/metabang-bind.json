@@ -1,5 +1,8 @@
 {
   "name":"metabang-bind",
   "url":"http://beta.quicklisp.org/archive/metabang-bind/2020-02-18/metabang-bind-20200218-git.tgz",
-  "repository":"https://github.com/gwkkwg/metabang-bind"
+  "repository":"https://github.com/gwkkwg/metabang-bind",
+  "keywords":
+  [
+  ]
 }

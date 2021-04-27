@@ -1,5 +1,8 @@
 {
   "name":"cl-bibtex",
   "url":"http://beta.quicklisp.org/archive/cl-bibtex/2018-12-10/cl-bibtex-20181210-git.tgz",
-  "repository":"https://github.com/mkoeppe/cl-bibtex.git"
+  "repository":"https://github.com/mkoeppe/cl-bibtex.git",
+  "keywords":
+  [
+  ]
 }

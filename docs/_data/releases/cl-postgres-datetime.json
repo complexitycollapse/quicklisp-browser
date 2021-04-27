@@ -1,5 +1,8 @@
 {
   "name":"cl-postgres-datetime",
   "url":"http://beta.quicklisp.org/archive/cl-postgres-datetime/2019-05-21/cl-postgres-datetime-20190521-git.tgz",
-  "repository":"https://github.com/chaitanyagupta/cl-postgres-datetime.git"
+  "repository":"https://github.com/chaitanyagupta/cl-postgres-datetime.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-paymill",
   "url":"http://beta.quicklisp.org/archive/cl-paymill/2013-11-11/cl-paymill-20131111-git.tgz",
-  "repository":"https://github.com/a0-prw/cl-paymill.git"
+  "repository":"https://github.com/a0-prw/cl-paymill.git",
+  "keywords":
+  [
+  ]
 }

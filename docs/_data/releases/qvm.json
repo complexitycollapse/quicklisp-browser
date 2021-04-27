@@ -1,5 +1,8 @@
 {
   "name":"qvm",
   "url":"http://beta.quicklisp.org/archive/qvm/2020-04-27/qvm-v1.17.1.tgz",
-  "repository":"https://github.com/rigetti/qvm.git"
+  "repository":"https://github.com/rigetti/qvm.git",
+  "keywords":
+  [
+  ]
 }

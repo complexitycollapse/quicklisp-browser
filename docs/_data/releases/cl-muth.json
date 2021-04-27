@@ -1,5 +1,8 @@
 {
   "name":"cl-muth",
   "url":"http://beta.quicklisp.org/archive/cl-muth/2020-10-16/cl-muth-stable-git.tgz",
-  "repository":"https://github.com/borodust/cl-muth.git"
+  "repository":"https://github.com/borodust/cl-muth.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"heap",
   "url":"http://beta.quicklisp.org/archive/heap/2018-10-18/heap-20181018-git.tgz",
-  "repository":"https://github.com/massung/heap.git"
+  "repository":"https://github.com/massung/heap.git",
+  "keywords":
+  [
+  ]
 }

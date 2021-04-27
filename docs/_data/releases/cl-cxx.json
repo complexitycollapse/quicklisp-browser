@@ -1,5 +1,8 @@
 {
   "name":"cl-cxx",
   "url":"http://beta.quicklisp.org/archive/cl-cxx/2021-04-11/cl-cxx-20210411-git.tgz",
-  "repository":"https://github.com/Islam0mar/cl-cxx.git"
+  "repository":"https://github.com/Islam0mar/cl-cxx.git",
+  "keywords":
+  [
+  ]
 }

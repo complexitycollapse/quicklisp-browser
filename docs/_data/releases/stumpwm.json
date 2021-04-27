@@ -1,5 +1,8 @@
 {
   "name":"stumpwm",
   "url":"http://beta.quicklisp.org/archive/stumpwm/2021-04-11/stumpwm-20210411-git.tgz",
-  "repository":"https://github.com/stumpwm/stumpwm.git"
+  "repository":"https://github.com/stumpwm/stumpwm.git",
+  "keywords":
+  [
+  ]
 }

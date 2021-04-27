@@ -1,5 +1,8 @@
 {
   "name":"eazy-documentation",
   "url":"http://beta.quicklisp.org/archive/eazy-documentation/2021-04-11/eazy-documentation-20210411-git.tgz",
-  "repository":"https://github.com/guicho271828/eazy-documentation.git"
+  "repository":"https://github.com/guicho271828/eazy-documentation.git",
+  "keywords":
+  [
+  ]
 }

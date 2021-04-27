@@ -1,5 +1,8 @@
 {
   "name":"zsort",
   "url":"http://beta.quicklisp.org/archive/zsort/2012-05-20/zsort-20120520-git.tgz",
-  "repository":"https://github.com/jorgetavares/zsort.git"
+  "repository":"https://github.com/jorgetavares/zsort.git",
+  "keywords":
+  [
+  ]
 }

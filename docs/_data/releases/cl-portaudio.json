@@ -1,5 +1,8 @@
 {
   "name":"cl-portaudio",
   "url":"http://beta.quicklisp.org/archive/cl-portaudio/2020-12-20/cl-portaudio-20201220-git.tgz",
-  "repository":"https://github.com/filonenko-mikhail/cl-portaudio.git"
+  "repository":"https://github.com/filonenko-mikhail/cl-portaudio.git",
+  "keywords":
+  [
+  ]
 }

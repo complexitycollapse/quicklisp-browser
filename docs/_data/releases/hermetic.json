@@ -1,5 +1,8 @@
 {
   "name":"hermetic",
   "url":"http://beta.quicklisp.org/archive/hermetic/2019-10-07/hermetic-20191007-git.tgz",
-  "repository":"https://github.com/eudoxia0/hermetic.git"
+  "repository":"https://github.com/eudoxia0/hermetic.git",
+  "keywords":
+  [
+  ]
 }

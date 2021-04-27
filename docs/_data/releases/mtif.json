@@ -1,5 +1,8 @@
 {
   "name":"mtif",
   "url":"http://beta.quicklisp.org/archive/mtif/2017-11-30/mtif-20171130-git.tgz",
-  "repository":"https://github.com/rmhsilva/mtif.git"
+  "repository":"https://github.com/rmhsilva/mtif.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-ev",
   "url":"http://beta.quicklisp.org/archive/cl-ev/2015-09-23/cl-ev-20150923-git.tgz",
-  "repository":"https://github.com/sbryant/cl-ev.git"
+  "repository":"https://github.com/sbryant/cl-ev.git",
+  "keywords":
+  [
+  ]
 }

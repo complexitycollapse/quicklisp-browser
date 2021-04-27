@@ -1,5 +1,8 @@
 {
   "name":"list-named-class",
   "url":"http://beta.quicklisp.org/archive/list-named-class/2020-03-25/list-named-class-20200325-git.tgz",
-  "repository":"https://github.com/phoe/list-named-class.git"
+  "repository":"https://github.com/phoe/list-named-class.git",
+  "keywords":
+  [
+  ]
 }

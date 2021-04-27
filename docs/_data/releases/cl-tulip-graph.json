@@ -1,5 +1,8 @@
 {
   "name":"cl-tulip-graph",
   "url":"http://beta.quicklisp.org/archive/cl-tulip-graph/2013-06-15/cl-tulip-graph-20130615-git.tgz",
-  "repository":"https://github.com/varjagg/cl-tulip-graph.git"
+  "repository":"https://github.com/varjagg/cl-tulip-graph.git",
+  "keywords":
+  [
+  ]
 }

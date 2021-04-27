@@ -1,5 +1,8 @@
 {
   "name":"minheap",
   "url":"http://beta.quicklisp.org/archive/minheap/2016-06-28/minheap-20160628-git.tgz",
-  "repository":"https://github.com/sfrank/minheap.git"
+  "repository":"https://github.com/sfrank/minheap.git",
+  "keywords":
+  [
+  ]
 }

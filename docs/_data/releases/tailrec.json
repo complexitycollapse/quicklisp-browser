@@ -1,5 +1,8 @@
 {
   "name":"tailrec",
   "url":"http://beta.quicklisp.org/archive/tailrec/2021-02-28/tailrec-20210228-git.tgz",
-  "repository":"https://github.com/charJe/tailrec.git"
+  "repository":"https://github.com/charJe/tailrec.git",
+  "keywords":
+  [
+  ]
 }

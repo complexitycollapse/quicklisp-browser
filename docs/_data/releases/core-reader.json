@@ -1,5 +1,8 @@
 {
   "name":"core-reader",
   "url":"http://beta.quicklisp.org/archive/core-reader/2020-06-10/core-reader-20200610-git.tgz",
-  "repository":"https://github.com/hyotang666/core-reader.git"
+  "repository":"https://github.com/hyotang666/core-reader.git",
+  "keywords":
+  [
+  ]
 }

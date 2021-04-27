@@ -1,5 +1,8 @@
 {
   "name":"cl-sat.minisat",
   "url":"http://beta.quicklisp.org/archive/cl-sat.minisat/2019-08-13/cl-sat.minisat-20190813-git.tgz",
-  "repository":"https://github.com/cl-model-languages/cl-sat.minisat.git"
+  "repository":"https://github.com/cl-model-languages/cl-sat.minisat.git",
+  "keywords":
+  [
+  ]
 }

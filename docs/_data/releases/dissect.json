@@ -1,5 +1,8 @@
 {
   "name":"dissect",
   "url":"http://beta.quicklisp.org/archive/dissect/2020-04-27/dissect-20200427-git.tgz",
-  "repository":"https://github.com/Shinmera/dissect.git"
+  "repository":"https://github.com/Shinmera/dissect.git",
+  "keywords":
+  [
+  ]
 }

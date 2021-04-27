@@ -39,15 +39,19 @@
     <table id="projectsTable">
       <tr>
         <th>Project Name</th>
-        <th>Url</th>
         <th>Repository</th>
+        <th>Keywords</th>
       </tr>
       {% for release_hash in site.data.releases %}
       {% assign release = release_hash[1] %}
         <tr>
           <td>{{ release.name }}</td>
-          <td>{{ release.url }}</td>
           <td>{{ release.repository }}</td>
+          <td>
+            {% for keyword in release.keywords %}
+              {{ keyword }}
+            {% endfor %}
+          </td>
         </tr>
       {% endfor %}
     </table>

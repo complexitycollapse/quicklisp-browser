@@ -1,5 +1,8 @@
 {
   "name":"http-parse",
   "url":"http://beta.quicklisp.org/archive/http-parse/2015-06-08/http-parse-20150608-git.tgz",
-  "repository":"https://github.com/orthecreedence/http-parse.git"
+  "repository":"https://github.com/orthecreedence/http-parse.git",
+  "keywords":
+  [
+  ]
 }

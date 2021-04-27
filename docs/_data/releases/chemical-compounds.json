@@ -1,5 +1,8 @@
 {
   "name":"chemical-compounds",
   "url":"http://beta.quicklisp.org/archive/chemical-compounds/2011-10-01/chemical-compounds-1.0.2.tgz",
-  "repository":"https://common-lisp.net/project/chemboy/chemical-compounds-latest.tar.gz"
+  "repository":"https://common-lisp.net/project/chemboy/chemical-compounds-latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

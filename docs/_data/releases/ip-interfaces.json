@@ -1,5 +1,8 @@
 {
   "name":"ip-interfaces",
   "url":"http://beta.quicklisp.org/archive/ip-interfaces/2018-12-10/ip-interfaces-0.2.1.tgz",
-  "repository":"https://common-lisp.net/project/ip-interfaces/releases/ip-interfaces-latest.tar.gz"
+  "repository":"https://common-lisp.net/project/ip-interfaces/releases/ip-interfaces-latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

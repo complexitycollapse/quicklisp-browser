@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.def",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.def/2020-10-16/hu.dwim.def-20201016-darcs.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.def.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.def.git",
+  "keywords":
+  [
+  ]
 }

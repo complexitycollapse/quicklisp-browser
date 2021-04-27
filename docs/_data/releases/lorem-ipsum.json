@@ -1,5 +1,8 @@
 {
   "name":"lorem-ipsum",
   "url":"http://beta.quicklisp.org/archive/lorem-ipsum/2018-10-18/lorem-ipsum-20181018-git.tgz",
-  "repository":"https://github.com/phoe/lorem-ipsum.git"
+  "repository":"https://github.com/phoe/lorem-ipsum.git",
+  "keywords":
+  [
+  ]
 }

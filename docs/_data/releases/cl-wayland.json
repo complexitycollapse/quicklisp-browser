@@ -1,5 +1,8 @@
 {
   "name":"cl-wayland",
   "url":"http://beta.quicklisp.org/archive/cl-wayland/2019-03-07/cl-wayland-20190307-git.tgz",
-  "repository":"https://github.com/malcolmstill/cl-wayland.git"
+  "repository":"https://github.com/malcolmstill/cl-wayland.git",
+  "keywords":
+  [
+  ]
 }

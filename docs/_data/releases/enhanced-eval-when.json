@@ -1,5 +1,8 @@
 {
   "name":"enhanced-eval-when",
   "url":"http://beta.quicklisp.org/archive/enhanced-eval-when/2012-11-25/enhanced-eval-when-1.0.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/enhanced-eval-when_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/enhanced-eval-when_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

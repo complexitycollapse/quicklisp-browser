@@ -1,5 +1,8 @@
 {
   "name":"openid-key",
   "url":"http://beta.quicklisp.org/archive/openid-key/2018-12-10/openid-key-20181210-git.tgz",
-  "repository":"https://github.com/kkazuo/openid-key.git"
+  "repository":"https://github.com/kkazuo/openid-key.git",
+  "keywords":
+  [
+  ]
 }

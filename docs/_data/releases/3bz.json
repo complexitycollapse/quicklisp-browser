@@ -1,5 +1,15 @@
 {
   "name":"3bz",
   "url":"http://beta.quicklisp.org/archive/3bz/2020-12-20/3bz-20201220-git.tgz",
-  "repository":"https://github.com/3b/3bz.git"
+  "repository":"https://github.com/3b/3bz.git",
+  "keywords":
+  [
+    "output",
+    "state",
+    "rfc",
+    "buffer",
+    "history",
+    "input",
+    "pointers"
+  ]
 }

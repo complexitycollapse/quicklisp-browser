@@ -1,5 +1,8 @@
 {
   "name":"vertex",
   "url":"http://beta.quicklisp.org/archive/vertex/2015-06-08/vertex-20150608-git.tgz",
-  "repository":"https://github.com/CommonDoc/vertex.git"
+  "repository":"https://github.com/CommonDoc/vertex.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"nuklear-renderer-blob",
   "url":"http://beta.quicklisp.org/archive/nuklear-renderer-blob/2020-10-16/nuklear-renderer-blob-stable-git.tgz",
-  "repository":"https://github.com/borodust/nuklear-renderer-blob.git"
+  "repository":"https://github.com/borodust/nuklear-renderer-blob.git",
+  "keywords":
+  [
+  ]
 }

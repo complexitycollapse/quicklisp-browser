@@ -1,5 +1,8 @@
 {
   "name":"cl-ewkb",
   "url":"http://beta.quicklisp.org/archive/cl-ewkb/2011-06-19/cl-ewkb-20110619-git.tgz",
-  "repository":"https://github.com/filonenko-mikhail/cl-ewkb.git"
+  "repository":"https://github.com/filonenko-mikhail/cl-ewkb.git",
+  "keywords":
+  [
+  ]
 }

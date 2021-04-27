@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.reiterate",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.reiterate/2021-02-28/hu.dwim.reiterate-stable-git.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.reiterate.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.reiterate.git",
+  "keywords":
+  [
+  ]
 }

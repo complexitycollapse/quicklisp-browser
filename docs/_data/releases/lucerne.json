@@ -1,5 +1,8 @@
 {
   "name":"lucerne",
   "url":"http://beta.quicklisp.org/archive/lucerne/2019-08-13/lucerne-20190813-git.tgz",
-  "repository":"https://github.com/eudoxia0/lucerne.git"
+  "repository":"https://github.com/eudoxia0/lucerne.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-iconv",
   "url":"http://beta.quicklisp.org/archive/cl-iconv/2017-12-27/cl-iconv-20171227-git.tgz",
-  "repository":"https://github.com/quek/cl-iconv.git"
+  "repository":"https://github.com/quek/cl-iconv.git",
+  "keywords":
+  [
+  ]
 }

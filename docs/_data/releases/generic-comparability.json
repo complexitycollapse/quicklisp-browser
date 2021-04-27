@@ -1,5 +1,8 @@
 {
   "name":"generic-comparability",
   "url":"http://beta.quicklisp.org/archive/generic-comparability/2018-01-31/generic-comparability-20180131-git.tgz",
-  "repository":"https://github.com/pnathan/generic-comparability.git"
+  "repository":"https://github.com/pnathan/generic-comparability.git",
+  "keywords":
+  [
+  ]
 }

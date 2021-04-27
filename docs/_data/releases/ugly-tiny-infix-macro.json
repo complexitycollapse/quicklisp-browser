@@ -1,5 +1,8 @@
 {
   "name":"ugly-tiny-infix-macro",
   "url":"http://beta.quicklisp.org/archive/ugly-tiny-infix-macro/2016-08-25/ugly-tiny-infix-macro-20160825-git.tgz",
-  "repository":"https://github.com/peey/ugly-tiny-infix-macro.git"
+  "repository":"https://github.com/peey/ugly-tiny-infix-macro.git",
+  "keywords":
+  [
+  ]
 }

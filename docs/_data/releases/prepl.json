@@ -1,5 +1,8 @@
 {
   "name":"prepl",
   "url":"http://beta.quicklisp.org/archive/prepl/2018-10-18/prepl-20181018-git.tgz",
-  "repository":"https://github.com/sharplispers/prepl.git"
+  "repository":"https://github.com/sharplispers/prepl.git",
+  "keywords":
+  [
+  ]
 }

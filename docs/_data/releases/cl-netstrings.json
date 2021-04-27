@@ -1,5 +1,8 @@
 {
   "name":"cl-netstrings",
   "url":"http://beta.quicklisp.org/archive/cl-netstrings/2012-10-13/cl-netstrings-20121013-git.tgz",
-  "repository":"https://github.com/RyanHope/cl-netstrings.git"
+  "repository":"https://github.com/RyanHope/cl-netstrings.git",
+  "keywords":
+  [
+  ]
 }

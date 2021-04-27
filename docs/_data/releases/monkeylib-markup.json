@@ -1,5 +1,8 @@
 {
   "name":"monkeylib-markup",
   "url":"http://beta.quicklisp.org/archive/monkeylib-markup/2012-09-09/monkeylib-markup-20120909-git.tgz",
-  "repository":"https://github.com/gigamonkey/monkeylib-markup.git"
+  "repository":"https://github.com/gigamonkey/monkeylib-markup.git",
+  "keywords":
+  [
+  ]
 }

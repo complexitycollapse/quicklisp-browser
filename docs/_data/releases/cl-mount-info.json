@@ -1,5 +1,8 @@
 {
   "name":"cl-mount-info",
   "url":"http://beta.quicklisp.org/archive/cl-mount-info/2020-02-18/cl-mount-info-20200218-git.tgz",
-  "repository":"https://notabug.org/cage/cl-mount-info.git"
+  "repository":"https://notabug.org/cage/cl-mount-info.git",
+  "keywords":
+  [
+  ]
 }

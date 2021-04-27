@@ -1,5 +1,8 @@
 {
   "name":"clos-diff",
   "url":"http://beta.quicklisp.org/archive/clos-diff/2015-06-08/clos-diff-20150608-git.tgz",
-  "repository":"https://github.com/krzysz00/clos-diff.git"
+  "repository":"https://github.com/krzysz00/clos-diff.git",
+  "keywords":
+  [
+  ]
 }

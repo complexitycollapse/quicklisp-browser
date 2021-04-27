@@ -1,5 +1,8 @@
 {
   "name":"cl-jpl-util",
   "url":"http://beta.quicklisp.org/archive/cl-jpl-util/2015-10-31/cl-jpl-util-20151031-git.tgz",
-  "repository":"https://github.com/hawkir/cl-jpl-util.git"
+  "repository":"https://github.com/hawkir/cl-jpl-util.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-erlang-term",
   "url":"http://beta.quicklisp.org/archive/cl-erlang-term/2020-09-25/cl-erlang-term-20200925-git.tgz",
-  "repository":"https://github.com/flambard/cl-erlang-term.git"
+  "repository":"https://github.com/flambard/cl-erlang-term.git",
+  "keywords":
+  [
+  ]
 }

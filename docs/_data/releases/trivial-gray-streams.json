@@ -1,5 +1,8 @@
 {
   "name":"trivial-gray-streams",
   "url":"http://beta.quicklisp.org/archive/trivial-gray-streams/2021-01-24/trivial-gray-streams-20210124-git.tgz",
-  "repository":"https://github.com/trivial-gray-streams/trivial-gray-streams.git"
+  "repository":"https://github.com/trivial-gray-streams/trivial-gray-streams.git",
+  "keywords":
+  [
+  ]
 }

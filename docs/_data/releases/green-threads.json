@@ -1,5 +1,8 @@
 {
   "name":"green-threads",
   "url":"http://beta.quicklisp.org/archive/green-threads/2014-12-17/green-threads-20141217-git.tgz",
-  "repository":"https://github.com/thezerobit/green-threads.git"
+  "repository":"https://github.com/thezerobit/green-threads.git",
+  "keywords":
+  [
+  ]
 }

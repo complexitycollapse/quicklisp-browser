@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.asdf",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.asdf/2020-09-25/hu.dwim.asdf-20200925-darcs.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.asdf.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.asdf.git",
+  "keywords":
+  [
+  ]
 }

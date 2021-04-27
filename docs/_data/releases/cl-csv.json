@@ -1,5 +1,8 @@
 {
   "name":"cl-csv",
   "url":"http://beta.quicklisp.org/archive/cl-csv/2020-10-16/cl-csv-20201016-git.tgz",
-  "repository":"https://github.com/AccelerationNet/cl-csv.git"
+  "repository":"https://github.com/AccelerationNet/cl-csv.git",
+  "keywords":
+  [
+  ]
 }

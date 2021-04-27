@@ -1,5 +1,8 @@
 {
   "name":"flow",
   "url":"http://beta.quicklisp.org/archive/flow/2020-06-10/flow-20200610-git.tgz",
-  "repository":"https://github.com/Shinmera/flow.git"
+  "repository":"https://github.com/Shinmera/flow.git",
+  "keywords":
+  [
+  ]
 }

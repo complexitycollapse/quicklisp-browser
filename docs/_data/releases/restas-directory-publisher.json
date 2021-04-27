@@ -1,5 +1,8 @@
 {
   "name":"restas-directory-publisher",
   "url":"http://beta.quicklisp.org/archive/restas-directory-publisher/2013-01-28/restas-directory-publisher-20130128-git.tgz",
-  "repository":"https://github.com/archimag/restas-directory-publisher.git"
+  "repository":"https://github.com/archimag/restas-directory-publisher.git",
+  "keywords":
+  [
+  ]
 }

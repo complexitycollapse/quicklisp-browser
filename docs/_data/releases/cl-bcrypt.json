@@ -1,5 +1,8 @@
 {
   "name":"cl-bcrypt",
   "url":"http://beta.quicklisp.org/archive/cl-bcrypt/2020-09-25/cl-bcrypt-20200925-git.tgz",
-  "repository":"https://github.com/dnaeon/cl-bcrypt.git"
+  "repository":"https://github.com/dnaeon/cl-bcrypt.git",
+  "keywords":
+  [
+  ]
 }

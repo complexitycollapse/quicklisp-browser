@@ -1,5 +1,8 @@
 {
   "name":"cl-kyoto-cabinet",
   "url":"http://beta.quicklisp.org/archive/cl-kyoto-cabinet/2019-11-30/cl-kyoto-cabinet-20191130-git.tgz",
-  "repository":"https://github.com/kraison/cl-kyoto-cabinet.git"
+  "repository":"https://github.com/kraison/cl-kyoto-cabinet.git",
+  "keywords":
+  [
+  ]
 }

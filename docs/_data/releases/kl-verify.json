@@ -1,5 +1,8 @@
 {
   "name":"kl-verify",
   "url":"http://beta.quicklisp.org/archive/kl-verify/2012-09-09/kl-verify-20120909-git.tgz",
-  "repository":"https://github.com/kevinlynx/kl-verify.git"
+  "repository":"https://github.com/kevinlynx/kl-verify.git",
+  "keywords":
+  [
+  ]
 }

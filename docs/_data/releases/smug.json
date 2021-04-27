@@ -1,5 +1,8 @@
 {
   "name":"smug",
   "url":"http://beta.quicklisp.org/archive/smug/2016-04-21/smug-20160421-git.tgz",
-  "repository":"https://github.com/drewc/smug.git"
+  "repository":"https://github.com/drewc/smug.git",
+  "keywords":
+  [
+  ]
 }

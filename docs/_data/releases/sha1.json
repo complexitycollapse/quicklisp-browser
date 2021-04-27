@@ -1,5 +1,8 @@
 {
   "name":"sha1",
   "url":"http://beta.quicklisp.org/archive/sha1/2020-03-25/sha1-20200325-git.tgz",
-  "repository":"https://github.com/massung/sha1.git"
+  "repository":"https://github.com/massung/sha1.git",
+  "keywords":
+  [
+  ]
 }

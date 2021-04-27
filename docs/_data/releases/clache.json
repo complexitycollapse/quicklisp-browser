@@ -1,5 +1,8 @@
 {
   "name":"clache",
   "url":"http://beta.quicklisp.org/archive/clache/2017-11-30/clache-20171130-git.tgz",
-  "repository":"https://github.com/html/clache.git"
+  "repository":"https://github.com/html/clache.git",
+  "keywords":
+  [
+  ]
 }

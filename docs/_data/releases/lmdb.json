@@ -1,5 +1,8 @@
 {
   "name":"lmdb",
   "url":"http://beta.quicklisp.org/archive/lmdb/2021-02-28/lmdb-20210228-git.tgz",
-  "repository":"https://github.com/antimer/lmdb.git"
+  "repository":"https://github.com/antimer/lmdb.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"lyrics",
   "url":"http://beta.quicklisp.org/archive/lyrics/2019-11-30/lyrics-20191130-git.tgz",
-  "repository":"https://github.com/mihaiolteanu/lyrics.git"
+  "repository":"https://github.com/mihaiolteanu/lyrics.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-durian",
   "url":"http://beta.quicklisp.org/archive/cl-durian/2015-06-08/cl-durian-20150608-git.tgz",
-  "repository":"https://github.com/GordianNaught/cl-durian.git"
+  "repository":"https://github.com/GordianNaught/cl-durian.git",
+  "keywords":
+  [
+  ]
 }

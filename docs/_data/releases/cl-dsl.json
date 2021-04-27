@@ -1,5 +1,8 @@
 {
   "name":"cl-dsl",
   "url":"http://beta.quicklisp.org/archive/cl-dsl/2013-07-20/cl-dsl-20130720-git.tgz",
-  "repository":"https://github.com/mabragor/cl-dsl.git"
+  "repository":"https://github.com/mabragor/cl-dsl.git",
+  "keywords":
+  [
+  ]
 }

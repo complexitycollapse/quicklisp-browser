@@ -1,5 +1,10 @@
 {
   "name":"access",
   "url":"http://beta.quicklisp.org/archive/access/2021-01-24/access-20210124-git.tgz",
-  "repository":"https://github.com/sharplispers/access.git"
+  "repository":"https://github.com/sharplispers/access.git",
+  "keywords":
+  [
+    "access",
+    "accesses"
+  ]
 }

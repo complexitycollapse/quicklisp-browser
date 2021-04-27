@@ -1,5 +1,8 @@
 {
   "name":"claw-utils",
   "url":"http://beta.quicklisp.org/archive/claw-utils/2020-10-16/claw-utils-stable-git.tgz",
-  "repository":"https://github.com/borodust/claw-utils.git"
+  "repository":"https://github.com/borodust/claw-utils.git",
+  "keywords":
+  [
+  ]
 }

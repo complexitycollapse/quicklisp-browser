@@ -1,5 +1,8 @@
 {
   "name":"pvars",
   "url":"http://beta.quicklisp.org/archive/pvars/2021-02-28/pvars-20210228-git.tgz",
-  "repository":"https://gitlab.com/ralt/pvars.git"
+  "repository":"https://gitlab.com/ralt/pvars.git",
+  "keywords":
+  [
+  ]
 }

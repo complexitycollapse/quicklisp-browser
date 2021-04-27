@@ -1,5 +1,8 @@
 {
   "name":"mito-attachment",
   "url":"http://beta.quicklisp.org/archive/mito-attachment/2020-10-16/mito-attachment-20201016-git.tgz",
-  "repository":"https://github.com/fukamachi/mito-attachment.git"
+  "repository":"https://github.com/fukamachi/mito-attachment.git",
+  "keywords":
+  [
+  ]
 }

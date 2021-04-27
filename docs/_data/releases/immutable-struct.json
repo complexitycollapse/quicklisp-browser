@@ -1,5 +1,8 @@
 {
   "name":"immutable-struct",
   "url":"http://beta.quicklisp.org/archive/immutable-struct/2015-07-09/immutable-struct-20150709-git.tgz",
-  "repository":"https://github.com/guicho271828/immutable-struct.git"
+  "repository":"https://github.com/guicho271828/immutable-struct.git",
+  "keywords":
+  [
+  ]
 }

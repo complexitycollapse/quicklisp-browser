@@ -1,5 +1,8 @@
 {
   "name":"fare-memoization",
   "url":"http://beta.quicklisp.org/archive/fare-memoization/2018-04-30/fare-memoization-20180430-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/frideau/fare-memoization.git"
+  "repository":"https://gitlab.common-lisp.net/frideau/fare-memoization.git",
+  "keywords":
+  [
+  ]
 }

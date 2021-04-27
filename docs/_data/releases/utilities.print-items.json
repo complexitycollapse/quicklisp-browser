@@ -1,5 +1,8 @@
 {
   "name":"utilities.print-items",
   "url":"http://beta.quicklisp.org/archive/utilities.print-items/2021-04-11/utilities.print-items-20210411-git.tgz",
-  "repository":"https://github.com/scymtym/utilities.print-items.git"
+  "repository":"https://github.com/scymtym/utilities.print-items.git",
+  "keywords":
+  [
+  ]
 }

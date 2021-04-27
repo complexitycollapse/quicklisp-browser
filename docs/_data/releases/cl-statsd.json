@@ -1,5 +1,8 @@
 {
   "name":"cl-statsd",
   "url":"http://beta.quicklisp.org/archive/cl-statsd/2017-01-24/cl-statsd-20170124-git.tgz",
-  "repository":"https://github.com/deadtrickster/cl-statsd.git"
+  "repository":"https://github.com/deadtrickster/cl-statsd.git",
+  "keywords":
+  [
+  ]
 }

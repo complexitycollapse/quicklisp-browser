@@ -1,5 +1,8 @@
 {
   "name":"cl-async-await",
   "url":"http://beta.quicklisp.org/archive/cl-async-await/2020-10-16/cl-async-await-20201016-git.tgz",
-  "repository":"https://github.com/j3pic/cl-async-await.git"
+  "repository":"https://github.com/j3pic/cl-async-await.git",
+  "keywords":
+  [
+  ]
 }

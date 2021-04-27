@@ -1,5 +1,8 @@
 {
   "name":"cl-forms",
   "url":"http://beta.quicklisp.org/archive/cl-forms/2020-10-16/cl-forms-20201016-git.tgz",
-  "repository":"https://github.com/mmontone/cl-forms.git"
+  "repository":"https://github.com/mmontone/cl-forms.git",
+  "keywords":
+  [
+  ]
 }

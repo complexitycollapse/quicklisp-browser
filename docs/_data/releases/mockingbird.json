@@ -1,5 +1,8 @@
 {
   "name":"mockingbird",
   "url":"http://beta.quicklisp.org/archive/mockingbird/2017-11-30/mockingbird-20171130-git.tgz",
-  "repository":"https://github.com/Chream/mockingbird.git"
+  "repository":"https://github.com/Chream/mockingbird.git",
+  "keywords":
+  [
+  ]
 }

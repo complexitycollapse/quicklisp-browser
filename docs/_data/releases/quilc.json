@@ -1,5 +1,8 @@
 {
   "name":"quilc",
   "url":"http://beta.quicklisp.org/archive/quilc/2021-04-11/quilc-v1.24.0.tgz",
-  "repository":"https://github.com/rigetti/quilc.git"
+  "repository":"https://github.com/rigetti/quilc.git",
+  "keywords":
+  [
+  ]
 }

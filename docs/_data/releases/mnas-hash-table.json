@@ -1,5 +1,8 @@
 {
   "name":"mnas-hash-table",
   "url":"http://beta.quicklisp.org/archive/mnas-hash-table/2021-02-28/mnas-hash-table-20210228-git.tgz",
-  "repository":"https://github.com/mnasoft/mnas-hash-table.git"
+  "repository":"https://github.com/mnasoft/mnas-hash-table.git",
+  "keywords":
+  [
+  ]
 }

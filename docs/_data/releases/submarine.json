@@ -1,5 +1,8 @@
 {
   "name":"submarine",
   "url":"http://beta.quicklisp.org/archive/submarine/2012-09-09/submarine-20120909-darcs.tgz",
-  "repository":"https://gitlab.common-lisp.net/submarine/submarine.git"
+  "repository":"https://gitlab.common-lisp.net/submarine/submarine.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"lack",
   "url":"http://beta.quicklisp.org/archive/lack/2020-10-16/lack-20201016-git.tgz",
-  "repository":"https://github.com/fukamachi/lack.git"
+  "repository":"https://github.com/fukamachi/lack.git",
+  "keywords":
+  [
+  ]
 }

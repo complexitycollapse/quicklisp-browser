@@ -1,5 +1,8 @@
 {
   "name":"dso-lex",
   "url":"http://beta.quicklisp.org/archive/dso-lex/2011-01-10/dso-lex-0.3.2.tgz",
-  "repository":"https://download.fugue88.ws/lex/dso-lex-0.3.2.tar.gz"
+  "repository":"https://download.fugue88.ws/lex/dso-lex-0.3.2.tar.gz",
+  "keywords":
+  [
+  ]
 }

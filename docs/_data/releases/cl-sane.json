@@ -1,5 +1,8 @@
 {
   "name":"cl-sane",
   "url":"http://beta.quicklisp.org/archive/cl-sane/2015-06-08/cl-sane-20150608-git.tgz",
-  "repository":"git://repo.or.cz/cl-sane.git"
+  "repository":"git://repo.or.cz/cl-sane.git",
+  "keywords":
+  [
+  ]
 }

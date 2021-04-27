@@ -1,5 +1,8 @@
 {
   "name":"cl-oauth",
   "url":"http://beta.quicklisp.org/archive/cl-oauth/2015-08-04/cl-oauth-20150804-git.tgz",
-  "repository":"https://github.com/skypher/cl-oauth.git"
+  "repository":"https://github.com/skypher/cl-oauth.git",
+  "keywords":
+  [
+  ]
 }

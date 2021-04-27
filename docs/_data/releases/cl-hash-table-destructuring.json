@@ -1,5 +1,8 @@
 {
   "name":"cl-hash-table-destructuring",
   "url":"http://beta.quicklisp.org/archive/cl-hash-table-destructuring/2016-05-31/cl-hash-table-destructuring-20160531-git.tgz",
-  "repository":"https://github.com/andrey-tikhonov/cl-hash-table-destructuring.git"
+  "repository":"https://github.com/andrey-tikhonov/cl-hash-table-destructuring.git",
+  "keywords":
+  [
+  ]
 }

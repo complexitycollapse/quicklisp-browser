@@ -1,5 +1,8 @@
 {
   "name":"cl-semver",
   "url":"http://beta.quicklisp.org/archive/cl-semver/2020-12-20/cl-semver-20201220-git.tgz",
-  "repository":"https://github.com/cldm/cl-semver.git"
+  "repository":"https://github.com/cldm/cl-semver.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"fsvd",
   "url":"http://beta.quicklisp.org/archive/fsvd/2013-12-11/fsvd-20131211-git.tgz",
-  "repository":"https://github.com/melisgl/fsvd.git"
+  "repository":"https://github.com/melisgl/fsvd.git",
+  "keywords":
+  [
+  ]
 }

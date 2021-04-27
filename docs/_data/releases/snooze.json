@@ -1,5 +1,8 @@
 {
   "name":"snooze",
   "url":"http://beta.quicklisp.org/archive/snooze/2020-12-20/snooze-20201220-git.tgz",
-  "repository":"https://github.com/capitaomorte/snooze.git"
+  "repository":"https://github.com/capitaomorte/snooze.git",
+  "keywords":
+  [
+  ]
 }

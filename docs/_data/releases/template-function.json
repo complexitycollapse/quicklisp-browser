@@ -1,5 +1,8 @@
 {
   "name":"template-function",
   "url":"http://beta.quicklisp.org/archive/template-function/2017-11-30/template-function-v0.0.1-git.tgz",
-  "repository":"https://github.com/markcox80/template-function.git"
+  "repository":"https://github.com/markcox80/template-function.git",
+  "keywords":
+  [
+  ]
 }

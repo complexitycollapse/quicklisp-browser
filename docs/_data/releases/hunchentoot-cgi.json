@@ -1,5 +1,8 @@
 {
   "name":"hunchentoot-cgi",
   "url":"http://beta.quicklisp.org/archive/hunchentoot-cgi/2014-02-11/hunchentoot-cgi-20140211-git.tgz",
-  "repository":"https://github.com/slyrus/hunchentoot-cgi.git"
+  "repository":"https://github.com/slyrus/hunchentoot-cgi.git",
+  "keywords":
+  [
+  ]
 }

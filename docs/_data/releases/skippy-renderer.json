@@ -1,5 +1,8 @@
 {
   "name":"skippy-renderer",
   "url":"http://beta.quicklisp.org/archive/skippy-renderer/2020-04-27/skippy-renderer-20200427-git.tgz",
-  "repository":"https://github.com/phoe/skippy-renderer.git"
+  "repository":"https://github.com/phoe/skippy-renderer.git",
+  "keywords":
+  [
+  ]
 }

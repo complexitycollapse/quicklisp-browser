@@ -1,5 +1,8 @@
 {
   "name":"cl-isaac",
   "url":"http://beta.quicklisp.org/archive/cl-isaac/2015-08-04/cl-isaac-20150804-git.tgz",
-  "repository":"https://github.com/thephoeron/cl-isaac.git"
+  "repository":"https://github.com/thephoeron/cl-isaac.git",
+  "keywords":
+  [
+  ]
 }

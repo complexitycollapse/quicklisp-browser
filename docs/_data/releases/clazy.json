@@ -1,5 +1,8 @@
 {
   "name":"clazy",
   "url":"http://beta.quicklisp.org/archive/clazy/2020-02-18/clazy-20200218-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/clazy/clazy.git"
+  "repository":"https://gitlab.common-lisp.net/clazy/clazy.git",
+  "keywords":
+  [
+  ]
 }

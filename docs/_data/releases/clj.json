@@ -1,5 +1,8 @@
 {
   "name":"clj",
   "url":"http://beta.quicklisp.org/archive/clj/2020-12-20/clj-20201220-git.tgz",
-  "repository":"https://github.com/inaimathi/clj.git"
+  "repository":"https://github.com/inaimathi/clj.git",
+  "keywords":
+  [
+  ]
 }

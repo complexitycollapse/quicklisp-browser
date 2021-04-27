@@ -1,5 +1,8 @@
 {
   "name":"mop-utils",
   "url":"http://beta.quicklisp.org/archive/mop-utils/2012-08-11/mop-utils-20120811-http.tgz",
-  "repository":"https://common-lisp.net/project/submarine/mop-utils.tar.gz"
+  "repository":"https://common-lisp.net/project/submarine/mop-utils.tar.gz",
+  "keywords":
+  [
+  ]
 }

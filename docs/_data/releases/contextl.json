@@ -1,5 +1,8 @@
 {
   "name":"contextl",
   "url":"http://beta.quicklisp.org/archive/contextl/2020-02-18/contextl-20200218-git.tgz",
-  "repository":"https://github.com/pcostanza/contextl.git"
+  "repository":"https://github.com/pcostanza/contextl.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"make-hash",
   "url":"http://beta.quicklisp.org/archive/make-hash/2013-06-15/make-hash-20130615-git.tgz",
-  "repository":"https://github.com/genovese/make-hash.git"
+  "repository":"https://github.com/genovese/make-hash.git",
+  "keywords":
+  [
+  ]
 }

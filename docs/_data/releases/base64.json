@@ -1,5 +1,8 @@
 {
   "name":"base64",
   "url":"http://beta.quicklisp.org/archive/base64/2018-10-18/base64-20181018-git.tgz",
-  "repository":"https://github.com/massung/base64.git"
+  "repository":"https://github.com/massung/base64.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"let-over-lambda",
   "url":"http://beta.quicklisp.org/archive/let-over-lambda/2015-09-23/let-over-lambda-20150923-git.tgz",
-  "repository":"https://github.com/thephoeron/let-over-lambda.git"
+  "repository":"https://github.com/thephoeron/let-over-lambda.git",
+  "keywords":
+  [
+  ]
 }

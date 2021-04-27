@@ -1,5 +1,8 @@
 {
   "name":"toadstool",
   "url":"http://beta.quicklisp.org/archive/toadstool/2013-06-15/toadstool-20130615-git.tgz",
-  "repository":"https://github.com/kisp/toadstool.git"
+  "repository":"https://github.com/kisp/toadstool.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"place-modifiers",
   "url":"http://beta.quicklisp.org/archive/place-modifiers/2012-11-25/place-modifiers-2.1.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/place-modifiers_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/place-modifiers_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

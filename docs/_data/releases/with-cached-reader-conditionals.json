@@ -1,5 +1,8 @@
 {
   "name":"with-cached-reader-conditionals",
   "url":"http://beta.quicklisp.org/archive/with-cached-reader-conditionals/2017-06-30/with-cached-reader-conditionals-20170630-git.tgz",
-  "repository":"https://github.com/cbaggers/with-cached-reader-conditionals.git"
+  "repository":"https://github.com/cbaggers/with-cached-reader-conditionals.git",
+  "keywords":
+  [
+  ]
 }

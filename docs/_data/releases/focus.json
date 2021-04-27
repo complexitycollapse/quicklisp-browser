@@ -1,5 +1,8 @@
 {
   "name":"focus",
   "url":"http://beta.quicklisp.org/archive/focus/2017-04-03/focus-20170403-git.tgz",
-  "repository":"https://github.com/didierverna/focus.git"
+  "repository":"https://github.com/didierverna/focus.git",
+  "keywords":
+  [
+  ]
 }

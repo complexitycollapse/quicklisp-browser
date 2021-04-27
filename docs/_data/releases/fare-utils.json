@@ -1,5 +1,8 @@
 {
   "name":"fare-utils",
   "url":"http://beta.quicklisp.org/archive/fare-utils/2017-01-24/fare-utils-20170124-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/frideau/fare-utils.git"
+  "repository":"https://gitlab.common-lisp.net/frideau/fare-utils.git",
+  "keywords":
+  [
+  ]
 }

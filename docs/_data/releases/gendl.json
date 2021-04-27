@@ -1,5 +1,8 @@
 {
   "name":"gendl",
   "url":"http://beta.quicklisp.org/archive/gendl/2021-04-11/gendl-devo-20f13e70-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/gendl/gendl.git"
+  "repository":"https://gitlab.common-lisp.net/gendl/gendl.git",
+  "keywords":
+  [
+  ]
 }

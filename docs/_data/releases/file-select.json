@@ -1,5 +1,8 @@
 {
   "name":"file-select",
   "url":"http://beta.quicklisp.org/archive/file-select/2021-02-28/file-select-20210228-git.tgz",
-  "repository":"https://github.com/Shinmera/file-select.git"
+  "repository":"https://github.com/Shinmera/file-select.git",
+  "keywords":
+  [
+  ]
 }

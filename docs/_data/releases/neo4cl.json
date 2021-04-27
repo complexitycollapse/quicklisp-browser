@@ -1,5 +1,8 @@
 {
   "name":"neo4cl",
   "url":"http://beta.quicklisp.org/archive/neo4cl/2020-12-20/neo4cl-20201220-git.tgz",
-  "repository":"https://github.com/equill/neo4cl.git"
+  "repository":"https://github.com/equill/neo4cl.git",
+  "keywords":
+  [
+  ]
 }

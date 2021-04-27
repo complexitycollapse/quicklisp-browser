@@ -1,5 +1,8 @@
 {
   "name":"parser.ini",
   "url":"http://beta.quicklisp.org/archive/parser.ini/2018-10-18/parser.ini-20181018-git.tgz",
-  "repository":"https://github.com/scymtym/parser.ini.git"
+  "repository":"https://github.com/scymtym/parser.ini.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl+ssl",
   "url":"http://beta.quicklisp.org/archive/cl+ssl/2021-04-11/cl+ssl-20210411-git.tgz",
-  "repository":"https://github.com/cl-plus-ssl/cl-plus-ssl.git"
+  "repository":"https://github.com/cl-plus-ssl/cl-plus-ssl.git",
+  "keywords":
+  [
+  ]
 }

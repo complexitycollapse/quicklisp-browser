@@ -1,5 +1,8 @@
 {
   "name":"integral-rest",
   "url":"http://beta.quicklisp.org/archive/integral-rest/2015-09-23/integral-rest-20150923-git.tgz",
-  "repository":"https://github.com/Rudolph-Miller/integral-rest.git"
+  "repository":"https://github.com/Rudolph-Miller/integral-rest.git",
+  "keywords":
+  [
+  ]
 }

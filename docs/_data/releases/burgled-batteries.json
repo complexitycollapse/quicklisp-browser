@@ -1,5 +1,8 @@
 {
   "name":"burgled-batteries",
   "url":"http://beta.quicklisp.org/archive/burgled-batteries/2016-08-25/burgled-batteries-20160825-git.tgz",
-  "repository":"https://github.com/pinterface/burgled-batteries.git"
+  "repository":"https://github.com/pinterface/burgled-batteries.git",
+  "keywords":
+  [
+  ]
 }

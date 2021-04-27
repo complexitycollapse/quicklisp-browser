@@ -1,5 +1,8 @@
 {
   "name":"cl-graph",
   "url":"http://beta.quicklisp.org/archive/cl-graph/2017-12-27/cl-graph-20171227-git.tgz",
-  "repository":"https://github.com/gwkkwg/cl-graph"
+  "repository":"https://github.com/gwkkwg/cl-graph",
+  "keywords":
+  [
+  ]
 }

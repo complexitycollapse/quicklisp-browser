@@ -1,5 +1,8 @@
 {
   "name":"s-xml",
   "url":"http://beta.quicklisp.org/archive/s-xml/2015-06-08/s-xml-20150608-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/s-xml/s-xml.git"
+  "repository":"https://gitlab.common-lisp.net/s-xml/s-xml.git",
+  "keywords":
+  [
+  ]
 }

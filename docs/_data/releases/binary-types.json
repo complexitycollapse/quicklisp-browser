@@ -1,5 +1,8 @@
 {
   "name":"binary-types",
   "url":"http://beta.quicklisp.org/archive/binary-types/2013-06-15/binary-types-20130615-git.tgz",
-  "repository":"https://github.com/Ferada/binary-types"
+  "repository":"https://github.com/Ferada/binary-types",
+  "keywords":
+  [
+  ]
 }

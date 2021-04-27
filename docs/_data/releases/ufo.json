@@ -1,5 +1,8 @@
 {
   "name":"ufo",
   "url":"http://beta.quicklisp.org/archive/ufo/2016-12-04/ufo-20161204-git.tgz",
-  "repository":"https://github.com/ta2gch/UFO.git"
+  "repository":"https://github.com/ta2gch/UFO.git",
+  "keywords":
+  [
+  ]
 }

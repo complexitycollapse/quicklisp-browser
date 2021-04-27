@@ -1,5 +1,8 @@
 {
   "name":"cl-jpeg",
   "url":"http://beta.quicklisp.org/archive/cl-jpeg/2017-06-30/cl-jpeg-20170630-git.tgz",
-  "repository":"https://github.com/sharplispers/cl-jpeg.git"
+  "repository":"https://github.com/sharplispers/cl-jpeg.git",
+  "keywords":
+  [
+  ]
 }

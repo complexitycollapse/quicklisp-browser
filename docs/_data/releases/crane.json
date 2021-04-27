@@ -1,5 +1,8 @@
 {
   "name":"crane",
   "url":"http://beta.quicklisp.org/archive/crane/2016-02-08/crane-20160208-git.tgz",
-  "repository":"https://github.com/eudoxia0/crane.git"
+  "repository":"https://github.com/eudoxia0/crane.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"sketch",
   "url":"http://beta.quicklisp.org/archive/sketch/2020-04-27/sketch-20200427-git.tgz",
-  "repository":"https://github.com/vydd/sketch.git"
+  "repository":"https://github.com/vydd/sketch.git",
+  "keywords":
+  [
+  ]
 }

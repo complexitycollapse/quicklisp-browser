@@ -1,5 +1,8 @@
 {
   "name":"mp3-duration",
   "url":"http://beta.quicklisp.org/archive/mp3-duration/2016-02-08/mp3-duration-20160208-git.tgz",
-  "repository":"https://github.com/fukamachi/mp3-duration.git"
+  "repository":"https://github.com/fukamachi/mp3-duration.git",
+  "keywords":
+  [
+  ]
 }

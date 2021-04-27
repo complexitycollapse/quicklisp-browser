@@ -1,5 +1,8 @@
 {
   "name":"markup",
   "url":"http://beta.quicklisp.org/archive/markup/2021-04-11/markup-20210411-git.tgz",
-  "repository":"https://github.com/moderninterpreters/markup.git"
+  "repository":"https://github.com/moderninterpreters/markup.git",
+  "keywords":
+  [
+  ]
 }

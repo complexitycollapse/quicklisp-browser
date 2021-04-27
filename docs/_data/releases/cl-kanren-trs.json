@@ -1,5 +1,8 @@
 {
   "name":"cl-kanren-trs",
   "url":"http://beta.quicklisp.org/archive/cl-kanren-trs/2012-03-05/cl-kanren-trs-20120305-svn.tgz",
-  "repository":"https://gitlab.common-lisp.net/cl-kanren-trs/cl-kanren-trs.git"
+  "repository":"https://gitlab.common-lisp.net/cl-kanren-trs/cl-kanren-trs.git",
+  "keywords":
+  [
+  ]
 }

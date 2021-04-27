@@ -1,5 +1,10 @@
 {
   "name":"april",
   "url":"http://beta.quicklisp.org/archive/april/2021-04-11/april-20210411-git.tgz",
-  "repository":"https://github.com/phantomics/april.git"
+  "repository":"https://github.com/phantomics/april.git",
+  "keywords":
+  [
+    "april",
+    "apl"
+  ]
 }

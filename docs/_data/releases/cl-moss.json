@@ -1,5 +1,8 @@
 {
   "name":"cl-moss",
   "url":"http://beta.quicklisp.org/archive/cl-moss/2017-10-19/cl-moss-20171019-git.tgz",
-  "repository":"https://github.com/wsgac/cl-moss.git"
+  "repository":"https://github.com/wsgac/cl-moss.git",
+  "keywords":
+  [
+  ]
 }

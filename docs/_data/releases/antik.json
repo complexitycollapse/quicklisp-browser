@@ -1,5 +1,8 @@
 {
   "name":"antik",
   "url":"http://beta.quicklisp.org/archive/antik/2019-10-08/antik-master-df14cb8c-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/antik/antik.git"
+  "repository":"https://gitlab.common-lisp.net/antik/antik.git",
+  "keywords":
+  [
+  ]
 }

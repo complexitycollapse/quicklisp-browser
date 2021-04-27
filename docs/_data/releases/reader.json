@@ -1,5 +1,8 @@
 {
   "name":"reader",
   "url":"http://beta.quicklisp.org/archive/reader/2020-12-20/reader-v0.10.0.tgz",
-  "repository":"https://github.com/digikar99/reader.git"
+  "repository":"https://github.com/digikar99/reader.git",
+  "keywords":
+  [
+  ]
 }

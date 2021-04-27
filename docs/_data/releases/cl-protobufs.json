@@ -1,5 +1,8 @@
 {
   "name":"cl-protobufs",
   "url":"http://beta.quicklisp.org/archive/cl-protobufs/2020-03-25/cl-protobufs-20200325-git.tgz",
-  "repository":"https://github.com/qitab/cl-protobufs.git"
+  "repository":"https://github.com/qitab/cl-protobufs.git",
+  "keywords":
+  [
+  ]
 }

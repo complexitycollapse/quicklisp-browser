@@ -1,5 +1,8 @@
 {
   "name":"inner-conditional",
   "url":"http://beta.quicklisp.org/archive/inner-conditional/2020-09-25/inner-conditional-20200925-git.tgz",
-  "repository":"https://github.com/guicho271828/inner-conditional.git"
+  "repository":"https://github.com/guicho271828/inner-conditional.git",
+  "keywords":
+  [
+  ]
 }

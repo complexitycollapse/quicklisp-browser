@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.defclass-star",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.defclass-star/2021-02-28/hu.dwim.defclass-star-stable-git.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.defclass-star.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.defclass-star.git",
+  "keywords":
+  [
+  ]
 }

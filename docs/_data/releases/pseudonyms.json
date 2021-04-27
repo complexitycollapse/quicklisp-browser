@@ -1,5 +1,8 @@
 {
   "name":"pseudonyms",
   "url":"http://beta.quicklisp.org/archive/pseudonyms/2020-03-25/pseudonyms-20200325-git.tgz",
-  "repository":"https://github.com/phoe-krk/pseudonyms.git"
+  "repository":"https://github.com/phoe-krk/pseudonyms.git",
+  "keywords":
+  [
+  ]
 }

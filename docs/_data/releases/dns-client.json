@@ -1,5 +1,8 @@
 {
   "name":"dns-client",
   "url":"http://beta.quicklisp.org/archive/dns-client/2020-06-10/dns-client-20200610-git.tgz",
-  "repository":"https://github.com/Shinmera/dns-client.git"
+  "repository":"https://github.com/Shinmera/dns-client.git",
+  "keywords":
+  [
+  ]
 }

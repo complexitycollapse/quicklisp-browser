@@ -1,5 +1,8 @@
 {
   "name":"amazon-ecs",
   "url":"http://beta.quicklisp.org/archive/amazon-ecs/2011-04-18/amazon-ecs-20110418-git.tgz",
-  "repository":"https://github.com/gonzojive/amazon-ecs"
+  "repository":"https://github.com/gonzojive/amazon-ecs",
+  "keywords":
+  [
+  ]
 }

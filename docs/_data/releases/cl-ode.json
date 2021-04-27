@@ -1,5 +1,8 @@
 {
   "name":"cl-ode",
   "url":"http://beta.quicklisp.org/archive/cl-ode/2016-06-28/cl-ode-20160628-git.tgz",
-  "repository":"https://github.com/BradWBeer/cl-ode.git"
+  "repository":"https://github.com/BradWBeer/cl-ode.git",
+  "keywords":
+  [
+  ]
 }

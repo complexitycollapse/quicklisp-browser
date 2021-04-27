@@ -1,5 +1,8 @@
 {
   "name":"snappy",
   "url":"http://beta.quicklisp.org/archive/snappy/2020-06-10/snappy-20200610-git.tgz",
-  "repository":"https://github.com/brown/snappy.git"
+  "repository":"https://github.com/brown/snappy.git",
+  "keywords":
+  [
+  ]
 }

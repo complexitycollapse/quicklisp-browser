@@ -1,5 +1,8 @@
 {
   "name":"trivial-timers",
   "url":"http://beta.quicklisp.org/archive/trivial-timers/2010-10-06/trivial-timers-20101006-http.tgz",
-  "repository":"http://releases.unknownlamer.org/trivial-timers/trivial-timers_latest.tar.gz"
+  "repository":"http://releases.unknownlamer.org/trivial-timers/trivial-timers_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"beirc",
   "url":"http://beta.quicklisp.org/archive/beirc/2015-05-05/beirc-20150505-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/beirc/beirc.git"
+  "repository":"https://gitlab.common-lisp.net/beirc/beirc.git",
+  "keywords":
+  [
+  ]
 }

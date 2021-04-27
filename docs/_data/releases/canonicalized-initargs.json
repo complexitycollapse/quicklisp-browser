@@ -1,5 +1,8 @@
 {
   "name":"canonicalized-initargs",
   "url":"http://beta.quicklisp.org/archive/canonicalized-initargs/2021-04-11/canonicalized-initargs_2.0.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/canonicalized-initargs_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/canonicalized-initargs_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

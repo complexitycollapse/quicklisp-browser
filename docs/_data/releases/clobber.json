@@ -1,5 +1,8 @@
 {
   "name":"clobber",
   "url":"http://beta.quicklisp.org/archive/clobber/2019-05-21/clobber-20190521-git.tgz",
-  "repository":"https://github.com/robert-strandh/Clobber.git"
+  "repository":"https://github.com/robert-strandh/Clobber.git",
+  "keywords":
+  [
+  ]
 }

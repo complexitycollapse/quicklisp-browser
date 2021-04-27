@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.bluez",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.bluez/2021-02-28/hu.dwim.bluez-stable-git.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.bluez.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.bluez.git",
+  "keywords":
+  [
+  ]
 }

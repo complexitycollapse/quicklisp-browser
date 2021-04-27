@@ -1,5 +1,8 @@
 {
   "name":"legit",
   "url":"http://beta.quicklisp.org/archive/legit/2019-07-10/legit-20190710-git.tgz",
-  "repository":"https://github.com/Shinmera/legit.git"
+  "repository":"https://github.com/Shinmera/legit.git",
+  "keywords":
+  [
+  ]
 }

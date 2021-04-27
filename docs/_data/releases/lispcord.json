@@ -1,5 +1,8 @@
 {
   "name":"lispcord",
   "url":"http://beta.quicklisp.org/archive/lispcord/2020-09-25/lispcord-20200925-git.tgz",
-  "repository":"https://github.com/lispcord/lispcord.git"
+  "repository":"https://github.com/lispcord/lispcord.git",
+  "keywords":
+  [
+  ]
 }

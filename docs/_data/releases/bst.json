@@ -1,5 +1,8 @@
 {
   "name":"bst",
   "url":"http://beta.quicklisp.org/archive/bst/2020-09-25/bst-20200925-git.tgz",
-  "repository":"https://github.com/glv2/bst.git"
+  "repository":"https://github.com/glv2/bst.git",
+  "keywords":
+  [
+  ]
 }

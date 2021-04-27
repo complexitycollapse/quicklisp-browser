@@ -1,5 +1,8 @@
 {
   "name":"plexippus-xpath",
   "url":"http://beta.quicklisp.org/archive/plexippus-xpath/2019-05-21/plexippus-xpath-20190521-git.tgz",
-  "repository":"https://github.com/sharplispers/xpath.git"
+  "repository":"https://github.com/sharplispers/xpath.git",
+  "keywords":
+  [
+  ]
 }

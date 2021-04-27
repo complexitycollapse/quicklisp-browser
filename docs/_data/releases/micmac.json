@@ -1,5 +1,8 @@
 {
   "name":"micmac",
   "url":"http://beta.quicklisp.org/archive/micmac/2020-06-10/micmac-20200610-git.tgz",
-  "repository":"https://github.com/melisgl/micmac.git"
+  "repository":"https://github.com/melisgl/micmac.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"bitio",
   "url":"http://beta.quicklisp.org/archive/bitio/2017-10-23/bitio-20171023-git.tgz",
-  "repository":"https://github.com/psilord/bitio.git"
+  "repository":"https://github.com/psilord/bitio.git",
+  "keywords":
+  [
+  ]
 }

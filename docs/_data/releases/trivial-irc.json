@@ -1,5 +1,8 @@
 {
   "name":"trivial-irc",
   "url":"http://beta.quicklisp.org/archive/trivial-irc/2017-10-19/trivial-irc-20171019-git.tgz",
-  "repository":"https://github.com/karvus/trivial-irc.git"
+  "repository":"https://github.com/karvus/trivial-irc.git",
+  "keywords":
+  [
+  ]
 }

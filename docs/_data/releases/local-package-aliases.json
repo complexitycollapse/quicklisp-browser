@@ -1,5 +1,8 @@
 {
   "name":"local-package-aliases",
   "url":"http://beta.quicklisp.org/archive/local-package-aliases/2020-12-20/local-package-aliases-20201220-git.tgz",
-  "repository":"https://github.com/avodonosov/local-package-aliases.git"
+  "repository":"https://github.com/avodonosov/local-package-aliases.git",
+  "keywords":
+  [
+  ]
 }

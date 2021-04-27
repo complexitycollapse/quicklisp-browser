@@ -1,5 +1,8 @@
 {
   "name":"cl-l10n",
   "url":"http://beta.quicklisp.org/archive/cl-l10n/2016-12-04/cl-l10n-20161204-darcs.tgz",
-  "repository":"https://gitlab.common-lisp.net/cl-l10n/cl-l10n.git"
+  "repository":"https://gitlab.common-lisp.net/cl-l10n/cl-l10n.git",
+  "keywords":
+  [
+  ]
 }

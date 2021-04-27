@@ -1,5 +1,8 @@
 {
   "name":"millet",
   "url":"http://beta.quicklisp.org/archive/millet/2020-12-20/millet-20201220-git.tgz",
-  "repository":"https://github.com/hyotang666/millet.git"
+  "repository":"https://github.com/hyotang666/millet.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"lambda-fiddle",
   "url":"http://beta.quicklisp.org/archive/lambda-fiddle/2019-07-10/lambda-fiddle-20190710-git.tgz",
-  "repository":"https://github.com/Shinmera/lambda-fiddle.git"
+  "repository":"https://github.com/Shinmera/lambda-fiddle.git",
+  "keywords":
+  [
+  ]
 }

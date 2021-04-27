@@ -1,5 +1,8 @@
 {
   "name":"clem",
   "url":"http://beta.quicklisp.org/archive/clem/2020-02-18/clem-20200218-git.tgz",
-  "repository":"https://github.com/slyrus/clem.git"
+  "repository":"https://github.com/slyrus/clem.git",
+  "keywords":
+  [
+  ]
 }

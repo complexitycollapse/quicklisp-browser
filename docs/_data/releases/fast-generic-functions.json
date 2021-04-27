@@ -1,5 +1,8 @@
 {
   "name":"fast-generic-functions",
   "url":"http://beta.quicklisp.org/archive/fast-generic-functions/2021-01-24/fast-generic-functions-20210124-git.tgz",
-  "repository":"https://github.com/marcoheisig/fast-generic-functions.git"
+  "repository":"https://github.com/marcoheisig/fast-generic-functions.git",
+  "keywords":
+  [
+  ]
 }

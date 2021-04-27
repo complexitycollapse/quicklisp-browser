@@ -1,5 +1,8 @@
 {
   "name":"rucksack",
   "url":"http://beta.quicklisp.org/archive/rucksack/2015-06-08/rucksack-20150608-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/rucksack/rucksack.git"
+  "repository":"https://gitlab.common-lisp.net/rucksack/rucksack.git",
+  "keywords":
+  [
+  ]
 }

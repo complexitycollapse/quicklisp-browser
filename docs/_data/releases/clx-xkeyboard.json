@@ -1,5 +1,8 @@
 {
   "name":"clx-xkeyboard",
   "url":"http://beta.quicklisp.org/archive/clx-xkeyboard/2012-08-11/clx-xkeyboard-20120811-git.tgz",
-  "repository":"https://github.com/filonenko-mikhail/clx-xkeyboard.git"
+  "repository":"https://github.com/filonenko-mikhail/clx-xkeyboard.git",
+  "keywords":
+  [
+  ]
 }

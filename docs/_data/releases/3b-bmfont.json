@@ -1,5 +1,18 @@
 {
   "name":"3b-bmfont",
   "url":"http://beta.quicklisp.org/archive/3b-bmfont/2020-04-27/3b-bmfont-20200427-git.tgz",
-  "repository":"https://github.com/3b/3b-bmfont.git"
+  "repository":"https://github.com/3b/3b-bmfont.git",
+  "keywords":
+  [
+    "formats",
+    "file",
+    "stable",
+    "irc",
+    "issue",
+    "change",
+    "distancefield",
+    "extensions",
+    "handle",
+    "tries"
+  ]
 }

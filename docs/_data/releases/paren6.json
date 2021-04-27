@@ -1,5 +1,8 @@
 {
   "name":"paren6",
   "url":"http://beta.quicklisp.org/archive/paren6/2021-01-24/paren6-20210124-git.tgz",
-  "repository":"https://github.com/BnMcGn/paren6.git"
+  "repository":"https://github.com/BnMcGn/paren6.git",
+  "keywords":
+  [
+  ]
 }

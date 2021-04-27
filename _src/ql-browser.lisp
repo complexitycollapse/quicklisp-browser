@@ -2,13 +2,17 @@
 
 (in-package #:ql-browser)
 
+(defvar *stopwords*)
+
+(defun init ()
+  (setf *stopwords* (load-stopwords)))
+
 (defun make-dist-url (dist)
   (format nil "http://beta.quicklisp.org/dist/quicklisp/~A/distinfo.txt" dist))
 
 (defun subdir (&rest subdirs)
   (let ((string-parts (if (pathnamep (car subdirs)) (cdr subdirs) subdirs))
 	(root (if (pathnamep (car subdirs)) (car subdirs) *default-pathname-defaults*)))
-    (print string-parts) (print root)
     (merge-pathnames (make-pathname :directory (append (pathname-directory root) string-parts)) root)))
 
 (defun download-directory (dist)
@@ -53,20 +57,34 @@
   (let ((parts (cl-utilities:split-sequence #\space line)))
     (mapcar #'cons '(:name :url) (list (first parts) (second parts)))))
 
+(defun existing-keywords (json-pathname)
+  (with-open-file (s json-pathname :if-does-not-exist nil)
+    (if s (gethash "keywords" (yason:parse s)))))
+
 (defun write-release-json (release directory)
-  (let ((name (cdr (assoc :name release))))
-    (with-open-file (f (merge-pathnames (format nil "~A.json" name) directory)
+  (format T "Downloading release ~A. " (cdr (assoc :name release)))
+  (let* ((name (cdr (assoc :name release)))
+	 (json-pathname (merge-pathnames (format nil "~A.json" name) directory))
+	 (repo (second (get-repo name)))
+	 (existing-keywords (existing-keywords json-pathname))
+	 (is-github (is-github-repo repo))
+	 (readme (if (and is-github (not existing-keywords)) (get-readme repo)))
+	 (keywords (or existing-keywords (if readme (get-top-words (get-keywords readme))))))
+    (with-open-file (f json-pathname
 		       :direction :output :if-does-not-exist :create :if-exists :supersede)
       (yason:with-output (f :indent T)
 	(yason:with-object ()
 	  (dolist (x release)
 	    (yason:encode-object-element (string-downcase (symbol-name (car x))) (cdr x)))
-	  (yason:encode-object-element "repository" (second (get-repo name)))))
-      (fresh-line f))))
+	  (yason:encode-object-element "repository" repo)
+	  (yason:with-object-element ("keywords") (yason:with-array () (dolist (k keywords) (yason:encode-array-element k))))))
+      (fresh-line f)))
+  (fresh-line))
 
 (defun write-all-release-json (releases)
   (let ((release-dir (projects-directory)))
-    (dolist (r releases) (write-release-json r release-dir))))
+    (dolist (r releases)
+      (write-release-json r release-dir))))
 
 (defun get-repo (release)
   (with-open-file (s (merge-pathnames "source.txt" (subdir "quicklisp-projects" "projects" release)))
@@ -77,4 +95,70 @@
 
 (defun do-whole-dist (dist)
   (prepare-directories dist)
-  (generate (download-dist-details dist)))
+  (generate (second (download-dist-details dist))))
+
+(defun get-readme (project-url)
+  (let ((readme (or (get-github-file project-url "README.md")
+		    (get-github-file project-url "README.txt")
+		    (get-github-file project-url "README"))))
+    (cond (readme (format T "Got README for ~A" project-url))
+	  (T (format T "Could not find README for ~A" project-url)))
+    (sleep 60)
+    readme))
+
+(defun is-github-repo (project-url)
+  (string= "https://github.com" project-url :end2 18))
+
+(defun get-github-file (project-url filename)
+  (destructuring-bind (owner repo &rest _) (cl-utilities:split-sequence #\/ project-url :start 19)
+    (declare (ignore _))
+    (let ((url (format nil "https://api.github.com/repos/~A/~A/contents/~A" owner (subseq repo 0 (- (length repo) 4)) filename)))
+      (multiple-value-bind (page code) (drakma:http-request url)
+	(format T "~A (~A) " url code)
+	(if (eq 200 code)
+	    (let* ((contents (yason:parse (stringify page)))
+		   (readme-url (gethash "download_url" contents)))
+	      (multiple-value-bind (page code) (drakma:http-request readme-url)
+		(if (eq 200 code) (stringify page)))))))))
+
+(defun stringify (array)
+  (if (stringp array) array
+      (let* ((length (car (array-dimensions array)))
+	     (str (make-string length)))
+	(dotimes (i length str)
+	  (setf (aref str i) (code-char (aref array i)))))))
+
+(defun get-keywords (str &optional (stopwords *stopwords*))
+  (let ((hash (extract-words str))
+	(pairs nil))
+      (maphash (lambda (a b) (push (cons a b) pairs)) hash)
+      (setf pairs (remove-if (lambda (p) (nth-value 1 (gethash (car p) stopwords))) pairs))
+      (sort pairs (lambda (a b) (> (cdr a) (cdr b))))))
+
+(defun extract-words (str)
+  (let* ((text
+	  (substitute-if #\space (lambda (c) (find c '(#\. #\newline #\, #\+ #\# #\; #\: #\tab #\( #\) #\\
+						       #\/ #\" #\[ #\] #\{ #\} #\= #\! #\? #\< #\> #\| #\* #\` #\0 #\1 #\2 #\3 #\4
+						       #\5 #\6 #\7 #\8 #\9)))
+			 str))
+	 (words (remove-if
+		 (lambda (w) (find #\- w))
+		 (mapcar (cl-utilities:compose #'string-downcase (lambda (x) (string-trim '(#\') x)))
+			 (cl-utilities:split-sequence #\space text :remove-empty-subseqs T))))
+	 (hash (make-hash-table :test 'equal)))
+    (dolist (word words)
+      (cond ((parse-integer word :junk-allowed T))
+	    ((eq 1 (length word)))
+	    ((gethash word hash) (incf (gethash word hash)))
+	    (T (setf (gethash word hash) 1))))
+    hash))
+
+(defun load-stopwords ()
+  (with-open-file (s (merge-pathnames "stoplist.txt" (subdir "_src")))
+    (extract-words (with-output-to-string (o) (loop for c = (read-char s nil nil) while c do (write-char c o))))))
+
+(defun get-top-words (word-pairs &optional (count 10) (min (/ (cdar word-pairs) 3)))
+  (cond ((endp word-pairs) nil)
+	((zerop count) nil)
+	((< (cdar word-pairs) min) nil)
+	(T (cons (caar word-pairs) (get-top-words (cdr word-pairs) (1- count) min)))))

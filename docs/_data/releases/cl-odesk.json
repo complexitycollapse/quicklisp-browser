@@ -1,5 +1,8 @@
 {
   "name":"cl-odesk",
   "url":"http://beta.quicklisp.org/archive/cl-odesk/2015-06-08/cl-odesk-20150608-git.tgz",
-  "repository":"https://github.com/dym/cl-odesk.git"
+  "repository":"https://github.com/dym/cl-odesk.git",
+  "keywords":
+  [
+  ]
 }

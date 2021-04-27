@@ -1,5 +1,8 @@
 {
   "name":"trivial-extensible-sequences",
   "url":"http://beta.quicklisp.org/archive/trivial-extensible-sequences/2020-03-25/trivial-extensible-sequences-20200325-git.tgz",
-  "repository":"https://github.com/shinmera/trivial-extensible-sequences.git"
+  "repository":"https://github.com/shinmera/trivial-extensible-sequences.git",
+  "keywords":
+  [
+  ]
 }

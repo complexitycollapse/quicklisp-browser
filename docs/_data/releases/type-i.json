@@ -1,5 +1,8 @@
 {
   "name":"type-i",
   "url":"http://beta.quicklisp.org/archive/type-i/2019-12-27/type-i-20191227-git.tgz",
-  "repository":"https://github.com/guicho271828/type-i.git"
+  "repository":"https://github.com/guicho271828/type-i.git",
+  "keywords":
+  [
+  ]
 }

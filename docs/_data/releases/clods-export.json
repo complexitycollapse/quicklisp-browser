@@ -1,5 +1,8 @@
 {
   "name":"clods-export",
   "url":"http://beta.quicklisp.org/archive/clods-export/2021-04-11/clods-export-20210411-git.tgz",
-  "repository":"https://github.com/jlahd/clods-export.git"
+  "repository":"https://github.com/jlahd/clods-export.git",
+  "keywords":
+  [
+  ]
 }

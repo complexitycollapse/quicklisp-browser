@@ -1,5 +1,8 @@
 {
   "name":"pettomato-deque",
   "url":"http://beta.quicklisp.org/archive/pettomato-deque/2012-01-07/pettomato-deque-20120107-git.tgz",
-  "repository":"https://github.com/austinhaas/pettomato-deque.git"
+  "repository":"https://github.com/austinhaas/pettomato-deque.git",
+  "keywords":
+  [
+  ]
 }

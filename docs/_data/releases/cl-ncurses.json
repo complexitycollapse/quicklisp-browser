@@ -1,5 +1,8 @@
 {
   "name":"cl-ncurses",
   "url":"http://beta.quicklisp.org/archive/cl-ncurses/2010-10-06/cl-ncurses_0.1.4.tgz",
-  "repository":"https://common-lisp.net/project/cl-ncurses/files/cl-ncurses_latest-version.tgz"
+  "repository":"https://common-lisp.net/project/cl-ncurses/files/cl-ncurses_latest-version.tgz",
+  "keywords":
+  [
+  ]
 }

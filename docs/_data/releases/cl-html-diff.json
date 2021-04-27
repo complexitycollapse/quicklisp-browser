@@ -1,5 +1,8 @@
 {
   "name":"cl-html-diff",
   "url":"http://beta.quicklisp.org/archive/cl-html-diff/2013-01-28/cl-html-diff-20130128-git.tgz",
-  "repository":"https://github.com/wiseman/cl-html-diff.git"
+  "repository":"https://github.com/wiseman/cl-html-diff.git",
+  "keywords":
+  [
+  ]
 }

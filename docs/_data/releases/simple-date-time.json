@@ -1,5 +1,8 @@
 {
   "name":"simple-date-time",
   "url":"http://beta.quicklisp.org/archive/simple-date-time/2016-04-21/simple-date-time-20160421-git.tgz",
-  "repository":"https://github.com/quek/simple-date-time.git"
+  "repository":"https://github.com/quek/simple-date-time.git",
+  "keywords":
+  [
+  ]
 }

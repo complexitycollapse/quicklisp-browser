@@ -1,5 +1,8 @@
 {
   "name":"cl-xdg",
   "url":"http://beta.quicklisp.org/archive/cl-xdg/2017-01-24/cl-xdg-20170124-git.tgz",
-  "repository":"https://github.com/eadmund/cl-xdg.git"
+  "repository":"https://github.com/eadmund/cl-xdg.git",
+  "keywords":
+  [
+  ]
 }

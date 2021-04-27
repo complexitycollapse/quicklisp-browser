@@ -1,5 +1,8 @@
 {
   "name":"asdf-dependency-grovel",
   "url":"http://beta.quicklisp.org/archive/asdf-dependency-grovel/2017-04-03/asdf-dependency-grovel-20170403-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/xcvb/asdf-dependency-grovel.git"
+  "repository":"https://gitlab.common-lisp.net/xcvb/asdf-dependency-grovel.git",
+  "keywords":
+  [
+  ]
 }

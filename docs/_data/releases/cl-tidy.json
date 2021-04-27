@@ -1,5 +1,8 @@
 {
   "name":"cl-tidy",
   "url":"http://beta.quicklisp.org/archive/cl-tidy/2017-08-30/cl-tidy-20170830-git.tgz",
-  "repository":"https://github.com/gonzojive/cl-tidy"
+  "repository":"https://github.com/gonzojive/cl-tidy",
+  "keywords":
+  [
+  ]
 }

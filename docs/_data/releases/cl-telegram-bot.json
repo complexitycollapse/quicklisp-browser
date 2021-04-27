@@ -1,5 +1,8 @@
 {
   "name":"cl-telegram-bot",
   "url":"http://beta.quicklisp.org/archive/cl-telegram-bot/2021-01-24/cl-telegram-bot-20210124-git.tgz",
-  "repository":"https://github.com/40ants/cl-telegram-bot.git"
+  "repository":"https://github.com/40ants/cl-telegram-bot.git",
+  "keywords":
+  [
+  ]
 }

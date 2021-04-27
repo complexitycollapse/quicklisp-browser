@@ -1,5 +1,8 @@
 {
   "name":"utility-arguments",
   "url":"http://beta.quicklisp.org/archive/utility-arguments/2016-12-04/utility-arguments-20161204-git.tgz",
-  "repository":"https://gitlab.com/fau/utility-arguments.git"
+  "repository":"https://gitlab.com/fau/utility-arguments.git",
+  "keywords":
+  [
+  ]
 }

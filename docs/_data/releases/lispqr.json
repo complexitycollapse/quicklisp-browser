@@ -1,5 +1,8 @@
 {
   "name":"lispqr",
   "url":"http://beta.quicklisp.org/archive/lispqr/2020-04-27/lispqr-20200427-git.tgz",
-  "repository":"https://github.com/mare5x/LispQR.git"
+  "repository":"https://github.com/mare5x/LispQR.git",
+  "keywords":
+  [
+  ]
 }

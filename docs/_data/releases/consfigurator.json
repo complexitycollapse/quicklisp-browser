@@ -1,5 +1,8 @@
 {
   "name":"consfigurator",
   "url":"http://beta.quicklisp.org/archive/consfigurator/2021-04-11/consfigurator-v0.5.0.tgz",
-  "repository":"https://github.com/spwhitton/consfigurator.git"
+  "repository":"https://github.com/spwhitton/consfigurator.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"gcm",
   "url":"http://beta.quicklisp.org/archive/gcm/2014-12-17/gcm-20141217-git.tgz",
-  "repository":"https://github.com/death/gcm.git"
+  "repository":"https://github.com/death/gcm.git",
+  "keywords":
+  [
+  ]
 }

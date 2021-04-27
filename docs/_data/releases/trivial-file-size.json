@@ -1,5 +1,8 @@
 {
   "name":"trivial-file-size",
   "url":"http://beta.quicklisp.org/archive/trivial-file-size/2020-04-27/trivial-file-size-20200427-git.tgz",
-  "repository":"https://github.com/ruricolist/trivial-file-size.git"
+  "repository":"https://github.com/ruricolist/trivial-file-size.git",
+  "keywords":
+  [
+  ]
 }

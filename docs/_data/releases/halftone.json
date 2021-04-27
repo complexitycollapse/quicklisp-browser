@@ -1,5 +1,8 @@
 {
   "name":"halftone",
   "url":"http://beta.quicklisp.org/archive/halftone/2019-07-10/halftone-20190710-git.tgz",
-  "repository":"https://github.com/Shinmera/halftone.git"
+  "repository":"https://github.com/Shinmera/halftone.git",
+  "keywords":
+  [
+  ]
 }

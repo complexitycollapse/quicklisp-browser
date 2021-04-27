@@ -1,5 +1,8 @@
 {
   "name":"more-conditions",
   "url":"http://beta.quicklisp.org/archive/more-conditions/2018-08-31/more-conditions-20180831-git.tgz",
-  "repository":"https://github.com/scymtym/more-conditions.git"
+  "repository":"https://github.com/scymtym/more-conditions.git",
+  "keywords":
+  [
+  ]
 }

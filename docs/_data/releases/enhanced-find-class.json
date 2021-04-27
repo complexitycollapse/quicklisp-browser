@@ -1,5 +1,8 @@
 {
   "name":"enhanced-find-class",
   "url":"http://beta.quicklisp.org/archive/enhanced-find-class/2020-09-25/enhanced-find-class_1.0.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/enhanced-find-class_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/enhanced-find-class_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

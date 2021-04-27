@@ -1,5 +1,8 @@
 {
   "name":"sycamore",
   "url":"http://beta.quicklisp.org/archive/sycamore/2020-06-10/sycamore-20200610-git.tgz",
-  "repository":"https://github.com/ndantam/sycamore.git"
+  "repository":"https://github.com/ndantam/sycamore.git",
+  "keywords":
+  [
+  ]
 }

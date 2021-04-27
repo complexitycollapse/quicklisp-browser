@@ -1,5 +1,8 @@
 {
   "name":"glfw-blob",
   "url":"http://beta.quicklisp.org/archive/glfw-blob/2020-10-16/glfw-blob-stable-git.tgz",
-  "repository":"https://github.com/borodust/glfw-blob.git"
+  "repository":"https://github.com/borodust/glfw-blob.git",
+  "keywords":
+  [
+  ]
 }

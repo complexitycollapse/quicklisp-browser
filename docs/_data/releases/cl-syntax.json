@@ -1,5 +1,8 @@
 {
   "name":"cl-syntax",
   "url":"http://beta.quicklisp.org/archive/cl-syntax/2015-04-07/cl-syntax-20150407-git.tgz",
-  "repository":"https://github.com/m2ym/cl-syntax"
+  "repository":"https://github.com/m2ym/cl-syntax",
+  "keywords":
+  [
+  ]
 }

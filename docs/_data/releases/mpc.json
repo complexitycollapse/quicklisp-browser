@@ -1,5 +1,8 @@
 {
   "name":"mpc",
   "url":"http://beta.quicklisp.org/archive/mpc/2016-09-29/mpc-20160929-git.tgz",
-  "repository":"https://github.com/eugeneia/mpc.git"
+  "repository":"https://github.com/eugeneia/mpc.git",
+  "keywords":
+  [
+  ]
 }

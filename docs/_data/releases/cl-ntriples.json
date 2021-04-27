@@ -1,5 +1,8 @@
 {
   "name":"cl-ntriples",
   "url":"http://beta.quicklisp.org/archive/cl-ntriples/2019-03-07/cl-ntriples-20190307-hg.tgz",
-  "repository":"https://bitbucket.org/vityok/cl-ntriples"
+  "repository":"https://bitbucket.org/vityok/cl-ntriples",
+  "keywords":
+  [
+  ]
 }

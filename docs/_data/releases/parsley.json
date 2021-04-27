@@ -1,5 +1,8 @@
 {
   "name":"parsley",
   "url":"http://beta.quicklisp.org/archive/parsley/2021-04-11/parsley-20210411-git.tgz",
-  "repository":"https://git.mfiano.net/mfiano/parsley.git"
+  "repository":"https://git.mfiano.net/mfiano/parsley.git",
+  "keywords":
+  [
+  ]
 }

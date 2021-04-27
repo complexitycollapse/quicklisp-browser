@@ -1,5 +1,11 @@
 {
   "name":"blackbird",
   "url":"http://beta.quicklisp.org/archive/blackbird/2016-05-31/blackbird-20160531-git.tgz",
-  "repository":"https://github.com/orthecreedence/blackbird.git"
+  "repository":"https://github.com/orthecreedence/blackbird.git",
+  "keywords":
+  [
+    "blackbird",
+    "orthecreedence",
+    "http"
+  ]
 }

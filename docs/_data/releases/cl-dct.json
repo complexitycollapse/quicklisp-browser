@@ -1,5 +1,8 @@
 {
   "name":"cl-dct",
   "url":"http://beta.quicklisp.org/archive/cl-dct/2019-11-30/cl-dct-20191130-git.tgz",
-  "repository":"https://github.com/belambert/cl-dct.git"
+  "repository":"https://github.com/belambert/cl-dct.git",
+  "keywords":
+  [
+  ]
 }

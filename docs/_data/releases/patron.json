@@ -1,5 +1,8 @@
 {
   "name":"patron",
   "url":"http://beta.quicklisp.org/archive/patron/2013-04-20/patron-20130420-git.tgz",
-  "repository":"https://github.com/vy/patron.git"
+  "repository":"https://github.com/vy/patron.git",
+  "keywords":
+  [
+  ]
 }

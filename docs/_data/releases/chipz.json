@@ -1,5 +1,8 @@
 {
   "name":"chipz",
   "url":"http://beta.quicklisp.org/archive/chipz/2019-02-02/chipz-20190202-git.tgz",
-  "repository":"https://github.com/sharplispers/chipz.git"
+  "repository":"https://github.com/sharplispers/chipz.git",
+  "keywords":
+  [
+  ]
 }

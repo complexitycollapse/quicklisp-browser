@@ -1,5 +1,8 @@
 {
   "name":"openal-blob",
   "url":"http://beta.quicklisp.org/archive/openal-blob/2020-10-16/openal-blob-stable-git.tgz",
-  "repository":"https://github.com/borodust/openal-blob.git"
+  "repository":"https://github.com/borodust/openal-blob.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"nuclblog",
   "url":"http://beta.quicklisp.org/archive/nuclblog/2014-08-26/nuclblog-20140826-git.tgz",
-  "repository":"https://github.com/slyrus/nuclblog.git"
+  "repository":"https://github.com/slyrus/nuclblog.git",
+  "keywords":
+  [
+  ]
 }

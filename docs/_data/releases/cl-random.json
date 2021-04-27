@@ -1,5 +1,8 @@
 {
   "name":"cl-random",
   "url":"http://beta.quicklisp.org/archive/cl-random/2018-03-28/cl-random-20180328-git.tgz",
-  "repository":"https://github.com/tpapp/cl-random.git"
+  "repository":"https://github.com/tpapp/cl-random.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-python",
   "url":"http://beta.quicklisp.org/archive/cl-python/2020-04-27/cl-python-20200427-git.tgz",
-  "repository":"https://github.com/metawilm/cl-python.git"
+  "repository":"https://github.com/metawilm/cl-python.git",
+  "keywords":
+  [
+  ]
 }

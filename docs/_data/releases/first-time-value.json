@@ -1,5 +1,8 @@
 {
   "name":"first-time-value",
   "url":"http://beta.quicklisp.org/archive/first-time-value/2018-12-10/first-time-value-1.0.1.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/first-time-value_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/first-time-value_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

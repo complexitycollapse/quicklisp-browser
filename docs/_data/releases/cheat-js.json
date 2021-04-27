@@ -1,5 +1,8 @@
 {
   "name":"cheat-js",
   "url":"http://beta.quicklisp.org/archive/cheat-js/2012-10-13/cheat-js-20121013-git.tgz",
-  "repository":"https://github.com/mbrezu/Cheat-JS.git"
+  "repository":"https://github.com/mbrezu/Cheat-JS.git",
+  "keywords":
+  [
+  ]
 }

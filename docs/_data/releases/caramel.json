@@ -1,5 +1,8 @@
 {
   "name":"caramel",
   "url":"http://beta.quicklisp.org/archive/caramel/2013-04-20/caramel-20130420-git.tgz",
-  "repository":"https://github.com/pocket7878/Caramel.git"
+  "repository":"https://github.com/pocket7878/Caramel.git",
+  "keywords":
+  [
+  ]
 }

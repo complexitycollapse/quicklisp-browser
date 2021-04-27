@@ -1,5 +1,8 @@
 {
   "name":"cl-torrents",
   "url":"http://beta.quicklisp.org/archive/cl-torrents/2020-03-25/cl-torrents-20200325-git.tgz",
-  "repository":"https://gitlab.com/vindarel/cl-torrents/"
+  "repository":"https://gitlab.com/vindarel/cl-torrents/",
+  "keywords":
+  [
+  ]
 }

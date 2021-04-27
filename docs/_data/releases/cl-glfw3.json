@@ -1,5 +1,8 @@
 {
   "name":"cl-glfw3",
   "url":"http://beta.quicklisp.org/archive/cl-glfw3/2020-12-20/cl-glfw3-20201220-git.tgz",
-  "repository":"https://github.com/AlexCharlton/cl-glfw3.git"
+  "repository":"https://github.com/AlexCharlton/cl-glfw3.git",
+  "keywords":
+  [
+  ]
 }

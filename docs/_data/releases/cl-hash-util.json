@@ -1,5 +1,8 @@
 {
   "name":"cl-hash-util",
   "url":"http://beta.quicklisp.org/archive/cl-hash-util/2019-01-07/cl-hash-util-20190107-git.tgz",
-  "repository":"https://github.com/orthecreedence/cl-hash-util.git"
+  "repository":"https://github.com/orthecreedence/cl-hash-util.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"bodge-concurrency",
   "url":"http://beta.quicklisp.org/archive/bodge-concurrency/2020-10-16/bodge-concurrency-stable-git.tgz",
-  "repository":"https://github.com/borodust/bodge-concurrency.git"
+  "repository":"https://github.com/borodust/bodge-concurrency.git",
+  "keywords":
+  [
+  ]
 }

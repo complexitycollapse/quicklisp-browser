@@ -1,5 +1,8 @@
 {
   "name":"trivial-project",
   "url":"http://beta.quicklisp.org/archive/trivial-project/2017-08-30/trivial-project-quicklisp-9e3fe231-git.tgz",
-  "repository":"https://github.com/stacksmith/trivial-project.git"
+  "repository":"https://github.com/stacksmith/trivial-project.git",
+  "keywords":
+  [
+  ]
 }

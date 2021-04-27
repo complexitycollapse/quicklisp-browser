@@ -1,5 +1,8 @@
 {
   "name":"orizuru-orm",
   "url":"http://beta.quicklisp.org/archive/orizuru-orm/2021-02-28/orizuru-orm-20210228-git.tgz",
-  "repository":"https://notabug.org/cage/orizuru-orm.git"
+  "repository":"https://notabug.org/cage/orizuru-orm.git",
+  "keywords":
+  [
+  ]
 }

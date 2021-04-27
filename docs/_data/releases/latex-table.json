@@ -1,5 +1,8 @@
 {
   "name":"latex-table",
   "url":"http://beta.quicklisp.org/archive/latex-table/2018-03-28/latex-table-20180328-git.tgz",
-  "repository":"https://github.com/tpapp/latex-table.git"
+  "repository":"https://github.com/tpapp/latex-table.git",
+  "keywords":
+  [
+  ]
 }

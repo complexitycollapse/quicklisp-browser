@@ -1,5 +1,8 @@
 {
   "name":"cl-scsu",
   "url":"http://beta.quicklisp.org/archive/cl-scsu/2020-03-25/cl-scsu-20200325-git.tgz",
-  "repository":"https://github.com/y2q-actionman/cl-scsu.git"
+  "repository":"https://github.com/y2q-actionman/cl-scsu.git",
+  "keywords":
+  [
+  ]
 }

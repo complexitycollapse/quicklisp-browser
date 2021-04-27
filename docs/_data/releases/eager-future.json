@@ -1,5 +1,8 @@
 {
   "name":"eager-future",
   "url":"http://beta.quicklisp.org/archive/eager-future/2010-10-06/eager-future-20101006-darcs.tgz",
-  "repository":"http://common-lisp.net/project/eager-future/repository/eager-future/"
+  "repository":"http://common-lisp.net/project/eager-future/repository/eager-future/",
+  "keywords":
+  [
+  ]
 }

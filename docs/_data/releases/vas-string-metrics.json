@@ -1,5 +1,8 @@
 {
   "name":"vas-string-metrics",
   "url":"http://beta.quicklisp.org/archive/vas-string-metrics/2016-02-08/vas-string-metrics-20160208-git.tgz",
-  "repository":"https://github.com/vsedach/vas-string-metrics.git"
+  "repository":"https://github.com/vsedach/vas-string-metrics.git",
+  "keywords":
+  [
+  ]
 }

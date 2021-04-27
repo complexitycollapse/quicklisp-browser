@@ -1,5 +1,8 @@
 {
   "name":"common-doc-plump",
   "url":"http://beta.quicklisp.org/archive/common-doc-plump/2016-04-21/common-doc-plump-20160421-git.tgz",
-  "repository":"https://github.com/CommonDoc/common-doc-plump.git"
+  "repository":"https://github.com/CommonDoc/common-doc-plump.git",
+  "keywords":
+  [
+  ]
 }

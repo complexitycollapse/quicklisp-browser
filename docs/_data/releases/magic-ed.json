@@ -1,5 +1,8 @@
 {
   "name":"magic-ed",
   "url":"http://beta.quicklisp.org/archive/magic-ed/2020-03-25/magic-ed-20200325-git.tgz",
-  "repository":"https://github.com/sanel/magic-ed.git"
+  "repository":"https://github.com/sanel/magic-ed.git",
+  "keywords":
+  [
+  ]
 }

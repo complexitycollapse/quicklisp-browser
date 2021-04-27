@@ -1,5 +1,8 @@
 {
   "name":"x.let-star",
   "url":"http://beta.quicklisp.org/archive/x.let-star/2020-03-25/x.let-star-20200325-git.tgz",
-  "repository":"https://github.com/ks/x.let-star.git"
+  "repository":"https://github.com/ks/x.let-star.git",
+  "keywords":
+  [
+  ]
 }

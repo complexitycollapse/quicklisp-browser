@@ -1,5 +1,8 @@
 {
   "name":"cl-pop",
   "url":"http://beta.quicklisp.org/archive/cl-pop/2011-04-18/cl-pop-20110418-http.tgz",
-  "repository":"https://common-lisp.net/project/cl-pop/cl-pop.tar.gz"
+  "repository":"https://common-lisp.net/project/cl-pop/cl-pop.tar.gz",
+  "keywords":
+  [
+  ]
 }

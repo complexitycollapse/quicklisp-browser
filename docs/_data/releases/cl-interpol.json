@@ -1,5 +1,8 @@
 {
   "name":"cl-interpol",
   "url":"http://beta.quicklisp.org/archive/cl-interpol/2020-12-20/cl-interpol-20201220-git.tgz",
-  "repository":"cl-interpol"
+  "repository":"cl-interpol",
+  "keywords":
+  [
+  ]
 }

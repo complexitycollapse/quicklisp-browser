@@ -1,5 +1,8 @@
 {
   "name":"cl-bnf",
   "url":"http://beta.quicklisp.org/archive/cl-bnf/2020-09-25/cl-bnf-20200925-git.tgz",
-  "repository":"https://github.com/diasbruno/cl-bnf.git"
+  "repository":"https://github.com/diasbruno/cl-bnf.git",
+  "keywords":
+  [
+  ]
 }

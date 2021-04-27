@@ -1,5 +1,17 @@
 {
   "name":"agutil",
   "url":"http://beta.quicklisp.org/archive/agutil/2020-03-25/agutil-20200325-git.tgz",
-  "repository":"https://github.com/alex-gutev/agutil.git"
+  "repository":"https://github.com/alex-gutev/agutil.git",
+  "keywords":
+  [
+    "state",
+    "queue",
+    "states",
+    "packages",
+    "element",
+    "pattern",
+    "form",
+    "package",
+    "symbols"
+  ]
 }

@@ -1,5 +1,18 @@
 {
   "name":"array-utils",
   "url":"http://beta.quicklisp.org/archive/array-utils/2020-12-20/array-utils-20201220-git.tgz",
-  "repository":"https://github.com/Shinmera/array-utils.git"
+  "repository":"https://github.com/Shinmera/array-utils.git",
+  "keywords":
+  [
+    "plump",
+    "io",
+    "shinmera",
+    "http",
+    "idea",
+    "splitting",
+    "places",
+    "multiple",
+    "i've",
+    "exists"
+  ]
 }

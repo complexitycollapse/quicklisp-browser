@@ -1,5 +1,8 @@
 {
   "name":"esrap-liquid",
   "url":"http://beta.quicklisp.org/archive/esrap-liquid/2016-10-31/esrap-liquid-20161031-git.tgz",
-  "repository":"https://github.com/mabragor/esrap-liquid.git"
+  "repository":"https://github.com/mabragor/esrap-liquid.git",
+  "keywords":
+  [
+  ]
 }

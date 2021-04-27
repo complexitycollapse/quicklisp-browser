@@ -1,5 +1,8 @@
 {
   "name":"dweet",
   "url":"http://beta.quicklisp.org/archive/dweet/2014-12-17/dweet-20141217-git.tgz",
-  "repository":"https://github.com/death/dweet.git"
+  "repository":"https://github.com/death/dweet.git",
+  "keywords":
+  [
+  ]
 }

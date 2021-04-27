@@ -1,5 +1,8 @@
 {
   "name":"floating-point",
   "url":"http://beta.quicklisp.org/archive/floating-point/2014-11-06/floating-point-20141106-git.tgz",
-  "repository":"https://github.com/OdonataResearchLLC/floating-point.git"
+  "repository":"https://github.com/OdonataResearchLLC/floating-point.git",
+  "keywords":
+  [
+  ]
 }

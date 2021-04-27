@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.quasi-quote",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.quasi-quote/2021-02-28/hu.dwim.quasi-quote-stable-git.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.quasi-quote.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.quasi-quote.git",
+  "keywords":
+  [
+  ]
 }

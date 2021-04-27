@@ -1,5 +1,8 @@
 {
   "name":"file-attributes",
   "url":"http://beta.quicklisp.org/archive/file-attributes/2021-04-11/file-attributes-20210411-git.tgz",
-  "repository":"https://github.com/Shinmera/file-attributes.git"
+  "repository":"https://github.com/Shinmera/file-attributes.git",
+  "keywords":
+  [
+  ]
 }

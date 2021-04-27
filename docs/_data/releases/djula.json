@@ -1,5 +1,8 @@
 {
   "name":"djula",
   "url":"http://beta.quicklisp.org/archive/djula/2021-01-24/djula-20210124-git.tgz",
-  "repository":"https://github.com/mmontone/djula.git"
+  "repository":"https://github.com/mmontone/djula.git",
+  "keywords":
+  [
+  ]
 }

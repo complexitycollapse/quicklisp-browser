@@ -1,5 +1,8 @@
 {
   "name":"cl-gopher",
   "url":"http://beta.quicklisp.org/archive/cl-gopher/2018-07-11/cl-gopher-20180711-git.tgz",
-  "repository":"https://github.com/knusbaum/cl-gopher.git"
+  "repository":"https://github.com/knusbaum/cl-gopher.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"find-port",
   "url":"http://beta.quicklisp.org/archive/find-port/2019-07-10/find-port-20190710-git.tgz",
-  "repository":"https://github.com/eudoxia0/find-port.git"
+  "repository":"https://github.com/eudoxia0/find-port.git",
+  "keywords":
+  [
+  ]
 }

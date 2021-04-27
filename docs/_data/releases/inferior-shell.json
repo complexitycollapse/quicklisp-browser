@@ -1,5 +1,8 @@
 {
   "name":"inferior-shell",
   "url":"http://beta.quicklisp.org/archive/inferior-shell/2020-09-25/inferior-shell-20200925-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/qitab/inferior-shell.git"
+  "repository":"https://gitlab.common-lisp.net/qitab/inferior-shell.git",
+  "keywords":
+  [
+  ]
 }

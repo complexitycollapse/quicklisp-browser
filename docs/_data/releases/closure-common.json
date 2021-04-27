@@ -1,5 +1,8 @@
 {
   "name":"closure-common",
   "url":"http://beta.quicklisp.org/archive/closure-common/2018-10-18/closure-common-20181018-git.tgz",
-  "repository":"https://github.com/sharplispers/closure-common.git"
+  "repository":"https://github.com/sharplispers/closure-common.git",
+  "keywords":
+  [
+  ]
 }

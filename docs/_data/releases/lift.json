@@ -1,5 +1,8 @@
 {
   "name":"lift",
   "url":"http://beta.quicklisp.org/archive/lift/2019-05-21/lift-20190521-git.tgz",
-  "repository":"https://github.com/gwkkwg/lift"
+  "repository":"https://github.com/gwkkwg/lift",
+  "keywords":
+  [
+  ]
 }

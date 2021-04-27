@@ -1,5 +1,8 @@
 {
   "name":"cl-enumeration",
   "url":"http://beta.quicklisp.org/archive/cl-enumeration/2020-02-18/cl-enumeration-20200218-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/cl-enumeration/enumerations.git"
+  "repository":"https://gitlab.common-lisp.net/cl-enumeration/enumerations.git",
+  "keywords":
+  [
+  ]
 }

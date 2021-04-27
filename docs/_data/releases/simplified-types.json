@@ -1,5 +1,8 @@
 {
   "name":"simplified-types",
   "url":"http://beta.quicklisp.org/archive/simplified-types/2019-08-13/simplified-types-20190813-git.tgz",
-  "repository":"https://github.com/marcoheisig/simplified-types.git"
+  "repository":"https://github.com/marcoheisig/simplified-types.git",
+  "keywords":
+  [
+  ]
 }

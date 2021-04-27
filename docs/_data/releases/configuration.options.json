@@ -1,5 +1,8 @@
 {
   "name":"configuration.options",
   "url":"http://beta.quicklisp.org/archive/configuration.options/2019-07-10/configuration.options-20190710-git.tgz",
-  "repository":"https://github.com/scymtym/configuration.options.git"
+  "repository":"https://github.com/scymtym/configuration.options.git",
+  "keywords":
+  [
+  ]
 }

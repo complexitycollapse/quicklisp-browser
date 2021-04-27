@@ -1,5 +1,8 @@
 {
   "name":"osicat",
   "url":"http://beta.quicklisp.org/archive/osicat/2021-02-28/osicat-20210228-git.tgz",
-  "repository":"https://github.com/osicat/osicat.git"
+  "repository":"https://github.com/osicat/osicat.git",
+  "keywords":
+  [
+  ]
 }

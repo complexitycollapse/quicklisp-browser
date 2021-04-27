@@ -1,5 +1,8 @@
 {
   "name":"glacier",
   "url":"http://beta.quicklisp.org/archive/glacier/2021-04-11/glacier-20210411-git.tgz",
-  "repository":"https://github.com/compufox/glacier.git"
+  "repository":"https://github.com/compufox/glacier.git",
+  "keywords":
+  [
+  ]
 }

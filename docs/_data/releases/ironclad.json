@@ -1,5 +1,8 @@
 {
   "name":"ironclad",
   "url":"http://beta.quicklisp.org/archive/ironclad/2021-04-11/ironclad-v0.55.tgz",
-  "repository":"https://github.com/sharplispers/ironclad.git"
+  "repository":"https://github.com/sharplispers/ironclad.git",
+  "keywords":
+  [
+  ]
 }

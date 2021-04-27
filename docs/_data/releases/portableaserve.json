@@ -1,5 +1,8 @@
 {
   "name":"portableaserve",
   "url":"http://beta.quicklisp.org/archive/portableaserve/2019-08-13/portableaserve-20190813-git.tgz",
-  "repository":"git://git.code.sf.net/p/portableaserve/git"
+  "repository":"git://git.code.sf.net/p/portableaserve/git",
+  "keywords":
+  [
+  ]
 }

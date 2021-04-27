@@ -1,5 +1,8 @@
 {
   "name":"geneva",
   "url":"http://beta.quicklisp.org/archive/geneva/2016-12-04/geneva-20161204-git.tgz",
-  "repository":"https://github.com/inters/geneva.git"
+  "repository":"https://github.com/inters/geneva.git",
+  "keywords":
+  [
+  ]
 }

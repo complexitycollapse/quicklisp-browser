@@ -1,5 +1,8 @@
 {
   "name":"cl-who",
   "url":"http://beta.quicklisp.org/archive/cl-who/2019-07-10/cl-who-20190710-git.tgz",
-  "repository":"cl-who"
+  "repository":"cl-who",
+  "keywords":
+  [
+  ]
 }

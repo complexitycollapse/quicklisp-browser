@@ -1,5 +1,8 @@
 {
   "name":"bodge-utilities",
   "url":"http://beta.quicklisp.org/archive/bodge-utilities/2020-10-16/bodge-utilities-stable-git.tgz",
-  "repository":"https://github.com/borodust/bodge-utilities.git"
+  "repository":"https://github.com/borodust/bodge-utilities.git",
+  "keywords":
+  [
+  ]
 }

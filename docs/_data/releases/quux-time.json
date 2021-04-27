@@ -1,5 +1,8 @@
 {
   "name":"quux-time",
   "url":"http://beta.quicklisp.org/archive/quux-time/2015-04-07/quux-time-20150407-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/qitab/quux-time.git"
+  "repository":"https://gitlab.common-lisp.net/qitab/quux-time.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"css-selectors",
   "url":"http://beta.quicklisp.org/archive/css-selectors/2016-06-28/css-selectors-20160628-git.tgz",
-  "repository":"https://github.com/AccelerationNet/css-selectors.git"
+  "repository":"https://github.com/AccelerationNet/css-selectors.git",
+  "keywords":
+  [
+  ]
 }

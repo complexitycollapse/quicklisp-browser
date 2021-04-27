@@ -1,5 +1,8 @@
 {
   "name":"defvariant",
   "url":"http://beta.quicklisp.org/archive/defvariant/2014-07-13/defvariant-20140713-git.tgz",
-  "repository":"https://github.com/fredokun/defvariant.git"
+  "repository":"https://github.com/fredokun/defvariant.git",
+  "keywords":
+  [
+  ]
 }

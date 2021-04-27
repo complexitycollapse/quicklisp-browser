@@ -1,5 +1,8 @@
 {
   "name":"cl-ana",
   "url":"http://beta.quicklisp.org/archive/cl-ana/2021-02-28/cl-ana-20210228-git.tgz",
-  "repository":"https://github.com/ghollisjr/cl-ana.git"
+  "repository":"https://github.com/ghollisjr/cl-ana.git",
+  "keywords":
+  [
+  ]
 }

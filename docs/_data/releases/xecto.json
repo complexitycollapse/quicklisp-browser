@@ -1,5 +1,8 @@
 {
   "name":"xecto",
   "url":"http://beta.quicklisp.org/archive/xecto/2015-12-18/xecto-20151218-git.tgz",
-  "repository":"https://github.com/pkhuong/Xecto.git"
+  "repository":"https://github.com/pkhuong/Xecto.git",
+  "keywords":
+  [
+  ]
 }

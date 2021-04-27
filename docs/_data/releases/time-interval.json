@@ -1,5 +1,8 @@
 {
   "name":"time-interval",
   "url":"http://beta.quicklisp.org/archive/time-interval/2019-02-02/time-interval-20190202-git.tgz",
-  "repository":"https://github.com/slyrus/time-interval.git"
+  "repository":"https://github.com/slyrus/time-interval.git",
+  "keywords":
+  [
+  ]
 }

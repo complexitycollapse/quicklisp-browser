@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.graphviz",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.graphviz/2017-08-30/hu.dwim.graphviz-20170830-darcs.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.graphviz.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.graphviz.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"parse",
   "url":"http://beta.quicklisp.org/archive/parse/2020-09-25/parse-20200925-git.tgz",
-  "repository":"https://github.com/massung/parse.git"
+  "repository":"https://github.com/massung/parse.git",
+  "keywords":
+  [
+  ]
 }

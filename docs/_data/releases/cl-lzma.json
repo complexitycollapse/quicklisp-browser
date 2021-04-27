@@ -1,5 +1,8 @@
 {
   "name":"cl-lzma",
   "url":"http://beta.quicklisp.org/archive/cl-lzma/2019-11-30/cl-lzma-20191130-git.tgz",
-  "repository":"https://github.com/phoe/cl-lzma.git"
+  "repository":"https://github.com/phoe/cl-lzma.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"manifest",
   "url":"http://beta.quicklisp.org/archive/manifest/2012-02-08/manifest-20120208-git.tgz",
-  "repository":"https://github.com/gigamonkey/manifest.git"
+  "repository":"https://github.com/gigamonkey/manifest.git",
+  "keywords":
+  [
+  ]
 }

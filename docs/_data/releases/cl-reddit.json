@@ -1,5 +1,8 @@
 {
   "name":"cl-reddit",
   "url":"http://beta.quicklisp.org/archive/cl-reddit/2019-05-21/cl-reddit-20190521-git.tgz",
-  "repository":"https://github.com/jperson/cl-reddit.git"
+  "repository":"https://github.com/jperson/cl-reddit.git",
+  "keywords":
+  [
+  ]
 }

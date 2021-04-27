@@ -1,5 +1,8 @@
 {
   "name":"parenscript",
   "url":"http://beta.quicklisp.org/archive/parenscript/2018-12-10/Parenscript-2.7.1.tgz",
-  "repository":"https://common-lisp.net/project/parenscript/release/parenscript-latest.tgz"
+  "repository":"https://common-lisp.net/project/parenscript/release/parenscript-latest.tgz",
+  "keywords":
+  [
+  ]
 }

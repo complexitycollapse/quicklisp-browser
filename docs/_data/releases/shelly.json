@@ -1,5 +1,8 @@
 {
   "name":"shelly",
   "url":"http://beta.quicklisp.org/archive/shelly/2014-11-06/shelly-20141106-git.tgz",
-  "repository":"https://github.com/fukamachi/shelly.git"
+  "repository":"https://github.com/fukamachi/shelly.git",
+  "keywords":
+  [
+  ]
 }

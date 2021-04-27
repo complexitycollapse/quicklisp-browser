@@ -1,5 +1,8 @@
 {
   "name":"destructuring-bind-star",
   "url":"http://beta.quicklisp.org/archive/destructuring-bind-star/2020-06-10/destructuring-bind-star-20200610-git.tgz",
-  "repository":"https://github.com/phoe/destructuring-bind-star.git"
+  "repository":"https://github.com/phoe/destructuring-bind-star.git",
+  "keywords":
+  [
+  ]
 }

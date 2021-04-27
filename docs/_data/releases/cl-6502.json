@@ -1,5 +1,8 @@
 {
   "name":"cl-6502",
   "url":"http://beta.quicklisp.org/archive/cl-6502/2015-09-23/cl-6502-20150923-git.tgz",
-  "repository":"https://github.com/redline6561/cl-6502.git"
+  "repository":"https://github.com/redline6561/cl-6502.git",
+  "keywords":
+  [
+  ]
 }

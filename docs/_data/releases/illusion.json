@@ -1,5 +1,8 @@
 {
   "name":"illusion",
   "url":"http://beta.quicklisp.org/archive/illusion/2018-08-31/illusion-20180831-git.tgz",
-  "repository":"https://github.com/ailisp/illusion.git"
+  "repository":"https://github.com/ailisp/illusion.git",
+  "keywords":
+  [
+  ]
 }

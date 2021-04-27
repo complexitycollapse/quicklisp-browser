@@ -1,5 +1,8 @@
 {
   "name":"collectors",
   "url":"http://beta.quicklisp.org/archive/collectors/2016-12-04/collectors-20161204-git.tgz",
-  "repository":"https://github.com/AccelerationNet/collectors.git"
+  "repository":"https://github.com/AccelerationNet/collectors.git",
+  "keywords":
+  [
+  ]
 }

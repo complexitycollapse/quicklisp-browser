@@ -1,5 +1,8 @@
 {
   "name":"with-c-syntax",
   "url":"http://beta.quicklisp.org/archive/with-c-syntax/2019-05-21/with-c-syntax-20190521-git.tgz",
-  "repository":"https://github.com/y2q-actionman/with-c-syntax.git"
+  "repository":"https://github.com/y2q-actionman/with-c-syntax.git",
+  "keywords":
+  [
+  ]
 }

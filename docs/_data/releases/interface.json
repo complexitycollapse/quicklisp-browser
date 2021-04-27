@@ -1,5 +1,8 @@
 {
   "name":"interface",
   "url":"http://beta.quicklisp.org/archive/interface/2019-03-07/interface-20190307-hg.tgz",
-  "repository":"https://bitbucket.org/tarballs_are_good/interface"
+  "repository":"https://bitbucket.org/tarballs_are_good/interface",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"kebab",
   "url":"http://beta.quicklisp.org/archive/kebab/2015-06-08/kebab-20150608-git.tgz",
-  "repository":"https://github.com/pocket7878/kebab.git"
+  "repository":"https://github.com/pocket7878/kebab.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.debug",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.debug/2019-01-07/hu.dwim.debug-20190107-darcs.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.debug.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.debug.git",
+  "keywords":
+  [
+  ]
 }

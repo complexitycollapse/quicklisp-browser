@@ -1,5 +1,8 @@
 {
   "name":"cl-pango",
   "url":"http://beta.quicklisp.org/archive/cl-pango/2017-04-03/cl-pango-20170403-git.tgz",
-  "repository":"https://github.com/BradWBeer/cl-pango.git"
+  "repository":"https://github.com/BradWBeer/cl-pango.git",
+  "keywords":
+  [
+  ]
 }

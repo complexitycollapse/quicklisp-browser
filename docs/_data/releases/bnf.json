@@ -1,5 +1,13 @@
 {
   "name":"bnf",
   "url":"http://beta.quicklisp.org/archive/bnf/2020-06-10/bnf-20200610-git.tgz",
-  "repository":"https://github.com/hyotang666/bnf.git"
+  "repository":"https://github.com/hyotang666/bnf.git",
+  "keywords":
+  [
+    "bnf",
+    "sbcl",
+    "dot",
+    "digit",
+    "sign"
+  ]
 }

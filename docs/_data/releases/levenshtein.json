@@ -1,5 +1,8 @@
 {
   "name":"levenshtein",
   "url":"http://beta.quicklisp.org/archive/levenshtein/2010-10-06/levenshtein-1.0.tgz",
-  "repository":"http://abstractnonsense.com/levenshtein-1.0.tgz"
+  "repository":"http://abstractnonsense.com/levenshtein-1.0.tgz",
+  "keywords":
+  [
+  ]
 }

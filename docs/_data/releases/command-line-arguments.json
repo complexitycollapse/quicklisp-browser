@@ -1,5 +1,8 @@
 {
   "name":"command-line-arguments",
   "url":"http://beta.quicklisp.org/archive/command-line-arguments/2020-03-25/command-line-arguments-20200325-git.tgz",
-  "repository":"https://github.com/fare/command-line-arguments.git"
+  "repository":"https://github.com/fare/command-line-arguments.git",
+  "keywords":
+  [
+  ]
 }

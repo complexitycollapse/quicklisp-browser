@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.uri",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.uri/2018-02-28/hu.dwim.uri-20180228-darcs.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.uri.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.uri.git",
+  "keywords":
+  [
+  ]
 }

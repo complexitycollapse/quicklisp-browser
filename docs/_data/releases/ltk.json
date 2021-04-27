@@ -1,5 +1,8 @@
 {
   "name":"ltk",
   "url":"http://beta.quicklisp.org/archive/ltk/2019-02-02/ltk-20190202-git.tgz",
-  "repository":"https://github.com/herth/ltk.git"
+  "repository":"https://github.com/herth/ltk.git",
+  "keywords":
+  [
+  ]
 }

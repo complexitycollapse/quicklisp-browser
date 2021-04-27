@@ -1,5 +1,8 @@
 {
   "name":"stefil",
   "url":"http://beta.quicklisp.org/archive/stefil/2018-12-10/stefil-20181210-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/stefil/stefil.git"
+  "repository":"https://gitlab.common-lisp.net/stefil/stefil.git",
+  "keywords":
+  [
+  ]
 }

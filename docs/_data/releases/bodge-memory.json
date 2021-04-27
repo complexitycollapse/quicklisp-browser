@@ -1,5 +1,8 @@
 {
   "name":"bodge-memory",
   "url":"http://beta.quicklisp.org/archive/bodge-memory/2020-10-16/bodge-memory-stable-git.tgz",
-  "repository":"https://github.com/borodust/bodge-memory.git"
+  "repository":"https://github.com/borodust/bodge-memory.git",
+  "keywords":
+  [
+  ]
 }

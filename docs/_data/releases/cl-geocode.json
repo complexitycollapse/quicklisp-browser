@@ -1,5 +1,8 @@
 {
   "name":"cl-geocode",
   "url":"http://beta.quicklisp.org/archive/cl-geocode/2019-08-13/cl-geocode-20190813-git.tgz",
-  "repository":"https://github.com/e40/cl-geocode.git"
+  "repository":"https://github.com/e40/cl-geocode.git",
+  "keywords":
+  [
+  ]
 }

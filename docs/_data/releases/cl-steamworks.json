@@ -1,5 +1,8 @@
 {
   "name":"cl-steamworks",
   "url":"http://beta.quicklisp.org/archive/cl-steamworks/2020-12-20/cl-steamworks-20201220-git.tgz",
-  "repository":"https://github.com/shinmera/cl-steamworks.git"
+  "repository":"https://github.com/shinmera/cl-steamworks.git",
+  "keywords":
+  [
+  ]
 }

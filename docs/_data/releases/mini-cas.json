@@ -1,5 +1,8 @@
 {
   "name":"mini-cas",
   "url":"http://beta.quicklisp.org/archive/mini-cas/2015-09-23/mini-cas-20150923-git.tgz",
-  "repository":"http://git.tentpost.com/git/lisp/mini-cas.git"
+  "repository":"http://git.tentpost.com/git/lisp/mini-cas.git",
+  "keywords":
+  [
+  ]
 }

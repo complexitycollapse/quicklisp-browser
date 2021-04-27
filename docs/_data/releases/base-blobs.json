@@ -1,5 +1,8 @@
 {
   "name":"base-blobs",
   "url":"http://beta.quicklisp.org/archive/base-blobs/2020-10-16/base-blobs-stable-git.tgz",
-  "repository":"https://github.com/borodust/base-blobs.git"
+  "repository":"https://github.com/borodust/base-blobs.git",
+  "keywords":
+  [
+  ]
 }

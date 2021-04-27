@@ -1,5 +1,8 @@
 {
   "name":"fixed",
   "url":"http://beta.quicklisp.org/archive/fixed/2017-01-24/fixed-20170124-git.tgz",
-  "repository":"https://github.com/npatrick04/fixed.git"
+  "repository":"https://github.com/npatrick04/fixed.git",
+  "keywords":
+  [
+  ]
 }

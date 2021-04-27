@@ -1,5 +1,8 @@
 {
   "name":"cl-tetris3d",
   "url":"http://beta.quicklisp.org/archive/cl-tetris3d/2018-12-10/cl-tetris3d-20181210-git.tgz",
-  "repository":"https://github.com/grouzen/cl-tetris3d.git"
+  "repository":"https://github.com/grouzen/cl-tetris3d.git",
+  "keywords":
+  [
+  ]
 }

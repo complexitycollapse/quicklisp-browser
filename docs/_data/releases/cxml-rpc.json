@@ -1,5 +1,8 @@
 {
   "name":"cxml-rpc",
   "url":"http://beta.quicklisp.org/archive/cxml-rpc/2012-10-13/cxml-rpc-20121013-git.tgz",
-  "repository":"https://github.com/antifuchs/cxml-rpc.git"
+  "repository":"https://github.com/antifuchs/cxml-rpc.git",
+  "keywords":
+  [
+  ]
 }

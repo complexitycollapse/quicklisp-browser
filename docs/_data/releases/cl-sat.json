@@ -1,5 +1,8 @@
 {
   "name":"cl-sat",
   "url":"http://beta.quicklisp.org/archive/cl-sat/2020-07-15/cl-sat-20200715-git.tgz",
-  "repository":"https://github.com/cl-model-languages/cl-sat.git"
+  "repository":"https://github.com/cl-model-languages/cl-sat.git",
+  "keywords":
+  [
+  ]
 }

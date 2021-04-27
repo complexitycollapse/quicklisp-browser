@@ -1,5 +1,8 @@
 {
   "name":"cl-neo4j",
   "url":"http://beta.quicklisp.org/archive/cl-neo4j/2013-01-28/cl-neo4j-release-b8ad637a-git.tgz",
-  "repository":"https://github.com/kraison/cl-neo4j.git"
+  "repository":"https://github.com/kraison/cl-neo4j.git",
+  "keywords":
+  [
+  ]
 }

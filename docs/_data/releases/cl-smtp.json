@@ -1,5 +1,8 @@
 {
   "name":"cl-smtp",
   "url":"http://beta.quicklisp.org/archive/cl-smtp/2021-02-28/cl-smtp-20210228-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/cl-smtp/cl-smtp.git"
+  "repository":"https://gitlab.common-lisp.net/cl-smtp/cl-smtp.git",
+  "keywords":
+  [
+  ]
 }

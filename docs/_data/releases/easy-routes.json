@@ -1,5 +1,8 @@
 {
   "name":"easy-routes",
   "url":"http://beta.quicklisp.org/archive/easy-routes/2020-12-20/easy-routes-20201220-git.tgz",
-  "repository":"https://github.com/mmontone/easy-routes.git"
+  "repository":"https://github.com/mmontone/easy-routes.git",
+  "keywords":
+  [
+  ]
 }

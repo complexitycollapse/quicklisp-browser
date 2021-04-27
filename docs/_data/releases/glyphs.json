@@ -1,5 +1,8 @@
 {
   "name":"glyphs",
   "url":"http://beta.quicklisp.org/archive/glyphs/2018-07-11/glyphs-20180711-git.tgz",
-  "repository":"https://github.com/ahungry/glyphs.git"
+  "repository":"https://github.com/ahungry/glyphs.git",
+  "keywords":
+  [
+  ]
 }

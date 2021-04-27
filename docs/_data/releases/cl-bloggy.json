@@ -1,5 +1,8 @@
 {
   "name":"cl-bloggy",
   "url":"http://beta.quicklisp.org/archive/cl-bloggy/2020-12-20/cl-bloggy-20201220-git.tgz",
-  "repository":"https://github.com/K1D77A/cl-bloggy.git"
+  "repository":"https://github.com/K1D77A/cl-bloggy.git",
+  "keywords":
+  [
+  ]
 }

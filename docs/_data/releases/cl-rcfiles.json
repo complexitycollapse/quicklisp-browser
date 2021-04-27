@@ -1,5 +1,8 @@
 {
   "name":"cl-rcfiles",
   "url":"http://beta.quicklisp.org/archive/cl-rcfiles/2011-12-03/cl-rcfiles-20111203-http.tgz",
-  "repository":"https://www.lrde.epita.fr/~didier/software/lisp/cl-rcfiles.tar.gz"
+  "repository":"https://www.lrde.epita.fr/~didier/software/lisp/cl-rcfiles.tar.gz",
+  "keywords":
+  [
+  ]
 }

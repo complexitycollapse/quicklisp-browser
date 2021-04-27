@@ -1,5 +1,8 @@
 {
   "name":"csv-parser",
   "url":"http://beta.quicklisp.org/archive/csv-parser/2014-07-13/csv-parser-20140713-git.tgz",
-  "repository":"https://github.com/sharplispers/csv-parser"
+  "repository":"https://github.com/sharplispers/csv-parser",
+  "keywords":
+  [
+  ]
 }

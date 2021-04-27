@@ -1,5 +1,8 @@
 {
   "name":"cl-bert",
   "url":"http://beta.quicklisp.org/archive/cl-bert/2014-11-06/cl-bert-20141106-git.tgz",
-  "repository":"https://github.com/flambard/cl-bert.git"
+  "repository":"https://github.com/flambard/cl-bert.git",
+  "keywords":
+  [
+  ]
 }

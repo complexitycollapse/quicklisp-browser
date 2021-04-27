@@ -1,5 +1,9 @@
 {
   "name":"bp",
   "url":"http://beta.quicklisp.org/archive/bp/2021-04-11/bp-20210411-git.tgz",
-  "repository":"https://github.com/rodentrabies/bp.git"
+  "repository":"https://github.com/rodentrabies/bp.git",
+  "keywords":
+  [
+    "bp"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"curry-compose-reader-macros",
   "url":"http://beta.quicklisp.org/archive/curry-compose-reader-macros/2020-12-20/curry-compose-reader-macros-20201220-git.tgz",
-  "repository":"https://github.com/eschulte/curry-compose-reader-macros.git"
+  "repository":"https://github.com/eschulte/curry-compose-reader-macros.git",
+  "keywords":
+  [
+  ]
 }

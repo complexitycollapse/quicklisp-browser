@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.delico",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.delico/2020-09-25/hu.dwim.delico-20200925-darcs.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.delico.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.delico.git",
+  "keywords":
+  [
+  ]
 }

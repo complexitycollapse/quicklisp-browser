@@ -1,5 +1,8 @@
 {
   "name":"cl-ascii-table",
   "url":"http://beta.quicklisp.org/archive/cl-ascii-table/2020-06-10/cl-ascii-table-20200610-git.tgz",
-  "repository":"https://github.com/telephil/cl-ascii-table.git"
+  "repository":"https://github.com/telephil/cl-ascii-table.git",
+  "keywords":
+  [
+  ]
 }

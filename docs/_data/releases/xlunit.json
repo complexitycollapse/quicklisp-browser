@@ -1,5 +1,8 @@
 {
   "name":"xlunit",
   "url":"http://beta.quicklisp.org/archive/xlunit/2015-09-23/xlunit-20150923-git.tgz",
-  "repository":"xlunit"
+  "repository":"xlunit",
+  "keywords":
+  [
+  ]
 }

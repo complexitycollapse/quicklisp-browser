@@ -1,5 +1,8 @@
 {
   "name":"bordeaux-fft",
   "url":"http://beta.quicklisp.org/archive/bordeaux-fft/2015-06-08/bordeaux-fft-20150608-http.tgz",
-  "repository":"http://vintage-digital.com/hefner/software/bordeaux-fft/bordeaux-fft-current.tar.gz"
+  "repository":"http://vintage-digital.com/hefner/software/bordeaux-fft/bordeaux-fft-current.tar.gz",
+  "keywords":
+  [
+  ]
 }

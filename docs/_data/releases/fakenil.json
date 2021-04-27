@@ -1,5 +1,8 @@
 {
   "name":"fakenil",
   "url":"http://beta.quicklisp.org/archive/fakenil/2020-03-25/fakenil_1.0.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/fakenil_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/fakenil_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

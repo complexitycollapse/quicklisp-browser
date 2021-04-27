@@ -1,5 +1,8 @@
 {
   "name":"vector",
   "url":"http://beta.quicklisp.org/archive/vector/2013-01-28/vector-20130128-git.tgz",
-  "repository":"https://github.com/elbeno/vector.git"
+  "repository":"https://github.com/elbeno/vector.git",
+  "keywords":
+  [
+  ]
 }

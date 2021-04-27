@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.syntax-sugar",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.syntax-sugar/2016-12-04/hu.dwim.syntax-sugar-20161204-darcs.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.syntax-sugar.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.syntax-sugar.git",
+  "keywords":
+  [
+  ]
 }

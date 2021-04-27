@@ -1,5 +1,8 @@
 {
   "name":"prompt-for",
   "url":"http://beta.quicklisp.org/archive/prompt-for/2020-06-10/prompt-for-20200610-git.tgz",
-  "repository":"https://github.com/hyotang666/prompt-for.git"
+  "repository":"https://github.com/hyotang666/prompt-for.git",
+  "keywords":
+  [
+  ]
 }

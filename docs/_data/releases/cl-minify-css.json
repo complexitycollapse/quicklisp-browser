@@ -1,5 +1,8 @@
 {
   "name":"cl-minify-css",
   "url":"http://beta.quicklisp.org/archive/cl-minify-css/2020-09-25/cl-minify-css-20200925-git.tgz",
-  "repository":"https://github.com/noloop/cl-minify-css.git"
+  "repository":"https://github.com/noloop/cl-minify-css.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"bodge-ode",
   "url":"http://beta.quicklisp.org/archive/bodge-ode/2020-10-16/bodge-ode-stable-git.tgz",
-  "repository":"https://github.com/borodust/bodge-ode.git"
+  "repository":"https://github.com/borodust/bodge-ode.git",
+  "keywords":
+  [
+  ]
 }

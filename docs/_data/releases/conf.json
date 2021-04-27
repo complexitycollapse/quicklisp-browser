@@ -1,5 +1,8 @@
 {
   "name":"conf",
   "url":"http://beta.quicklisp.org/archive/conf/2019-12-27/conf-20191227-git.tgz",
-  "repository":"https://github.com/noloop/conf.git"
+  "repository":"https://github.com/noloop/conf.git",
+  "keywords":
+  [
+  ]
 }

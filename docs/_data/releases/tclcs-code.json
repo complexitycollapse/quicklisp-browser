@@ -1,5 +1,8 @@
 {
   "name":"tclcs-code",
   "url":"http://beta.quicklisp.org/archive/tclcs-code/2021-01-24/tclcs-code-20210124-git.tgz",
-  "repository":"https://github.com/phoe/tclcs-code.git"
+  "repository":"https://github.com/phoe/tclcs-code.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"postmodern-localtime",
   "url":"http://beta.quicklisp.org/archive/postmodern-localtime/2020-06-10/postmodern-localtime-20200610-git.tgz",
-  "repository":"https://github.com/radisb/postmodern-localtime.git"
+  "repository":"https://github.com/radisb/postmodern-localtime.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"ubiquitous",
   "url":"http://beta.quicklisp.org/archive/ubiquitous/2019-07-10/ubiquitous-20190710-git.tgz",
-  "repository":"https://github.com/Shinmera/ubiquitous.git"
+  "repository":"https://github.com/Shinmera/ubiquitous.git",
+  "keywords":
+  [
+  ]
 }

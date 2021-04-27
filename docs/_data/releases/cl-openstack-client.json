@@ -1,5 +1,8 @@
 {
   "name":"cl-openstack-client",
   "url":"http://beta.quicklisp.org/archive/cl-openstack-client/2019-10-07/cl-openstack-client-20191007-git.tgz",
-  "repository":"https://opendev.org/x/cl-openstack-client.git"
+  "repository":"https://opendev.org/x/cl-openstack-client.git",
+  "keywords":
+  [
+  ]
 }

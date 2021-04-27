@@ -1,5 +1,8 @@
 {
   "name":"trivial-channels",
   "url":"http://beta.quicklisp.org/archive/trivial-channels/2016-04-21/trivial-channels-20160421-git.tgz",
-  "repository":"https://github.com/rpav/trivial-channels.git"
+  "repository":"https://github.com/rpav/trivial-channels.git",
+  "keywords":
+  [
+  ]
 }

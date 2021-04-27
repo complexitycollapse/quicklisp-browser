@@ -1,5 +1,8 @@
 {
   "name":"lisp-zmq",
   "url":"http://beta.quicklisp.org/archive/lisp-zmq/2020-02-18/lisp-zmq-20200218-git.tgz",
-  "repository":"https://github.com/galdor/lisp-zmq.git"
+  "repository":"https://github.com/galdor/lisp-zmq.git",
+  "keywords":
+  [
+  ]
 }

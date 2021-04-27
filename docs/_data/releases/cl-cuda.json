@@ -1,5 +1,8 @@
 {
   "name":"cl-cuda",
   "url":"http://beta.quicklisp.org/archive/cl-cuda/2020-06-10/cl-cuda-20200610-git.tgz",
-  "repository":"https://github.com/takagi/cl-cuda.git"
+  "repository":"https://github.com/takagi/cl-cuda.git",
+  "keywords":
+  [
+  ]
 }

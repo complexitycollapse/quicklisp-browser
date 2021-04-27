@@ -1,5 +1,8 @@
 {
   "name":"usocket",
   "url":"http://beta.quicklisp.org/archive/usocket/2019-12-27/usocket-0.8.3.tgz",
-  "repository":"https://common-lisp.net/project/usocket/releases/usocket-latest.tar.gz"
+  "repository":"https://common-lisp.net/project/usocket/releases/usocket-latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

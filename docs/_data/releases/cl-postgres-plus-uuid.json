@@ -1,5 +1,8 @@
 {
   "name":"cl-postgres-plus-uuid",
   "url":"http://beta.quicklisp.org/archive/cl-postgres-plus-uuid/2018-10-18/cl-postgres-plus-uuid-20181018-git.tgz",
-  "repository":"https://github.com/michaeljforster/cl-postgres-plus-uuid.git"
+  "repository":"https://github.com/michaeljforster/cl-postgres-plus-uuid.git",
+  "keywords":
+  [
+  ]
 }

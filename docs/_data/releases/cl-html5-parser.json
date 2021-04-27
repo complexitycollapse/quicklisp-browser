@@ -1,5 +1,8 @@
 {
   "name":"cl-html5-parser",
   "url":"http://beta.quicklisp.org/archive/cl-html5-parser/2019-05-21/cl-html5-parser-20190521-git.tgz",
-  "repository":"https://github.com/rotatef/cl-html5-parser.git"
+  "repository":"https://github.com/rotatef/cl-html5-parser.git",
+  "keywords":
+  [
+  ]
 }

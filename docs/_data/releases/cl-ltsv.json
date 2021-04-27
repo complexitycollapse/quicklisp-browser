@@ -1,5 +1,8 @@
 {
   "name":"cl-ltsv",
   "url":"http://beta.quicklisp.org/archive/cl-ltsv/2014-07-13/cl-ltsv-20140713-git.tgz",
-  "repository":"https://github.com/taksatou/cl-ltsv.git"
+  "repository":"https://github.com/taksatou/cl-ltsv.git",
+  "keywords":
+  [
+  ]
 }

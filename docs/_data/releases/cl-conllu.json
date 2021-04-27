@@ -1,5 +1,8 @@
 {
   "name":"cl-conllu",
   "url":"http://beta.quicklisp.org/archive/cl-conllu/2020-12-20/cl-conllu-20201220-git.tgz",
-  "repository":"http://github.com/own-pt/cl-conllu.git"
+  "repository":"http://github.com/own-pt/cl-conllu.git",
+  "keywords":
+  [
+  ]
 }

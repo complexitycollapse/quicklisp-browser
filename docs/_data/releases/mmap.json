@@ -1,5 +1,8 @@
 {
   "name":"mmap",
   "url":"http://beta.quicklisp.org/archive/mmap/2020-12-20/mmap-20201220-git.tgz",
-  "repository":"https://github.com/Shinmera/mmap.git"
+  "repository":"https://github.com/Shinmera/mmap.git",
+  "keywords":
+  [
+  ]
 }

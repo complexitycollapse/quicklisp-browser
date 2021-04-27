@@ -1,5 +1,8 @@
 {
   "name":"asdf-package-system",
   "url":"http://beta.quicklisp.org/archive/asdf-package-system/2015-06-08/asdf-package-system-20150608-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/asdf/asdf-package-system.git"
+  "repository":"https://gitlab.common-lisp.net/asdf/asdf-package-system.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"split-sequence",
   "url":"http://beta.quicklisp.org/archive/split-sequence/2019-05-21/split-sequence-v2.0.0.tgz",
-  "repository":"https://github.com/sharplispers/split-sequence.git"
+  "repository":"https://github.com/sharplispers/split-sequence.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-argparse",
   "url":"http://beta.quicklisp.org/archive/cl-argparse/2020-06-10/cl-argparse-20200610-git.tgz",
-  "repository":"https://github.com/simkoc/cl-argparse.git"
+  "repository":"https://github.com/simkoc/cl-argparse.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"linux-packaging",
   "url":"http://beta.quicklisp.org/archive/linux-packaging/2021-04-11/linux-packaging-20210411-git.tgz",
-  "repository":"https://gitlab.com/ralt/linux-packaging.git"
+  "repository":"https://gitlab.com/ralt/linux-packaging.git",
+  "keywords":
+  [
+  ]
 }

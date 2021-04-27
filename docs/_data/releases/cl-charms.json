@@ -1,5 +1,8 @@
 {
   "name":"cl-charms",
   "url":"http://beta.quicklisp.org/archive/cl-charms/2020-02-18/cl-charms-20200218-git.tgz",
-  "repository":"https://github.com/HiTECNOLOGYs/cl-charms.git"
+  "repository":"https://github.com/HiTECNOLOGYs/cl-charms.git",
+  "keywords":
+  [
+  ]
 }

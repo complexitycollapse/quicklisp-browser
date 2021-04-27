@@ -1,5 +1,8 @@
 {
   "name":"cl-arff-parser",
   "url":"http://beta.quicklisp.org/archive/cl-arff-parser/2013-04-21/cl-arff-parser-20130421-git.tgz",
-  "repository":"https://github.com/pieterw/cl-arff-parser.git"
+  "repository":"https://github.com/pieterw/cl-arff-parser.git",
+  "keywords":
+  [
+  ]
 }

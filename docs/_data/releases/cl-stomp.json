@@ -1,5 +1,8 @@
 {
   "name":"cl-stomp",
   "url":"http://beta.quicklisp.org/archive/cl-stomp/2020-09-25/cl-stomp-20200925-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/cl-stomp/cl-stomp.git"
+  "repository":"https://gitlab.common-lisp.net/cl-stomp/cl-stomp.git",
+  "keywords":
+  [
+  ]
 }

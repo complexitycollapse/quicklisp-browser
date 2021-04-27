@@ -1,5 +1,8 @@
 {
   "name":"f-underscore",
   "url":"http://beta.quicklisp.org/archive/f-underscore/2010-10-06/f-underscore-20101006-darcs.tgz",
-  "repository":"https://gitlab.common-lisp.net/bpm/f-underscore.git"
+  "repository":"https://gitlab.common-lisp.net/bpm/f-underscore.git",
+  "keywords":
+  [
+  ]
 }

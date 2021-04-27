@@ -1,5 +1,8 @@
 {
   "name":"cl-geometry",
   "url":"http://beta.quicklisp.org/archive/cl-geometry/2016-05-31/cl-geometry-20160531-git.tgz",
-  "repository":"https://github.com/vydd/cl-geometry.git"
+  "repository":"https://github.com/vydd/cl-geometry.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-fxml",
   "url":"http://beta.quicklisp.org/archive/cl-fxml/2021-02-28/cl-fxml-20210228-git.tgz",
-  "repository":"https://github.com/Goheeca/cl-fxml.git"
+  "repository":"https://github.com/Goheeca/cl-fxml.git",
+  "keywords":
+  [
+  ]
 }

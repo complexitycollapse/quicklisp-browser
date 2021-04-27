@@ -1,5 +1,8 @@
 {
   "name":"cl-moneris",
   "url":"http://beta.quicklisp.org/archive/cl-moneris/2011-04-18/cl-moneris-20110418-git.tgz",
-  "repository":"https://github.com/vsedach/cl-moneris.git"
+  "repository":"https://github.com/vsedach/cl-moneris.git",
+  "keywords":
+  [
+  ]
 }

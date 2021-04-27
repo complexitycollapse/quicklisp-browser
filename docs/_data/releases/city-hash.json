@@ -1,5 +1,8 @@
 {
   "name":"city-hash",
   "url":"http://beta.quicklisp.org/archive/city-hash/2020-09-25/city-hash-20200925-git.tgz",
-  "repository":"https://github.com/brown/city-hash.git"
+  "repository":"https://github.com/brown/city-hash.git",
+  "keywords":
+  [
+  ]
 }

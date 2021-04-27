@@ -1,5 +1,8 @@
 {
   "name":"lichat-tcp-client",
   "url":"http://beta.quicklisp.org/archive/lichat-tcp-client/2019-07-10/lichat-tcp-client-20190710-git.tgz",
-  "repository":"https://github.com/Shirakumo/lichat-tcp-client.git"
+  "repository":"https://github.com/Shirakumo/lichat-tcp-client.git",
+  "keywords":
+  [
+  ]
 }

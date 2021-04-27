@@ -1,5 +1,8 @@
 {
   "name":"simple-inferiors",
   "url":"http://beta.quicklisp.org/archive/simple-inferiors/2020-03-25/simple-inferiors-20200325-git.tgz",
-  "repository":"https://github.com/Shinmera/simple-inferiors.git"
+  "repository":"https://github.com/Shinmera/simple-inferiors.git",
+  "keywords":
+  [
+  ]
 }

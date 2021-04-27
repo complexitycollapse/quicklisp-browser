@@ -1,5 +1,8 @@
 {
   "name":"cl-cli",
   "url":"http://beta.quicklisp.org/archive/cl-cli/2015-12-18/cl-cli-20151218-git.tgz",
-  "repository":"https://github.com/renard/cl-cli.git"
+  "repository":"https://github.com/renard/cl-cli.git",
+  "keywords":
+  [
+  ]
 }

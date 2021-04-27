@@ -1,5 +1,8 @@
 {
   "name":"cl-geos",
   "url":"http://beta.quicklisp.org/archive/cl-geos/2018-07-11/cl-geos-20180711-git.tgz",
-  "repository":"https://github.com/daewok/cl-geos.git"
+  "repository":"https://github.com/daewok/cl-geos.git",
+  "keywords":
+  [
+  ]
 }

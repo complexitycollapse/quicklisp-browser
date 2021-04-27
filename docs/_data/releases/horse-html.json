@@ -1,5 +1,8 @@
 {
   "name":"horse-html",
   "url":"http://beta.quicklisp.org/archive/horse-html/2019-10-07/horse-html-20191007-git.tgz",
-  "repository":"https://gitlab.com/ralt/horse-html.git"
+  "repository":"https://gitlab.com/ralt/horse-html.git",
+  "keywords":
+  [
+  ]
 }

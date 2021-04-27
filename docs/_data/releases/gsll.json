@@ -1,5 +1,8 @@
 {
   "name":"gsll",
   "url":"http://beta.quicklisp.org/archive/gsll/2018-08-31/gsll-quicklisp-eeeda841-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/antik/gsll.git"
+  "repository":"https://gitlab.common-lisp.net/antik/gsll.git",
+  "keywords":
+  [
+  ]
 }

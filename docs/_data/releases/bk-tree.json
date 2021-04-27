@@ -1,5 +1,13 @@
 {
   "name":"bk-tree",
   "url":"http://beta.quicklisp.org/archive/bk-tree/2013-04-20/bk-tree-20130420-git.tgz",
-  "repository":"https://github.com/vy/bk-tree.git"
+  "repository":"https://github.com/vy/bk-tree.git",
+  "keywords":
+  [
+    "__",
+    "words",
+    "distance",
+    "node",
+    "tree"
+  ]
 }

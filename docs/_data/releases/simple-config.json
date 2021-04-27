@@ -1,5 +1,8 @@
 {
   "name":"simple-config",
   "url":"http://beta.quicklisp.org/archive/simple-config/2020-02-18/simple-config-20200218-git.tgz",
-  "repository":"https://github.com/compufox/simple-config.git"
+  "repository":"https://github.com/compufox/simple-config.git",
+  "keywords":
+  [
+  ]
 }

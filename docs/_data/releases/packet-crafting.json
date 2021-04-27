@@ -1,5 +1,8 @@
 {
   "name":"packet-crafting",
   "url":"http://beta.quicklisp.org/archive/packet-crafting/2020-06-10/packet-crafting-20200610-git.tgz",
-  "repository":"https://github.com/mets634/packet-crafting.git"
+  "repository":"https://github.com/mets634/packet-crafting.git",
+  "keywords":
+  [
+  ]
 }

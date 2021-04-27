@@ -1,5 +1,8 @@
 {
   "name":"dataloader",
   "url":"http://beta.quicklisp.org/archive/dataloader/2021-04-11/dataloader-20210411-git.tgz",
-  "repository":"https://github.com/guicho271828/dataloader.git"
+  "repository":"https://github.com/guicho271828/dataloader.git",
+  "keywords":
+  [
+  ]
 }

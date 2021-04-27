@@ -1,5 +1,8 @@
 {
   "name":"rt",
   "url":"http://beta.quicklisp.org/archive/rt/2010-10-06/rt-20101006-git.tgz",
-  "repository":"rt"
+  "repository":"rt",
+  "keywords":
+  [
+  ]
 }

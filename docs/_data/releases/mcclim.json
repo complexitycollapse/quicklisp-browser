@@ -1,5 +1,8 @@
 {
   "name":"mcclim",
   "url":"http://beta.quicklisp.org/archive/mcclim/2021-04-11/mcclim-20210411-git.tgz",
-  "repository":"https://github.com/mcclim/mcclim"
+  "repository":"https://github.com/mcclim/mcclim",
+  "keywords":
+  [
+  ]
 }

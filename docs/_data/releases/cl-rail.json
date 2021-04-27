@@ -1,5 +1,8 @@
 {
   "name":"cl-rail",
   "url":"http://beta.quicklisp.org/archive/cl-rail/2017-12-27/cl-rail-20171227-git.tgz",
-  "repository":"https://github.com/marad/cl-rail.git"
+  "repository":"https://github.com/marad/cl-rail.git",
+  "keywords":
+  [
+  ]
 }

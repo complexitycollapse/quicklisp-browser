@@ -1,5 +1,8 @@
 {
   "name":"eos",
   "url":"http://beta.quicklisp.org/archive/eos/2020-09-25/eos-20200925-git.tgz",
-  "repository":"https://github.com/adlai/Eos.git"
+  "repository":"https://github.com/adlai/Eos.git",
+  "keywords":
+  [
+  ]
 }

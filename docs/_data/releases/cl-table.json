@@ -1,5 +1,8 @@
 {
   "name":"cl-table",
   "url":"http://beta.quicklisp.org/archive/cl-table/2013-01-28/cl-table-20130128-git.tgz",
-  "repository":"https://github.com/Kalimehtar/cl-table.git"
+  "repository":"https://github.com/Kalimehtar/cl-table.git",
+  "keywords":
+  [
+  ]
 }

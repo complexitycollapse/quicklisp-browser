@@ -1,5 +1,8 @@
 {
   "name":"cl-conspack",
   "url":"http://beta.quicklisp.org/archive/cl-conspack/2017-04-03/cl-conspack-20170403-git.tgz",
-  "repository":"https://github.com/conspack/cl-conspack.git"
+  "repository":"https://github.com/conspack/cl-conspack.git",
+  "keywords":
+  [
+  ]
 }

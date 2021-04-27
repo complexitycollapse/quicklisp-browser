@@ -1,5 +1,8 @@
 {
   "name":"clite",
   "url":"http://beta.quicklisp.org/archive/clite/2013-06-15/clite-20130615-git.tgz",
-  "repository":"https://github.com/lispy-stuff/clite.git"
+  "repository":"https://github.com/lispy-stuff/clite.git",
+  "keywords":
+  [
+  ]
 }

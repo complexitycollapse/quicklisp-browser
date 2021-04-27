@@ -1,5 +1,8 @@
 {
   "name":"infix-math",
   "url":"http://beta.quicklisp.org/archive/infix-math/2017-08-30/infix-math-20170830-git.tgz",
-  "repository":"https://github.com/ruricolist/infix-math.git"
+  "repository":"https://github.com/ruricolist/infix-math.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,14 @@
 {
   "name":"cacle",
   "url":"http://beta.quicklisp.org/archive/cacle/2019-05-21/cacle-20190521-git.tgz",
-  "repository":"https://github.com/jlahd/cacle.git"
+  "repository":"https://github.com/jlahd/cacle.git",
+  "keywords":
+  [
+    "cache",
+    "data",
+    "cacle",
+    "policy",
+    "value",
+    "generic"
+  ]
 }

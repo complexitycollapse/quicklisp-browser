@@ -1,5 +1,8 @@
 {
   "name":"cl-arxiv-api",
   "url":"http://beta.quicklisp.org/archive/cl-arxiv-api/2017-04-03/cl-arxiv-api-20170403-git.tgz",
-  "repository":"https://github.com/mabragor/cl-arxiv-api.git"
+  "repository":"https://github.com/mabragor/cl-arxiv-api.git",
+  "keywords":
+  [
+  ]
 }

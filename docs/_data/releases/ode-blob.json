@@ -1,5 +1,8 @@
 {
   "name":"ode-blob",
   "url":"http://beta.quicklisp.org/archive/ode-blob/2020-10-16/ode-blob-stable-git.tgz",
-  "repository":"https://github.com/borodust/ode-blob.git"
+  "repository":"https://github.com/borodust/ode-blob.git",
+  "keywords":
+  [
+  ]
 }

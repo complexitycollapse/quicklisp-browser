@@ -1,5 +1,17 @@
 {
   "name":"arithmetic-operators-as-words",
   "url":"http://beta.quicklisp.org/archive/arithmetic-operators-as-words/2020-06-10/arithmetic-operators-as-words-20200610-git.tgz",
-  "repository":"https://github.com/K1D77A/arithmetic-operators-as-words.git"
+  "repository":"https://github.com/K1D77A/arithmetic-operators-as-words.git",
+  "keywords":
+  [
+    "versions",
+    "symbolic",
+    "wrappers",
+    "just",
+    "subtract",
+    "multiply",
+    "divide",
+    "following",
+    "provides"
+  ]
 }

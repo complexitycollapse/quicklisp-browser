@@ -1,5 +1,8 @@
 {
   "name":"atomics",
   "url":"http://beta.quicklisp.org/archive/atomics/2021-01-24/atomics-20210124-git.tgz",
-  "repository":"https://github.com/shinmera/atomics.git"
+  "repository":"https://github.com/shinmera/atomics.git",
+  "keywords":
+  [
+  ]
 }

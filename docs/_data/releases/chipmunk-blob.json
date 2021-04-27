@@ -1,5 +1,8 @@
 {
   "name":"chipmunk-blob",
   "url":"http://beta.quicklisp.org/archive/chipmunk-blob/2020-10-16/chipmunk-blob-stable-git.tgz",
-  "repository":"https://github.com/borodust/chipmunk-blob.git"
+  "repository":"https://github.com/borodust/chipmunk-blob.git",
+  "keywords":
+  [
+  ]
 }

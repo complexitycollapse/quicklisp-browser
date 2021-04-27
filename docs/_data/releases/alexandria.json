@@ -1,5 +1,8 @@
 {
   "name":"alexandria",
   "url":"http://beta.quicklisp.org/archive/alexandria/2021-04-11/alexandria-20210411-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/alexandria/alexandria.git"
+  "repository":"https://gitlab.common-lisp.net/alexandria/alexandria.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"trivial-package-manager",
   "url":"http://beta.quicklisp.org/archive/trivial-package-manager/2017-12-27/trivial-package-manager-20171227-git.tgz",
-  "repository":"https://github.com/guicho271828/trivial-package-manager.git"
+  "repository":"https://github.com/guicho271828/trivial-package-manager.git",
+  "keywords":
+  [
+  ]
 }

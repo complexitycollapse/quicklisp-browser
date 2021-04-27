@@ -1,5 +1,8 @@
 {
   "name":"datafly",
   "url":"http://beta.quicklisp.org/archive/datafly/2020-03-25/datafly-20200325-git.tgz",
-  "repository":"https://github.com/fukamachi/datafly.git"
+  "repository":"https://github.com/fukamachi/datafly.git",
+  "keywords":
+  [
+  ]
 }

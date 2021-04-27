@@ -1,5 +1,8 @@
 {
   "name":"lisp-unit",
   "url":"http://beta.quicklisp.org/archive/lisp-unit/2017-01-24/lisp-unit-20170124-git.tgz",
-  "repository":"https://github.com/OdonataResearchLLC/lisp-unit.git"
+  "repository":"https://github.com/OdonataResearchLLC/lisp-unit.git",
+  "keywords":
+  [
+  ]
 }

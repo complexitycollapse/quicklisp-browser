@@ -1,5 +1,8 @@
 {
   "name":"staple",
   "url":"http://beta.quicklisp.org/archive/staple/2021-04-11/staple-20210411-git.tgz",
-  "repository":"https://github.com/Shinmera/staple.git"
+  "repository":"https://github.com/Shinmera/staple.git",
+  "keywords":
+  [
+  ]
 }

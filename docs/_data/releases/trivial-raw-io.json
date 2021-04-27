@@ -1,5 +1,8 @@
 {
   "name":"trivial-raw-io",
   "url":"http://beta.quicklisp.org/archive/trivial-raw-io/2014-12-17/trivial-raw-io-20141217-git.tgz",
-  "repository":"https://github.com/redline6561/trivial-raw-io.git"
+  "repository":"https://github.com/redline6561/trivial-raw-io.git",
+  "keywords":
+  [
+  ]
 }

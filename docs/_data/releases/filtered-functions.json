@@ -1,5 +1,8 @@
 {
   "name":"filtered-functions",
   "url":"http://beta.quicklisp.org/archive/filtered-functions/2016-03-18/filtered-functions-20160318-git.tgz",
-  "repository":"https://github.com/pcostanza/filtered-functions.git"
+  "repository":"https://github.com/pcostanza/filtered-functions.git",
+  "keywords":
+  [
+  ]
 }

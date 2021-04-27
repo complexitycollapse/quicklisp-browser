@@ -1,5 +1,8 @@
 {
   "name":"trivial-hashtable-serialize",
   "url":"http://beta.quicklisp.org/archive/trivial-hashtable-serialize/2019-10-07/trivial-hashtable-serialize-20191007-git.tgz",
-  "repository":"https://gitlab.com/ediethelm/trivial-hashtable-serialize.git"
+  "repository":"https://gitlab.com/ediethelm/trivial-hashtable-serialize.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-flowd",
   "url":"http://beta.quicklisp.org/archive/cl-flowd/2014-07-13/cl-flowd-20140713-git.tgz",
-  "repository":"https://github.com/mmaul/cl-flowd.git"
+  "repository":"https://github.com/mmaul/cl-flowd.git",
+  "keywords":
+  [
+  ]
 }

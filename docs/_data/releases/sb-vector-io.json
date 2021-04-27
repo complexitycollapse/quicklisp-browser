@@ -1,5 +1,8 @@
 {
   "name":"sb-vector-io",
   "url":"http://beta.quicklisp.org/archive/sb-vector-io/2011-08-29/sb-vector-io-20110829-git.tgz",
-  "repository":"https://github.com/nikodemus/sb-vector-io.git"
+  "repository":"https://github.com/nikodemus/sb-vector-io.git",
+  "keywords":
+  [
+  ]
 }

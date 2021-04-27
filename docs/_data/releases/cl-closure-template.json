@@ -1,5 +1,8 @@
 {
   "name":"cl-closure-template",
   "url":"http://beta.quicklisp.org/archive/cl-closure-template/2015-08-04/cl-closure-template-20150804-git.tgz",
-  "repository":"https://github.com/archimag/cl-closure-template.git"
+  "repository":"https://github.com/archimag/cl-closure-template.git",
+  "keywords":
+  [
+  ]
 }

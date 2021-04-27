@@ -1,5 +1,11 @@
 {
   "name":"advanced-readtable",
   "url":"http://beta.quicklisp.org/archive/advanced-readtable/2013-07-20/advanced-readtable-20130720-git.tgz",
-  "repository":"https://github.com/Kalimehtar/advanced-readtable.git"
+  "repository":"https://github.com/Kalimehtar/advanced-readtable.git",
+  "keywords":
+  [
+    "package",
+    "symbol",
+    "lib"
+  ]
 }

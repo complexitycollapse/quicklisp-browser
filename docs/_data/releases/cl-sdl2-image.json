@@ -1,5 +1,8 @@
 {
   "name":"cl-sdl2-image",
   "url":"http://beta.quicklisp.org/archive/cl-sdl2-image/2019-02-02/cl-sdl2-image-20190202-git.tgz",
-  "repository":"https://github.com/lispgames/cl-sdl2-image.git"
+  "repository":"https://github.com/lispgames/cl-sdl2-image.git",
+  "keywords":
+  [
+  ]
 }

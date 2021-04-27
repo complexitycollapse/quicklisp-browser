@@ -1,5 +1,8 @@
 {
   "name":"folio",
   "url":"http://beta.quicklisp.org/archive/folio/2013-01-28/folio-20130128-git.tgz",
-  "repository":"https://github.com/mikelevins/folio.git"
+  "repository":"https://github.com/mikelevins/folio.git",
+  "keywords":
+  [
+  ]
 }

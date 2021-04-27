@@ -1,5 +1,8 @@
 {
   "name":"cl-fsnotify",
   "url":"http://beta.quicklisp.org/archive/cl-fsnotify/2015-03-02/cl-fsnotify-20150302-git.tgz",
-  "repository":"https://github.com/howeyc/cl-fsnotify.git"
+  "repository":"https://github.com/howeyc/cl-fsnotify.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"queues",
   "url":"http://beta.quicklisp.org/archive/queues/2017-01-24/queues-20170124-git.tgz",
-  "repository":"https://github.com/oconnore/queues.git"
+  "repository":"https://github.com/oconnore/queues.git",
+  "keywords":
+  [
+  ]
 }

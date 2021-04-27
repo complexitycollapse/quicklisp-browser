@@ -1,5 +1,8 @@
 {
   "name":"cl-growl",
   "url":"http://beta.quicklisp.org/archive/cl-growl/2016-12-08/cl-growl-20161208-git.tgz",
-  "repository":"https://github.com/nklein/cl-growl.git"
+  "repository":"https://github.com/nklein/cl-growl.git",
+  "keywords":
+  [
+  ]
 }

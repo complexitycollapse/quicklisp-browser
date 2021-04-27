@@ -1,5 +1,8 @@
 {
   "name":"cl-langutils",
   "url":"http://beta.quicklisp.org/archive/cl-langutils/2012-11-25/cl-langutils-20121125-git.tgz",
-  "repository":"https://github.com/eslick/cl-langutils.git"
+  "repository":"https://github.com/eslick/cl-langutils.git",
+  "keywords":
+  [
+  ]
 }

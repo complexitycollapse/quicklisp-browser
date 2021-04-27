@@ -1,5 +1,8 @@
 {
   "name":"clinenoise",
   "url":"http://beta.quicklisp.org/archive/clinenoise/2020-04-27/clinenoise-20200427-git.tgz",
-  "repository":"https://github.com/jasom/clinenoise.git"
+  "repository":"https://github.com/jasom/clinenoise.git",
+  "keywords":
+  [
+  ]
 }

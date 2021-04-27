@@ -1,5 +1,13 @@
 {
   "name":"btrie",
   "url":"http://beta.quicklisp.org/archive/btrie/2014-07-13/btrie-20140713-git.tgz",
-  "repository":"https://github.com/peterhil/btrie.git"
+  "repository":"https://github.com/peterhil/btrie.git",
+  "keywords":
+  [
+    "trie",
+    "node",
+    "tree",
+    "associated",
+    "tries"
+  ]
 }

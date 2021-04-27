@@ -1,5 +1,8 @@
 {
   "name":"pythonic-string-reader",
   "url":"http://beta.quicklisp.org/archive/pythonic-string-reader/2018-07-11/pythonic-string-reader-20180711-git.tgz",
-  "repository":"https://github.com/smithzvk/pythonic-string-reader.git"
+  "repository":"https://github.com/smithzvk/pythonic-string-reader.git",
+  "keywords":
+  [
+  ]
 }

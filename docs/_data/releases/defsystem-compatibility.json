@@ -1,5 +1,8 @@
 {
   "name":"defsystem-compatibility",
   "url":"http://beta.quicklisp.org/archive/defsystem-compatibility/2010-10-06/defsystem-compatibility-20101006-darcs.tgz",
-  "repository":"http://common-lisp.net/project/cl-containers/defsystem-compatibility/"
+  "repository":"http://common-lisp.net/project/cl-containers/defsystem-compatibility/",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-elastic",
   "url":"http://beta.quicklisp.org/archive/cl-elastic/2020-02-18/cl-elastic-20200218-git.tgz",
-  "repository":"https://github.com/FiV0/cl-elasticsearch.git"
+  "repository":"https://github.com/FiV0/cl-elasticsearch.git",
+  "keywords":
+  [
+  ]
 }

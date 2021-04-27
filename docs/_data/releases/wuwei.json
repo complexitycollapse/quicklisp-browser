@@ -1,5 +1,8 @@
 {
   "name":"wuwei",
   "url":"http://beta.quicklisp.org/archive/wuwei/2019-02-02/wuwei-20190202-git.tgz",
-  "repository":"https://github.com/mtravers/wuwei.git"
+  "repository":"https://github.com/mtravers/wuwei.git",
+  "keywords":
+  [
+  ]
 }

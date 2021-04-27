@@ -1,5 +1,8 @@
 {
   "name":"cl-sat.glucose",
   "url":"http://beta.quicklisp.org/archive/cl-sat.glucose/2021-01-24/cl-sat.glucose-20210124-git.tgz",
-  "repository":"https://github.com/cl-model-languages/cl-sat.glucose.git"
+  "repository":"https://github.com/cl-model-languages/cl-sat.glucose.git",
+  "keywords":
+  [
+  ]
 }

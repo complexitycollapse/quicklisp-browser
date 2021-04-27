@@ -1,5 +1,8 @@
 {
   "name":"thread-pool",
   "url":"http://beta.quicklisp.org/archive/thread-pool/2012-01-07/thread-pool-20120107-git.tgz",
-  "repository":"https://github.com/kiuma/thread-pool.git"
+  "repository":"https://github.com/kiuma/thread-pool.git",
+  "keywords":
+  [
+  ]
 }

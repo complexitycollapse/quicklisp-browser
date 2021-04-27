@@ -1,5 +1,8 @@
 {
   "name":"trivial-rfc-1123",
   "url":"http://beta.quicklisp.org/archive/trivial-rfc-1123/2017-01-24/trivial-rfc-1123-20170124-git.tgz",
-  "repository":"https://github.com/stacksmith/trivial-rfc-1123.git"
+  "repository":"https://github.com/stacksmith/trivial-rfc-1123.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"hunchentoot",
   "url":"http://beta.quicklisp.org/archive/hunchentoot/2020-06-10/hunchentoot-v1.3.0.tgz",
-  "repository":"https://github.com/edicl/hunchentoot.git"
+  "repository":"https://github.com/edicl/hunchentoot.git",
+  "keywords":
+  [
+  ]
 }

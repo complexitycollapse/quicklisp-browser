@@ -1,5 +1,8 @@
 {
   "name":"org-sampler",
   "url":"http://beta.quicklisp.org/archive/org-sampler/2016-03-18/org-sampler-0.2.0.tgz",
-  "repository":"http://nst.maraist.org/download/org-sampler-latest.tar.gz"
+  "repository":"http://nst.maraist.org/download/org-sampler-latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

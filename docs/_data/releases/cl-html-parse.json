@@ -1,5 +1,8 @@
 {
   "name":"cl-html-parse",
   "url":"http://beta.quicklisp.org/archive/cl-html-parse/2020-09-25/cl-html-parse-20200925-git.tgz",
-  "repository":"https://github.com/gwkkwg/cl-html-parse.git"
+  "repository":"https://github.com/gwkkwg/cl-html-parse.git",
+  "keywords":
+  [
+  ]
 }

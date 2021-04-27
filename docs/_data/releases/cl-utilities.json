@@ -1,5 +1,8 @@
 {
   "name":"cl-utilities",
   "url":"http://beta.quicklisp.org/archive/cl-utilities/2010-10-06/cl-utilities-1.2.4.tgz",
-  "repository":"https://common-lisp.net/project/cl-utilities/cl-utilities-latest.tar.gz"
+  "repository":"https://common-lisp.net/project/cl-utilities/cl-utilities-latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

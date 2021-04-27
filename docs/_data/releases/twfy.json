@@ -1,5 +1,8 @@
 {
   "name":"twfy",
   "url":"http://beta.quicklisp.org/archive/twfy/2013-04-20/twfy-20130420-git.tgz",
-  "repository":"https://github.com/jamtho/twfy.git"
+  "repository":"https://github.com/jamtho/twfy.git",
+  "keywords":
+  [
+  ]
 }

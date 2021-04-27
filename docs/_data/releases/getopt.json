@@ -1,5 +1,8 @@
 {
   "name":"getopt",
   "url":"http://beta.quicklisp.org/archive/getopt/2015-09-23/getopt-20150923-git.tgz",
-  "repository":"getopt"
+  "repository":"getopt",
+  "keywords":
+  [
+  ]
 }

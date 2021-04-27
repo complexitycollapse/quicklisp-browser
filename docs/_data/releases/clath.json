@@ -1,5 +1,8 @@
 {
   "name":"clath",
   "url":"http://beta.quicklisp.org/archive/clath/2021-01-24/clath-20210124-git.tgz",
-  "repository":"https://github.com/BnMcGn/clath.git"
+  "repository":"https://github.com/BnMcGn/clath.git",
+  "keywords":
+  [
+  ]
 }

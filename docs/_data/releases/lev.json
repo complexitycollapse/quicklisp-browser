@@ -1,5 +1,8 @@
 {
   "name":"lev",
   "url":"http://beta.quicklisp.org/archive/lev/2015-05-05/lev-20150505-git.tgz",
-  "repository":"https://github.com/fukamachi/lev.git"
+  "repository":"https://github.com/fukamachi/lev.git",
+  "keywords":
+  [
+  ]
 }

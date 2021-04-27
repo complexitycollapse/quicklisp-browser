@@ -1,5 +1,8 @@
 {
   "name":"purl",
   "url":"http://beta.quicklisp.org/archive/purl/2016-09-29/purl-20160929-git.tgz",
-  "repository":"https://github.com/eugeneia/purl.git"
+  "repository":"https://github.com/eugeneia/purl.git",
+  "keywords":
+  [
+  ]
 }

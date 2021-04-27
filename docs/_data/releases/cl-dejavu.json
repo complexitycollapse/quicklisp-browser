@@ -1,5 +1,8 @@
 {
   "name":"cl-dejavu",
   "url":"http://beta.quicklisp.org/archive/cl-dejavu/2021-01-24/cl-dejavu-20210124-git.tgz",
-  "repository":"https://github.com/dkochmanski/cl-dejavu.git"
+  "repository":"https://github.com/dkochmanski/cl-dejavu.git",
+  "keywords":
+  [
+  ]
 }

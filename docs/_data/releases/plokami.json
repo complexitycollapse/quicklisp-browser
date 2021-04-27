@@ -1,5 +1,8 @@
 {
   "name":"plokami",
   "url":"http://beta.quicklisp.org/archive/plokami/2020-02-18/plokami-20200218-git.tgz",
-  "repository":"https://github.com/atomontage/plokami.git"
+  "repository":"https://github.com/atomontage/plokami.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"cl-sphinx",
   "url":"http://beta.quicklisp.org/archive/cl-sphinx/2011-06-19/cl-sphinx-20110619-git.tgz",
-  "repository":"https://github.com/archimag/cl-sphinx.git"
+  "repository":"https://github.com/archimag/cl-sphinx.git",
+  "keywords":
+  [
+  ]
 }

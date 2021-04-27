@@ -1,5 +1,8 @@
 {
   "name":"dso-util",
   "url":"http://beta.quicklisp.org/archive/dso-util/2011-01-10/dso-util-0.1.2.tgz",
-  "repository":"https://download.fugue88.ws/util/dso-util-0.1.2.tar.gz"
+  "repository":"https://download.fugue88.ws/util/dso-util-0.1.2.tar.gz",
+  "keywords":
+  [
+  ]
 }

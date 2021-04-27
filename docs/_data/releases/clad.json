@@ -1,5 +1,8 @@
 {
   "name":"clad",
   "url":"http://beta.quicklisp.org/archive/clad/2020-06-10/clad-20200610-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/mantoniotti/CLAD.git"
+  "repository":"https://gitlab.common-lisp.net/mantoniotti/CLAD.git",
+  "keywords":
+  [
+  ]
 }

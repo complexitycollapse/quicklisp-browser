@@ -1,5 +1,8 @@
 {
   "name":"nsort",
   "url":"http://beta.quicklisp.org/archive/nsort/2015-05-05/nsort-20150505-git.tgz",
-  "repository":"https://github.com/jschatzer/nsort.git"
+  "repository":"https://github.com/jschatzer/nsort.git",
+  "keywords":
+  [
+  ]
 }

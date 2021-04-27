@@ -1,5 +1,8 @@
 {
   "name":"cl-mongo-id",
   "url":"http://beta.quicklisp.org/archive/cl-mongo-id/2020-12-20/cl-mongo-id-20201220-git.tgz",
-  "repository":"https://github.com/orthecreedence/cl-mongo-id.git"
+  "repository":"https://github.com/orthecreedence/cl-mongo-id.git",
+  "keywords":
+  [
+  ]
 }

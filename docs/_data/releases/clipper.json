@@ -1,5 +1,8 @@
 {
   "name":"clipper",
   "url":"http://beta.quicklisp.org/archive/clipper/2015-09-23/clipper-20150923-git.tgz",
-  "repository":"https://github.com/Rudolph-Miller/clipper.git"
+  "repository":"https://github.com/Rudolph-Miller/clipper.git",
+  "keywords":
+  [
+  ]
 }

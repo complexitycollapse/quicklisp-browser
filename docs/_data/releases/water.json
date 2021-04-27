@@ -1,5 +1,8 @@
 {
   "name":"water",
   "url":"http://beta.quicklisp.org/archive/water/2019-01-07/water-20190107-git.tgz",
-  "repository":"https://github.com/handicraftsman/water.git"
+  "repository":"https://github.com/handicraftsman/water.git",
+  "keywords":
+  [
+  ]
 }

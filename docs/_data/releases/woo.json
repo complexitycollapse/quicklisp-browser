@@ -1,5 +1,8 @@
 {
   "name":"woo",
   "url":"http://beta.quicklisp.org/archive/woo/2020-04-27/woo-20200427-git.tgz",
-  "repository":"https://github.com/fukamachi/woo.git"
+  "repository":"https://github.com/fukamachi/woo.git",
+  "keywords":
+  [
+  ]
 }

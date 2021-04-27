@@ -1,5 +1,8 @@
 {
   "name":"fare-csv",
   "url":"http://beta.quicklisp.org/archive/fare-csv/2017-12-27/fare-csv-20171227-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/frideau/fare-csv.git"
+  "repository":"https://gitlab.common-lisp.net/frideau/fare-csv.git",
+  "keywords":
+  [
+  ]
 }

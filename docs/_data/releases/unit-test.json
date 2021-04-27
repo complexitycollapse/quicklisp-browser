@@ -1,5 +1,8 @@
 {
   "name":"unit-test",
   "url":"http://beta.quicklisp.org/archive/unit-test/2012-05-20/unit-test-20120520-git.tgz",
-  "repository":"https://github.com/hanshuebner/unit-test.git"
+  "repository":"https://github.com/hanshuebner/unit-test.git",
+  "keywords":
+  [
+  ]
 }

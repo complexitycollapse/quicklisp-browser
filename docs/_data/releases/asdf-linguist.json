@@ -1,5 +1,10 @@
 {
   "name":"asdf-linguist",
   "url":"http://beta.quicklisp.org/archive/asdf-linguist/2015-09-23/asdf-linguist-20150923-git.tgz",
-  "repository":"https://github.com/eudoxia0/asdf-linguist.git"
+  "repository":"https://github.com/eudoxia0/asdf-linguist.git",
+  "keywords":
+  [
+    "http",
+    "software"
+  ]
 }

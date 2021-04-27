@@ -1,5 +1,8 @@
 {
   "name":"cl-batis",
   "url":"http://beta.quicklisp.org/archive/cl-batis/2020-06-10/cl-batis-20200610-git.tgz",
-  "repository":"https://github.com/tamurashingo/cl-batis.git"
+  "repository":"https://github.com/tamurashingo/cl-batis.git",
+  "keywords":
+  [
+  ]
 }

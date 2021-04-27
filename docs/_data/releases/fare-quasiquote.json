@@ -1,5 +1,8 @@
 {
   "name":"fare-quasiquote",
   "url":"http://beta.quicklisp.org/archive/fare-quasiquote/2020-09-25/fare-quasiquote-20200925-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/frideau/fare-quasiquote.git"
+  "repository":"https://gitlab.common-lisp.net/frideau/fare-quasiquote.git",
+  "keywords":
+  [
+  ]
 }

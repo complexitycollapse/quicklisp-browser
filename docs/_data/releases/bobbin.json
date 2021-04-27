@@ -1,5 +1,8 @@
 {
   "name":"bobbin",
   "url":"http://beta.quicklisp.org/archive/bobbin/2020-10-16/bobbin-20201016-hg.tgz",
-  "repository":"https://hg.stevelosh.com/bobbin"
+  "repository":"https://hg.stevelosh.com/bobbin",
+  "keywords":
+  [
+  ]
 }

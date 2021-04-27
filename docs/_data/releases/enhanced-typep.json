@@ -1,5 +1,8 @@
 {
   "name":"enhanced-typep",
   "url":"http://beta.quicklisp.org/archive/enhanced-typep/2020-10-16/enhanced-typep_1.0.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/enhanced-typep_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/enhanced-typep_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

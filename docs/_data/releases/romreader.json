@@ -1,5 +1,8 @@
 {
   "name":"romreader",
   "url":"http://beta.quicklisp.org/archive/romreader/2014-07-13/romreader-20140713-git.tgz",
-  "repository":"https://github.com/redline6561/romreader.git"
+  "repository":"https://github.com/redline6561/romreader.git",
+  "keywords":
+  [
+  ]
 }

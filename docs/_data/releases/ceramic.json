@@ -1,5 +1,8 @@
 {
   "name":"ceramic",
   "url":"http://beta.quicklisp.org/archive/ceramic/2019-11-30/ceramic-20191130-git.tgz",
-  "repository":"https://github.com/ceramic/ceramic.git"
+  "repository":"https://github.com/ceramic/ceramic.git",
+  "keywords":
+  [
+  ]
 }

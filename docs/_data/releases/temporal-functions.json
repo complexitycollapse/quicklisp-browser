@@ -1,5 +1,8 @@
 {
   "name":"temporal-functions",
   "url":"http://beta.quicklisp.org/archive/temporal-functions/2017-10-19/temporal-functions-20171019-git.tgz",
-  "repository":"https://github.com/cbaggers/temporal-functions.git"
+  "repository":"https://github.com/cbaggers/temporal-functions.git",
+  "keywords":
+  [
+  ]
 }

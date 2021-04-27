@@ -1,5 +1,8 @@
 {
   "name":"shuffletron",
   "url":"http://beta.quicklisp.org/archive/shuffletron/2018-10-18/shuffletron-20181018-git.tgz",
-  "repository":"https://github.com/ahefner/shuffletron.git"
+  "repository":"https://github.com/ahefner/shuffletron.git",
+  "keywords":
+  [
+  ]
 }

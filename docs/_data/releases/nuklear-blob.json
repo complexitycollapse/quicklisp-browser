@@ -1,5 +1,8 @@
 {
   "name":"nuklear-blob",
   "url":"http://beta.quicklisp.org/archive/nuklear-blob/2020-10-16/nuklear-blob-stable-git.tgz",
-  "repository":"https://github.com/borodust/nuklear-blob.git"
+  "repository":"https://github.com/borodust/nuklear-blob.git",
+  "keywords":
+  [
+  ]
 }

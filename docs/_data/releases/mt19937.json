@@ -1,5 +1,8 @@
 {
   "name":"mt19937",
   "url":"http://beta.quicklisp.org/archive/mt19937/2011-02-19/mt19937-1.1.1.tgz",
-  "repository":"https://common-lisp.net/project/asdf-packaging/mt19937-latest.tar.gz"
+  "repository":"https://common-lisp.net/project/asdf-packaging/mt19937-latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

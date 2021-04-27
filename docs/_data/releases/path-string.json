@@ -1,5 +1,8 @@
 {
   "name":"path-string",
   "url":"http://beta.quicklisp.org/archive/path-string/2016-08-25/path-string-20160825-git.tgz",
-  "repository":"https://github.com/wemeetagain/path-string.git"
+  "repository":"https://github.com/wemeetagain/path-string.git",
+  "keywords":
+  [
+  ]
 }

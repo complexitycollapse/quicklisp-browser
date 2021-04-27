@@ -1,5 +1,8 @@
 {
   "name":"cl-crypt",
   "url":"http://beta.quicklisp.org/archive/cl-crypt/2012-05-20/cl-crypt-20120520-git.tgz",
-  "repository":"https://github.com/renard/cl-crypt.git"
+  "repository":"https://github.com/renard/cl-crypt.git",
+  "keywords":
+  [
+  ]
 }

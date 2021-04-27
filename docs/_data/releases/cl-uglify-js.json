@@ -1,5 +1,8 @@
 {
   "name":"cl-uglify-js",
   "url":"http://beta.quicklisp.org/archive/cl-uglify-js/2015-07-09/cl-uglify-js-20150709-git.tgz",
-  "repository":"https://github.com/mishoo/cl-uglify-js.git"
+  "repository":"https://github.com/mishoo/cl-uglify-js.git",
+  "keywords":
+  [
+  ]
 }

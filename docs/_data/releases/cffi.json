@@ -1,5 +1,8 @@
 {
   "name":"cffi",
   "url":"http://beta.quicklisp.org/archive/cffi/2021-04-11/cffi_0.24.1.tgz",
-  "repository":"https://common-lisp.net/project/cffi/releases/cffi_latest.tar.gz"
+  "repository":"https://common-lisp.net/project/cffi/releases/cffi_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

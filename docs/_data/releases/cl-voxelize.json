@@ -1,5 +1,8 @@
 {
   "name":"cl-voxelize",
   "url":"http://beta.quicklisp.org/archive/cl-voxelize/2015-07-09/cl-voxelize-20150709-git.tgz",
-  "repository":"https://github.com/takagi/cl-voxelize.git"
+  "repository":"https://github.com/takagi/cl-voxelize.git",
+  "keywords":
+  [
+  ]
 }

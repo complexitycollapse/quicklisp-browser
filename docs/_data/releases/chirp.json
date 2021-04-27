@@ -1,5 +1,8 @@
 {
   "name":"chirp",
   "url":"http://beta.quicklisp.org/archive/chirp/2020-10-16/chirp-20201016-git.tgz",
-  "repository":"https://github.com/Shinmera/chirp.git"
+  "repository":"https://github.com/Shinmera/chirp.git",
+  "keywords":
+  [
+  ]
 }

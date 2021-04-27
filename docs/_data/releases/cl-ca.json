@@ -1,5 +1,8 @@
 {
   "name":"cl-ca",
   "url":"http://beta.quicklisp.org/archive/cl-ca/2016-12-04/cl-ca-20161204-git.tgz",
-  "repository":"https://github.com/lukasepple/cl-ca.git"
+  "repository":"https://github.com/lukasepple/cl-ca.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,10 @@
 {
   "name":"calispel",
   "url":"http://beta.quicklisp.org/archive/calispel/2017-08-30/calispel-20170830-git.tgz",
-  "repository":"https://github.com/hawkir/calispel.git"
+  "repository":"https://github.com/hawkir/calispel.git",
+  "keywords":
+  [
+    "doc",
+    "txt"
+  ]
 }

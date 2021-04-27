@@ -1,5 +1,8 @@
 {
   "name":"qt-libs",
   "url":"http://beta.quicklisp.org/archive/qt-libs/2020-12-20/qt-libs-20201220-git.tgz",
-  "repository":"https://github.com/Shinmera/qt-libs.git"
+  "repository":"https://github.com/Shinmera/qt-libs.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"spinneret",
   "url":"http://beta.quicklisp.org/archive/spinneret/2021-02-28/spinneret-20210228-git.tgz",
-  "repository":"https://github.com/ruricolist/spinneret.git"
+  "repository":"https://github.com/ruricolist/spinneret.git",
+  "keywords":
+  [
+  ]
 }

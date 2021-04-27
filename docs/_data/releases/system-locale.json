@@ -1,5 +1,8 @@
 {
   "name":"system-locale",
   "url":"http://beta.quicklisp.org/archive/system-locale/2020-06-10/system-locale-20200610-git.tgz",
-  "repository":"https://github.com/Shinmera/system-locale.git"
+  "repository":"https://github.com/Shinmera/system-locale.git",
+  "keywords":
+  [
+  ]
 }

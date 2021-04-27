@@ -1,5 +1,8 @@
 {
   "name":"donuts",
   "url":"http://beta.quicklisp.org/archive/donuts/2012-07-03/donuts-20120703-git.tgz",
-  "repository":"https://github.com/tkych/donuts.git"
+  "repository":"https://github.com/tkych/donuts.git",
+  "keywords":
+  [
+  ]
 }

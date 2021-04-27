@@ -1,5 +1,8 @@
 {
   "name":"simple-flow-dispatcher",
   "url":"http://beta.quicklisp.org/archive/simple-flow-dispatcher/2020-10-16/simple-flow-dispatcher-stable-git.tgz",
-  "repository":"https://github.com/borodust/simple-flow-dispatcher.git"
+  "repository":"https://github.com/borodust/simple-flow-dispatcher.git",
+  "keywords":
+  [
+  ]
 }

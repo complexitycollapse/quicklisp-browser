@@ -1,5 +1,8 @@
 {
   "name":"defstar",
   "url":"http://beta.quicklisp.org/archive/defstar/2014-07-13/defstar-20140713-git.tgz",
-  "repository":"https://bitbucket.org/eeeickythump/defstar.git"
+  "repository":"https://bitbucket.org/eeeickythump/defstar.git",
+  "keywords":
+  [
+  ]
 }

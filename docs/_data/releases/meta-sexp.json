@@ -1,5 +1,8 @@
 {
   "name":"meta-sexp",
   "url":"http://beta.quicklisp.org/archive/meta-sexp/2020-10-16/meta-sexp-20201016-git.tgz",
-  "repository":"https://github.com/vy/meta-sexp.git"
+  "repository":"https://github.com/vy/meta-sexp.git",
+  "keywords":
+  [
+  ]
 }

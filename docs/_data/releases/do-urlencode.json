@@ -1,5 +1,8 @@
 {
   "name":"do-urlencode",
   "url":"http://beta.quicklisp.org/archive/do-urlencode/2018-10-18/do-urlencode-20181018-git.tgz",
-  "repository":"https://github.com/drdo/do-urlencode.git"
+  "repository":"https://github.com/drdo/do-urlencode.git",
+  "keywords":
+  [
+  ]
 }

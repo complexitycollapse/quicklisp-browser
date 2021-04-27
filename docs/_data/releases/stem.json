@@ -1,5 +1,8 @@
 {
   "name":"stem",
   "url":"http://beta.quicklisp.org/archive/stem/2015-06-08/stem-20150608-git.tgz",
-  "repository":"https://github.com/hanshuebner/stem.git"
+  "repository":"https://github.com/hanshuebner/stem.git",
+  "keywords":
+  [
+  ]
 }

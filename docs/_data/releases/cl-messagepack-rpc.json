@@ -1,5 +1,8 @@
 {
   "name":"cl-messagepack-rpc",
   "url":"http://beta.quicklisp.org/archive/cl-messagepack-rpc/2017-12-27/cl-messagepack-rpc-20171227-git.tgz",
-  "repository":"https://github.com/adolenc/cl-messagepack-rpc.git"
+  "repository":"https://github.com/adolenc/cl-messagepack-rpc.git",
+  "keywords":
+  [
+  ]
 }

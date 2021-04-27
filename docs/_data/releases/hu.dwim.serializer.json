@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.serializer",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.serializer/2016-12-04/hu.dwim.serializer-20161204-darcs.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.serializer.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.serializer.git",
+  "keywords":
+  [
+  ]
 }

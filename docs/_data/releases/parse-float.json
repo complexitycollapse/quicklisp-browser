@@ -1,5 +1,8 @@
 {
   "name":"parse-float",
   "url":"http://beta.quicklisp.org/archive/parse-float/2020-02-18/parse-float-20200218-git.tgz",
-  "repository":"https://github.com/soemraws/parse-float.git"
+  "repository":"https://github.com/soemraws/parse-float.git",
+  "keywords":
+  [
+  ]
 }

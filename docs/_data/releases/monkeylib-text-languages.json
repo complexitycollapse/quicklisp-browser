@@ -1,5 +1,8 @@
 {
   "name":"monkeylib-text-languages",
   "url":"http://beta.quicklisp.org/archive/monkeylib-text-languages/2011-12-03/monkeylib-text-languages-20111203-git.tgz",
-  "repository":"https://github.com/gigamonkey/monkeylib-text-languages.git"
+  "repository":"https://github.com/gigamonkey/monkeylib-text-languages.git",
+  "keywords":
+  [
+  ]
 }

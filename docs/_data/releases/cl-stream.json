@@ -1,5 +1,8 @@
 {
   "name":"cl-stream",
   "url":"http://beta.quicklisp.org/archive/cl-stream/2019-05-21/cl-stream-20190521-git.tgz",
-  "repository":"https://github.com/cl-stream/cl-stream.git"
+  "repository":"https://github.com/cl-stream/cl-stream.git",
+  "keywords":
+  [
+  ]
 }

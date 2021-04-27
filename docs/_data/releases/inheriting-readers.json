@@ -1,5 +1,8 @@
 {
   "name":"inheriting-readers",
   "url":"http://beta.quicklisp.org/archive/inheriting-readers/2021-01-24/inheriting-readers_1.0.1.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/inheriting-readers_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/inheriting-readers_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

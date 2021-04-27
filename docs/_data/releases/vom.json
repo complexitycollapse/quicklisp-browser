@@ -1,5 +1,8 @@
 {
   "name":"vom",
   "url":"http://beta.quicklisp.org/archive/vom/2016-08-25/vom-20160825-git.tgz",
-  "repository":"https://github.com/orthecreedence/vom.git"
+  "repository":"https://github.com/orthecreedence/vom.git",
+  "keywords":
+  [
+  ]
 }

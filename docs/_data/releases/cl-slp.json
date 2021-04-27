@@ -1,5 +1,8 @@
 {
   "name":"cl-slp",
   "url":"http://beta.quicklisp.org/archive/cl-slp/2014-08-26/cl-slp-20140826-git.tgz",
-  "repository":"https://github.com/fjames86/cl-slp.git"
+  "repository":"https://github.com/fjames86/cl-slp.git",
+  "keywords":
+  [
+  ]
 }

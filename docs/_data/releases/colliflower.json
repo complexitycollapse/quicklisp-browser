@@ -1,5 +1,8 @@
 {
   "name":"colliflower",
   "url":"http://beta.quicklisp.org/archive/colliflower/2015-12-18/colliflower-20151218-git.tgz",
-  "repository":"https://github.com/bytecurry/colliflower.git"
+  "repository":"https://github.com/bytecurry/colliflower.git",
+  "keywords":
+  [
+  ]
 }

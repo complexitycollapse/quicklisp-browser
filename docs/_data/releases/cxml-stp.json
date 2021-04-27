@@ -1,5 +1,8 @@
 {
   "name":"cxml-stp",
   "url":"http://beta.quicklisp.org/archive/cxml-stp/2020-03-25/cxml-stp-20200325-git.tgz",
-  "repository":"https://github.com/sharplispers/cxml-stp.git"
+  "repository":"https://github.com/sharplispers/cxml-stp.git",
+  "keywords":
+  [
+  ]
 }

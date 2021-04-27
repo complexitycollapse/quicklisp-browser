@@ -1,5 +1,8 @@
 {
   "name":"wordnet",
   "url":"http://beta.quicklisp.org/archive/wordnet/2020-06-10/wordnet-20200610-git.tgz",
-  "repository":"https://github.com/phoe/wordnet.git"
+  "repository":"https://github.com/phoe/wordnet.git",
+  "keywords":
+  [
+  ]
 }

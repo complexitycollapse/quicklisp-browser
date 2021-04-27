@@ -1,5 +1,8 @@
 {
   "name":"diff",
   "url":"http://beta.quicklisp.org/archive/diff/2013-08-13/diff-20130813-git.tgz",
-  "repository":"https://github.com/sharplispers/diff.git"
+  "repository":"https://github.com/sharplispers/diff.git",
+  "keywords":
+  [
+  ]
 }

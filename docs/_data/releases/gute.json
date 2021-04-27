@@ -1,5 +1,8 @@
 {
   "name":"gute",
   "url":"http://beta.quicklisp.org/archive/gute/2020-12-20/gute-20201220-git.tgz",
-  "repository":"https://github.com/genelkim/gute.git"
+  "repository":"https://github.com/genelkim/gute.git",
+  "keywords":
+  [
+  ]
 }

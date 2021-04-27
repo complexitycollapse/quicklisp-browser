@@ -1,5 +1,8 @@
 {
   "name":"lambda-reader",
   "url":"http://beta.quicklisp.org/archive/lambda-reader/2017-01-24/lambda-reader-20170124-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/frideau/lambda-reader.git"
+  "repository":"https://gitlab.common-lisp.net/frideau/lambda-reader.git",
+  "keywords":
+  [
+  ]
 }

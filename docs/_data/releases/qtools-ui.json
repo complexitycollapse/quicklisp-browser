@@ -1,5 +1,8 @@
 {
   "name":"qtools-ui",
   "url":"http://beta.quicklisp.org/archive/qtools-ui/2020-02-18/qtools-ui-20200218-git.tgz",
-  "repository":"https://github.com/Shinmera/qtools-ui.git"
+  "repository":"https://github.com/Shinmera/qtools-ui.git",
+  "keywords":
+  [
+  ]
 }

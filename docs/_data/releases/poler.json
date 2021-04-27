@@ -1,5 +1,8 @@
 {
   "name":"poler",
   "url":"http://beta.quicklisp.org/archive/poler/2018-12-10/poler-20181210-git.tgz",
-  "repository":"https://github.com/carrotflakes/poler.git"
+  "repository":"https://github.com/carrotflakes/poler.git",
+  "keywords":
+  [
+  ]
 }

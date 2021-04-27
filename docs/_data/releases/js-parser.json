@@ -1,5 +1,8 @@
 {
   "name":"js-parser",
   "url":"http://beta.quicklisp.org/archive/js-parser/2015-04-07/js-parser-20150407-git.tgz",
-  "repository":"https://github.com/gonzojive/js-parser"
+  "repository":"https://github.com/gonzojive/js-parser",
+  "keywords":
+  [
+  ]
 }

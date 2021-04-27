@@ -1,5 +1,8 @@
 {
   "name":"cardiogram",
   "url":"http://beta.quicklisp.org/archive/cardiogram/2020-03-25/cardiogram-20200325-git.tgz",
-  "repository":"https://gitlab.com/a.aguilar/cardiogram.git"
+  "repository":"https://gitlab.com/a.aguilar/cardiogram.git",
+  "keywords":
+  [
+  ]
 }

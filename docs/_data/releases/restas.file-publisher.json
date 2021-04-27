@@ -1,5 +1,8 @@
 {
   "name":"restas.file-publisher",
   "url":"http://beta.quicklisp.org/archive/restas.file-publisher/2012-01-07/restas.file-publisher-20120107-git.tgz",
-  "repository":"https://github.com/kevinlynx/restas.file-publisher.git"
+  "repository":"https://github.com/kevinlynx/restas.file-publisher.git",
+  "keywords":
+  [
+  ]
 }

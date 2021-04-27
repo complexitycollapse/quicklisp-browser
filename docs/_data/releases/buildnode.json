@@ -1,5 +1,18 @@
 {
   "name":"buildnode",
   "url":"http://beta.quicklisp.org/archive/buildnode/2017-04-03/buildnode-20170403-git.tgz",
-  "repository":"https://github.com/AccelerationNet/buildnode.git"
+  "repository":"https://github.com/AccelerationNet/buildnode.git",
+  "keywords":
+  [
+    "http",
+    "copyright",
+    "net",
+    "acceleration",
+    "conditions",
+    "following",
+    "provided",
+    "blog",
+    "unwashedmeme",
+    "russ"
+  ]
 }

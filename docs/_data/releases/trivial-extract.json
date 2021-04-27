@@ -1,5 +1,8 @@
 {
   "name":"trivial-extract",
   "url":"http://beta.quicklisp.org/archive/trivial-extract/2016-04-21/trivial-extract-20160421-git.tgz",
-  "repository":"https://github.com/eudoxia0/trivial-extract.git"
+  "repository":"https://github.com/eudoxia0/trivial-extract.git",
+  "keywords":
+  [
+  ]
 }

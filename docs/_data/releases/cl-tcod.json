@@ -1,5 +1,8 @@
 {
   "name":"cl-tcod",
   "url":"http://beta.quicklisp.org/archive/cl-tcod/2020-12-20/cl-tcod-20201220-git.tgz",
-  "repository":"https://github.com/podiki/cl-tcod.git"
+  "repository":"https://github.com/podiki/cl-tcod.git",
+  "keywords":
+  [
+  ]
 }

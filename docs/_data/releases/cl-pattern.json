@@ -1,5 +1,8 @@
 {
   "name":"cl-pattern",
   "url":"http://beta.quicklisp.org/archive/cl-pattern/2014-07-13/cl-pattern-20140713-git.tgz",
-  "repository":"https://github.com/arielnetworks/cl-pattern.git"
+  "repository":"https://github.com/arielnetworks/cl-pattern.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"torta",
   "url":"http://beta.quicklisp.org/archive/torta/2014-07-13/torta-20140713-git.tgz",
-  "repository":"https://github.com/sgarciac/torta.git"
+  "repository":"https://github.com/sgarciac/torta.git",
+  "keywords":
+  [
+  ]
 }

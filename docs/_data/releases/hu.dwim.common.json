@@ -1,5 +1,8 @@
 {
   "name":"hu.dwim.common",
   "url":"http://beta.quicklisp.org/archive/hu.dwim.common/2015-07-09/hu.dwim.common-20150709-darcs.tgz",
-  "repository":"https://github.com/hu-dwim/hu.dwim.common.git"
+  "repository":"https://github.com/hu-dwim/hu.dwim.common.git",
+  "keywords":
+  [
+  ]
 }

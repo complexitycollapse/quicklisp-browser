@@ -1,5 +1,8 @@
 {
   "name":"cl-async-future",
   "url":"http://beta.quicklisp.org/archive/cl-async-future/2015-01-13/cl-async-future-20150113-git.tgz",
-  "repository":"https://github.com/orthecreedence/cl-async-future.git"
+  "repository":"https://github.com/orthecreedence/cl-async-future.git",
+  "keywords":
+  [
+  ]
 }

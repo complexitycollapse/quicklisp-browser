@@ -1,5 +1,8 @@
 {
   "name":"lisp-critic",
   "url":"http://beta.quicklisp.org/archive/lisp-critic/2020-12-20/lisp-critic-20201220-git.tgz",
-  "repository":"https://github.com/g000001/lisp-critic.git"
+  "repository":"https://github.com/g000001/lisp-critic.git",
+  "keywords":
+  [
+  ]
 }

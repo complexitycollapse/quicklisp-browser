@@ -1,5 +1,8 @@
 {
   "name":"defenum",
   "url":"http://beta.quicklisp.org/archive/defenum/2021-02-28/defenum-20210228-git.tgz",
-  "repository":"http://git.code.sf.net/p/defenum/code"
+  "repository":"http://git.code.sf.net/p/defenum/code",
+  "keywords":
+  [
+  ]
 }

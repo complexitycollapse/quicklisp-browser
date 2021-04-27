@@ -1,5 +1,8 @@
 {
   "name":"py4cl",
   "url":"http://beta.quicklisp.org/archive/py4cl/2021-02-28/py4cl-20210228-git.tgz",
-  "repository":"https://github.com/bendudson/py4cl.git"
+  "repository":"https://github.com/bendudson/py4cl.git",
+  "keywords":
+  [
+  ]
 }

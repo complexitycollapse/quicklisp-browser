@@ -1,5 +1,8 @@
 {
   "name":"esrap",
   "url":"http://beta.quicklisp.org/archive/esrap/2020-12-20/esrap-20201220-git.tgz",
-  "repository":"https://github.com/scymtym/esrap.git"
+  "repository":"https://github.com/scymtym/esrap.git",
+  "keywords":
+  [
+  ]
 }

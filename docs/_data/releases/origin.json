@@ -1,5 +1,8 @@
 {
   "name":"origin",
   "url":"http://beta.quicklisp.org/archive/origin/2021-04-11/origin-20210411-git.tgz",
-  "repository":"https://git.mfiano.net/mfiano/origin.git"
+  "repository":"https://git.mfiano.net/mfiano/origin.git",
+  "keywords":
+  [
+  ]
 }

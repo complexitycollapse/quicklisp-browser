@@ -1,5 +1,8 @@
 {
   "name":"cl-cairo2",
   "url":"http://beta.quicklisp.org/archive/cl-cairo2/2016-05-31/cl-cairo2-20160531-git.tgz",
-  "repository":"https://github.com/rpav/cl-cairo2.git"
+  "repository":"https://github.com/rpav/cl-cairo2.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"text-query",
   "url":"http://beta.quicklisp.org/archive/text-query/2011-11-05/text-query-1.1.tgz",
-  "repository":"https://common-lisp.net/project/asdf-packaging/text-query-latest.tar.gz"
+  "repository":"https://common-lisp.net/project/asdf-packaging/text-query-latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

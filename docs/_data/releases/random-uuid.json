@@ -1,5 +1,8 @@
 {
   "name":"random-uuid",
   "url":"http://beta.quicklisp.org/archive/random-uuid/2021-04-11/random-uuid-20210411-git.tgz",
-  "repository":"https://git.mfiano.net/mfiano/random-uuid.git"
+  "repository":"https://git.mfiano.net/mfiano/random-uuid.git",
+  "keywords":
+  [
+  ]
 }

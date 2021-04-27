@@ -1,5 +1,8 @@
 {
   "name":"external-symbol-not-found",
   "url":"http://beta.quicklisp.org/archive/external-symbol-not-found/2018-04-30/external-symbol-not-found-20180430-git.tgz",
-  "repository":"https://github.com/phoe/external-symbol-not-found.git"
+  "repository":"https://github.com/phoe/external-symbol-not-found.git",
+  "keywords":
+  [
+  ]
 }

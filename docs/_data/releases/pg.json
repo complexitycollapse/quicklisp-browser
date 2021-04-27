@@ -1,5 +1,8 @@
 {
   "name":"pg",
   "url":"http://beta.quicklisp.org/archive/pg/2015-06-08/pg-20150608-git.tgz",
-  "repository":"https://gitlab.common-lisp.net/pg/pg.git"
+  "repository":"https://gitlab.common-lisp.net/pg/pg.git",
+  "keywords":
+  [
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "name":"asdf-system-connections",
   "url":"http://beta.quicklisp.org/archive/asdf-system-connections/2017-01-24/asdf-system-connections-20170124-git.tgz",
-  "repository":"https://github.com/gwkkwg/asdf-system-connections.git"
+  "repository":"https://github.com/gwkkwg/asdf-system-connections.git",
+  "keywords":
+  [
+  ]
 }

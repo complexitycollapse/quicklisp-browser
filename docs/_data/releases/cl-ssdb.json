@@ -1,5 +1,8 @@
 {
   "name":"cl-ssdb",
   "url":"http://beta.quicklisp.org/archive/cl-ssdb/2021-01-24/cl-ssdb-20210124-git.tgz",
-  "repository":"https://github.com/muyinliu/cl-ssdb.git"
+  "repository":"https://github.com/muyinliu/cl-ssdb.git",
+  "keywords":
+  [
+  ]
 }

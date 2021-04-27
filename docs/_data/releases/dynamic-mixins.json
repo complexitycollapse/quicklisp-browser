@@ -1,5 +1,8 @@
 {
   "name":"dynamic-mixins",
   "url":"http://beta.quicklisp.org/archive/dynamic-mixins/2018-10-18/dynamic-mixins-20181018-git.tgz",
-  "repository":"https://github.com/rpav/dynamic-mixins.git"
+  "repository":"https://github.com/rpav/dynamic-mixins.git",
+  "keywords":
+  [
+  ]
 }

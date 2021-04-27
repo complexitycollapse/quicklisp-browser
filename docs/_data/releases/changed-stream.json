@@ -1,5 +1,8 @@
 {
   "name":"changed-stream",
   "url":"http://beta.quicklisp.org/archive/changed-stream/2013-01-28/changed-stream-20130128-git.tgz",
-  "repository":"https://github.com/WarrenWilkinson/changed-stream.git"
+  "repository":"https://github.com/WarrenWilkinson/changed-stream.git",
+  "keywords":
+  [
+  ]
 }

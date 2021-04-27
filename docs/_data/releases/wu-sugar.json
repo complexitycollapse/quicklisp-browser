@@ -1,5 +1,8 @@
 {
   "name":"wu-sugar",
   "url":"http://beta.quicklisp.org/archive/wu-sugar/2016-08-25/wu-sugar-20160825-git.tgz",
-  "repository":"https://github.com/Wukix/wu-sugar.git"
+  "repository":"https://github.com/Wukix/wu-sugar.git",
+  "keywords":
+  [
+  ]
 }

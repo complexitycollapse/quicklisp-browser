@@ -1,5 +1,8 @@
 {
   "name":"evaled-when",
   "url":"http://beta.quicklisp.org/archive/evaled-when/2020-09-25/evaled-when_1.0.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/evaled-when_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/evaled-when_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

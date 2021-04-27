@@ -1,5 +1,8 @@
 {
   "name":"glkit",
   "url":"http://beta.quicklisp.org/archive/glkit/2020-10-16/glkit-20201016-git.tgz",
-  "repository":"https://github.com/lispgames/glkit.git"
+  "repository":"https://github.com/lispgames/glkit.git",
+  "keywords":
+  [
+  ]
 }

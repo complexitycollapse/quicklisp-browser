@@ -1,5 +1,8 @@
 {
   "name":"clavier",
   "url":"http://beta.quicklisp.org/archive/clavier/2017-08-30/clavier-20170830-git.tgz",
-  "repository":"https://github.com/mmontone/clavier.git"
+  "repository":"https://github.com/mmontone/clavier.git",
+  "keywords":
+  [
+  ]
 }

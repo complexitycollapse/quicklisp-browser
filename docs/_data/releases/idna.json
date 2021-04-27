@@ -1,5 +1,8 @@
 {
   "name":"idna",
   "url":"http://beta.quicklisp.org/archive/idna/2012-01-07/idna-20120107-git.tgz",
-  "repository":"https://github.com/antifuchs/idna"
+  "repository":"https://github.com/antifuchs/idna",
+  "keywords":
+  [
+  ]
 }

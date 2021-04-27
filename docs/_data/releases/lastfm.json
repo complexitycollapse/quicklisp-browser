@@ -1,5 +1,8 @@
 {
   "name":"lastfm",
   "url":"http://beta.quicklisp.org/archive/lastfm/2019-10-07/lastfm-20191007-git.tgz",
-  "repository":"https://github.com/mihaiolteanu/lastfm.git"
+  "repository":"https://github.com/mihaiolteanu/lastfm.git",
+  "keywords":
+  [
+  ]
 }

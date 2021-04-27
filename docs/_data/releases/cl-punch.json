@@ -1,5 +1,8 @@
 {
   "name":"cl-punch",
   "url":"http://beta.quicklisp.org/archive/cl-punch/2019-01-07/cl-punch-20190107-git.tgz",
-  "repository":"https://github.com/windymelt/cl-punch.git"
+  "repository":"https://github.com/windymelt/cl-punch.git",
+  "keywords":
+  [
+  ]
 }

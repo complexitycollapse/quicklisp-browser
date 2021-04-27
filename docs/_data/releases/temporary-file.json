@@ -1,5 +1,8 @@
 {
   "name":"temporary-file",
   "url":"http://beta.quicklisp.org/archive/temporary-file/2015-06-08/temporary-file-20150608-git.tgz",
-  "repository":"https://github.com/hanshuebner/temporary-file.git"
+  "repository":"https://github.com/hanshuebner/temporary-file.git",
+  "keywords":
+  [
+  ]
 }

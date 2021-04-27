@@ -1,5 +1,8 @@
 {
   "name":"js",
   "url":"http://beta.quicklisp.org/archive/js/2018-01-31/js-20180131-git.tgz",
-  "repository":"https://github.com/akapav/js.git"
+  "repository":"https://github.com/akapav/js.git",
+  "keywords":
+  [
+  ]
 }

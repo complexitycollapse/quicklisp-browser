@@ -1,5 +1,8 @@
 {
   "name":"piggyback-parameters",
   "url":"http://beta.quicklisp.org/archive/piggyback-parameters/2020-06-10/piggyback-parameters-20200610-git.tgz",
-  "repository":"https://gitlab.com/ediethelm/piggyback-parameters.git"
+  "repository":"https://gitlab.com/ediethelm/piggyback-parameters.git",
+  "keywords":
+  [
+  ]
 }

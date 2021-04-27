@@ -1,5 +1,8 @@
 {
   "name":"magicffi",
   "url":"http://beta.quicklisp.org/archive/magicffi/2020-09-25/magicffi-20200925-git.tgz",
-  "repository":"https://github.com/guicho271828/magicffi.git"
+  "repository":"https://github.com/guicho271828/magicffi.git",
+  "keywords":
+  [
+  ]
 }

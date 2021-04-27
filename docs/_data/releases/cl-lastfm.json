@@ -1,5 +1,8 @@
 {
   "name":"cl-lastfm",
   "url":"http://beta.quicklisp.org/archive/cl-lastfm/2014-07-13/cl-lastfm-0.2.1.tgz",
-  "repository":"https://github.com/nlamirault/cl-lastfm/archive/0.2.1.tar.gz"
+  "repository":"https://github.com/nlamirault/cl-lastfm/archive/0.2.1.tar.gz",
+  "keywords":
+  [
+  ]
 }

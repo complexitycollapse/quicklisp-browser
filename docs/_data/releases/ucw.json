@@ -1,5 +1,8 @@
 {
   "name":"ucw",
   "url":"http://beta.quicklisp.org/archive/ucw/2016-02-08/ucw-20160208-darcs.tgz",
-  "repository":"https://gitlab.common-lisp.net/ucw/ucw-core.git"
+  "repository":"https://gitlab.common-lisp.net/ucw/ucw-core.git",
+  "keywords":
+  [
+  ]
 }

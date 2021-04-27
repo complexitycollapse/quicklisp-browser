@@ -1,5 +1,8 @@
 {
   "name":"pretty-function",
   "url":"http://beta.quicklisp.org/archive/pretty-function/2013-06-15/pretty-function-20130615-git.tgz",
-  "repository":"https://github.com/nallen05/pretty-function.git"
+  "repository":"https://github.com/nallen05/pretty-function.git",
+  "keywords":
+  [
+  ]
 }

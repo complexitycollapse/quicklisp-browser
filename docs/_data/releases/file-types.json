@@ -1,5 +1,8 @@
 {
   "name":"file-types",
   "url":"http://beta.quicklisp.org/archive/file-types/2016-09-29/file-types-20160929-git.tgz",
-  "repository":"https://github.com/eugeneia/file-types.git"
+  "repository":"https://github.com/eugeneia/file-types.git",
+  "keywords":
+  [
+  ]
 }

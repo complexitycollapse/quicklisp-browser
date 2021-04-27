@@ -1,5 +1,8 @@
 {
   "name":"cesdi",
   "url":"http://beta.quicklisp.org/archive/cesdi/2020-07-15/cesdi_1.0.1.tgz",
-  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/cesdi_latest.tar.gz"
+  "repository":"https://tarballs.hexstreamsoft.com/libraries/latest/cesdi_latest.tar.gz",
+  "keywords":
+  [
+  ]
 }

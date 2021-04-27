@@ -1,5 +1,8 @@
 {
   "name":"monkeylib-prose-diff",
   "url":"http://beta.quicklisp.org/archive/monkeylib-prose-diff/2014-07-13/monkeylib-prose-diff-20140713-git.tgz",
-  "repository":"https://github.com/gigamonkey/monkeylib-prose-diff.git"
+  "repository":"https://github.com/gigamonkey/monkeylib-prose-diff.git",
+  "keywords":
+  [
+  ]
 }

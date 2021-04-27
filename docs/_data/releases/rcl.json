@@ -1,5 +1,8 @@
 {
   "name":"rcl",
   "url":"http://beta.quicklisp.org/archive/rcl/2020-12-20/rcl-20201220-http.tgz",
-  "repository":"https://common-lisp.net/project/rcl/rcl.tar.gz"
+  "repository":"https://common-lisp.net/project/rcl/rcl.tar.gz",
+  "keywords":
+  [
+  ]
 }

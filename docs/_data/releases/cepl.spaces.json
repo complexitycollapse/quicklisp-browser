@@ -1,5 +1,8 @@
 {
   "name":"cepl.spaces",
   "url":"http://beta.quicklisp.org/archive/cepl.spaces/2018-03-28/cepl.spaces-release-quicklisp-c7f83f26-git.tgz",
-  "repository":"https://github.com/cbaggers/cepl.spaces.git"
+  "repository":"https://github.com/cbaggers/cepl.spaces.git",
+  "keywords":
+  [
+  ]
 }
