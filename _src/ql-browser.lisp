@@ -22,8 +22,9 @@
   (subdir "docs" "_data" "releases"))
 
 (defun prepare-directories (dist)
-  (cl-fad:delete-directory-and-files (subdir "docs" "_data" "releases") :if-does-not-exist :ignore)
+  (cl-fad:delete-directory-and-files (projects-directory) :if-does-not-exist :ignore)
   (ensure-directories-exist (subdir (download-directory dist) "releases"))
+  (ensure-directories-exist (subdir (download-directory dist) "readmes"))
   (ensure-directories-exist (projects-directory)))
 
 (defun save-page (url pathname)
@@ -170,7 +171,7 @@
   (with-open-file (s (merge-pathnames "stoplist.txt" (subdir "_src")))
     (extract-words (with-output-to-string (o) (loop for c = (read-char s nil nil) while c do (write-char c o))))))
 
-(defun get-top-words (word-pairs &optional (count 10) (min (/ (cdar word-pairs) 3)))
+(defun get-top-words (word-pairs &optional (count 10) (min (if word-pairs (/ (cdar word-pairs) 3) 0)))
   (cond ((endp word-pairs) nil)
 	((zerop count) nil)
 	((< (cdar word-pairs) min) nil)
