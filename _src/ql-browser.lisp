@@ -108,6 +108,13 @@
   (prepare-directories dist)
   (generate (second (download-dist-details dist))))
 
+(defun download-readme (name dist)
+  (let* ((repo (second (get-repo name)))
+	 (readme (if (is-github-repo repo) (get-readme repo)))
+	 (directory (subdir (download-directory dist) "readmes")))
+    (if readme (with-open-file (s (merge-pathnames name directory) :direction :output :if-exists :supersede)
+		 (princ readme s)))))
+
 (defun get-readme (project-url)
   (let ((readme (or (get-github-file project-url "README.md")
 		    (get-github-file project-url "README.txt")
@@ -118,7 +125,7 @@
     readme))
 
 (defun is-github-repo (project-url)
-  (string= "https://github.com" project-url :end2 18))
+  (and (> (length project-url) 18) (string= "https://github.com" project-url :end2 18)))
 
 (defun get-github-file (project-url filename)
   (destructuring-bind (owner repo &rest _) (cl-utilities:split-sequence #\/ project-url :start 19)

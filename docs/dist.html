@@ -42,9 +42,10 @@
         <th>Repository</th>
         <th>Keywords</th>
       </tr>
-      {% for release_hash in site.data.releases %}
-      {% assign release = release_hash[1] %}
-        <tr>
+      {%- assign releases = site.data.releases | sort -%}
+      {% for release_hash in releases %}
+        {% assign release = release_hash[1] %}
+        <tr class="item">
           <td>{{ release.name }}</td>
           <td>{{ release.repository }}</td>
           <td>
